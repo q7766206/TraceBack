@@ -78,4 +78,4 @@ cd frontend && npm run dev
 - **后端**：Python + Flask + Zep Cloud (GraphRAG) + OpenAI SDK
 - **前端**：Vue 3 + Vite + D3.js
 - **知识图谱**：Zep Cloud（免费额度即可使用）
-- **LLM**：支持任意 OpenAI 格式 API（推荐 qwen-plus / GPT-4o / DeepSeek-R1）
+- **LLM**：支持任意 OpenAI 格式 API（推荐 qwen-plus / GPT-4o / DeepSeek-v3-2为主力模型）（doubao-seed-2.0-pro为推理模型doubao-seed-2.0mini为轻量模型Zep Cloud为图谱模型bocha为搜索引擎，当然有免费的，以上推荐会有更精准的反推结果，模型配置可随意搭配）
