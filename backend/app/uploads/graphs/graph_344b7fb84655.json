@@ -1,0 +1,1351 @@
+{
+  "nodes": {
+    "a4e7cc89-46e": {
+      "uuid": "a4e7cc89-46e",
+      "name": "MH370航班失踪事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚航空公司MH370航班失踪事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本标题",
+        "description": "马来西亚航空公司MH370航班的失踪事件，是分析文档的核心主题"
+      },
+      "created_at": "2026-03-11T17:26:27.515924",
+      "updated_at": "2026-03-11T17:26:27.515924"
+    },
+    "731f03c5-8fa": {
+      "uuid": "731f03c5-8fa",
+      "name": "马来西亚航空公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "航空公司",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "MH370航班的运营方"
+      },
+      "created_at": "2026-03-11T17:26:27.517905",
+      "updated_at": "2026-03-11T17:26:27.517905"
+    },
+    "dba39999-085": {
+      "uuid": "dba39999-085",
+      "name": "MH370航班起飞",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班从吉隆坡起飞事件",
+      "attributes": {
+        "timestamp": "2014-03-08T00:41:00+08:00",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "于2014年3月8日凌晨0时41分（马来西亚时间）从吉隆坡国际机场起飞"
+      },
+      "created_at": "2026-03-11T17:26:27.519905",
+      "updated_at": "2026-03-11T17:26:27.519905"
+    },
+    "dd76b533-75e": {
+      "uuid": "dd76b533-75e",
+      "name": "波音777-200ER (9M-MRO)",
+      "labels": [
+        "Aircraft"
+      ],
+      "summary": "注册编号9M-MRO的飞机",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "马来西亚航空公司MH370航班所使用的波音777-200ER型客机"
+      },
+      "created_at": "2026-03-11T17:26:27.520905",
+      "updated_at": "2026-03-11T17:26:27.520905"
+    },
+    "9c10bf6c-12f": {
+      "uuid": "9c10bf6c-12f",
+      "name": "吉隆坡国际机场",
+      "labels": [
+        "Location"
+      ],
+      "summary": "机场在吉隆坡; 航班起飞地点; MH370起飞地点",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "MH370航班的起飞地点，简称KLIA"
+      },
+      "created_at": "2026-03-11T17:26:27.522903",
+      "updated_at": "2026-03-11T17:33:00.032289"
+    },
+    "8d09a507-ba8": {
+      "uuid": "8d09a507-ba8",
+      "name": "北京首都国际机场",
+      "labels": [
+        "Location"
+      ],
+      "summary": "机场在北京; 航班计划抵达地点",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "MH370航班原定的目的地机场"
+      },
+      "created_at": "2026-03-11T17:26:27.525294",
+      "updated_at": "2026-03-11T17:26:58.925480"
+    },
+    "649b9ff1-e2f": {
+      "uuid": "649b9ff1-e2f",
+      "name": "MH370航班",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马航MH370航班飞行事件",
+      "attributes": {
+        "timestamp": "00:41（马来西亚时间，UTC+8）",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "从吉隆坡飞往北京的航班，机上载有239人"
+      },
+      "created_at": "2026-03-11T17:26:58.916772",
+      "updated_at": "2026-03-11T17:26:58.916772"
+    },
+    "328359a6-612": {
+      "uuid": "328359a6-612",
+      "name": "波音777-200ER",
+      "labels": [
+        "Aircraft"
+      ],
+      "summary": "涉事飞机型号",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "双发宽体客机，注册编号9M-MRO，机龄11年9个月"
+      },
+      "created_at": "2026-03-11T17:26:58.928997",
+      "updated_at": "2026-03-11T17:26:58.928997"
+    },
+    "5e039bcb-dbd": {
+      "uuid": "5e039bcb-dbd",
+      "name": "罗尔斯·罗伊斯Trent 892B-17",
+      "labels": [
+        "AircraftPart"
+      ],
+      "summary": "飞机发动机型号",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "两台该型号发动机"
+      },
+      "created_at": "2026-03-11T17:26:58.932073",
+      "updated_at": "2026-03-11T17:26:58.932073"
+    },
+    "abe2378b-779": {
+      "uuid": "abe2378b-779",
+      "name": "机上人员",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "乘客和机组人员信息",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "共239人：227名乘客（含153名中国大陆公民）和12名机组人员"
+      },
+      "created_at": "2026-03-11T17:26:58.936031",
+      "updated_at": "2026-03-11T17:26:58.936031"
+    },
+    "5d324428-725": {
+      "uuid": "5d324428-725",
+      "name": "MH370航班事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班失联事件",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "涉及乘客、机组人员和特定货物的航班事件"
+      },
+      "created_at": "2026-03-11T17:29:47.578743",
+      "updated_at": "2026-03-11T17:29:47.578743"
+    },
+    "c76d7fcd-794": {
+      "uuid": "c76d7fcd-794",
+      "name": "假护照登机事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "乘客使用假护照登机",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "两名伊朗乘客使用被盗护照登机"
+      },
+      "created_at": "2026-03-11T17:29:47.582248",
+      "updated_at": "2026-03-11T17:29:47.582248"
+    },
+    "1fea4754-08e": {
+      "uuid": "1fea4754-08e",
+      "name": "扎哈里·艾哈迈德·沙阿",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370机长",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "53岁，总飞行时间18,365小时，波音777机型经验8,659小时"
+      },
+      "created_at": "2026-03-11T17:29:47.585756",
+      "updated_at": "2026-03-11T17:29:47.585756"
+    },
+    "48822f2b-a37": {
+      "uuid": "48822f2b-a37",
+      "name": "法里克·阿卜杜勒·哈米德",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370副驾驶",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "27岁，总飞行时间2,763小时，正在进行波音777机型过渡训练"
+      },
+      "created_at": "2026-03-11T17:29:47.588751",
+      "updated_at": "2026-03-11T17:29:47.588751"
+    },
+    "9993ae31-76a": {
+      "uuid": "9993ae31-76a",
+      "name": "普里亚·努尔·穆罕默德·迈赫达德",
+      "labels": [
+        "Person"
+      ],
+      "summary": "持假护照乘客",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "19岁伊朗籍乘客，使用被盗奥地利护照"
+      },
+      "created_at": "2026-03-11T17:29:47.591749",
+      "updated_at": "2026-03-11T17:29:47.591749"
+    },
+    "18992ce5-ece": {
+      "uuid": "18992ce5-ece",
+      "name": "德拉瓦尔·赛义德·穆罕默德·雷扎",
+      "labels": [
+        "Person"
+      ],
+      "summary": "持假护照乘客",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "29岁伊朗籍乘客，使用被盗意大利护照"
+      },
+      "created_at": "2026-03-11T17:29:47.595280",
+      "updated_at": "2026-03-11T17:29:47.595280"
+    },
+    "e4b30fdb-0f7": {
+      "uuid": "e4b30fdb-0f7",
+      "name": "被盗护照",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "被盗的奥地利和意大利护照",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "被伊朗乘客用于登机的伪造旅行证件"
+      },
+      "created_at": "2026-03-11T17:29:47.598300",
+      "updated_at": "2026-03-11T17:29:47.598300"
+    },
+    "9285795e-352": {
+      "uuid": "9285795e-352",
+      "name": "马来西亚机场安检系统",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "马来西亚机场安全机构",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "负责护照查验的机场安全系统"
+      },
+      "created_at": "2026-03-11T17:29:47.601811",
+      "updated_at": "2026-03-11T17:29:47.601811"
+    },
+    "bf756720-711": {
+      "uuid": "bf756720-711",
+      "name": "SLTD数据库",
+      "labels": [
+        "TechnicalData"
+      ],
+      "summary": "国际刑警组织被盗和遗失旅行证件数据库",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "用于比对付失旅行证件的全球数据库"
+      },
+      "created_at": "2026-03-11T17:29:47.605888",
+      "updated_at": "2026-03-11T17:29:47.605888"
+    },
+    "5e3b0dd8-71e": {
+      "uuid": "5e3b0dd8-71e",
+      "name": "山竹果货物",
+      "labels": [
+        "Cargo"
+      ],
+      "summary": "运输的新鲜山竹果; 5吨新鲜山竹果装载于货舱前部",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "约4,566公斤山竹果，装载于货舱前部"
+      },
+      "created_at": "2026-03-11T17:29:47.609403",
+      "updated_at": "2026-03-11T17:32:59.970835"
+    },
+    "52e097ed-ca5": {
+      "uuid": "52e097ed-ca5",
+      "name": "锂离子电池货物",
+      "labels": [
+        "Cargo"
+      ],
+      "summary": "运输的摩托罗拉锂离子电池; 221公斤摩托罗拉锂离子电池",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本内容",
+        "description": "221公斤锂离子电池，由飞达物流公司托运"
+      },
+      "created_at": "2026-03-11T17:29:47.612916",
+      "updated_at": "2026-03-11T17:32:59.979342"
+    },
+    "9ad28f46-af5": {
+      "uuid": "9ad28f46-af5",
+      "name": "MH370起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班从吉隆坡国际机场起飞",
+      "attributes": {
+        "timestamp": "2014-03-08 00:41 MYT",
+        "credibility_score": "0.7",
+        "source": "文本时间线",
+        "description": "MH370从吉隆坡国际机场27L跑道起飞"
+      },
+      "created_at": "2026-03-11T17:32:59.961798",
+      "updated_at": "2026-03-11T17:32:59.961798"
+    },
+    "97c34ed9-96c": {
+      "uuid": "97c34ed9-96c",
+      "name": "扎哈里模拟飞行",
+      "labels": [
+        "Event"
+      ],
+      "summary": "机长扎哈里在家中进行飞行模拟",
+      "attributes": {
+        "timestamp": "2014-03-07",
+        "credibility_score": "0.7",
+        "source": "文本时间线",
+        "description": "扎哈里在飞行模拟器上执行了从吉隆坡经马六甲海峡至南印度洋的航线模拟"
+      },
+      "created_at": "2026-03-11T17:32:59.965304",
+      "updated_at": "2026-03-11T17:32:59.965304"
+    },
+    "da6255ed-08f": {
+      "uuid": "da6255ed-08f",
+      "name": "神秘货物",
+      "labels": [
+        "Cargo"
+      ],
+      "summary": "89公斤未明确描述的货物",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本货物描述",
+        "description": "货运单描述模糊的89公斤货物"
+      },
+      "created_at": "2026-03-11T17:32:59.985374",
+      "updated_at": "2026-03-11T17:32:59.985374"
+    },
+    "4654e757-94a": {
+      "uuid": "4654e757-94a",
+      "name": "未说明物品",
+      "labels": [
+        "Cargo"
+      ],
+      "summary": "90.72公斤未详细说明的货物",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本货物描述",
+        "description": "起飞前装载的约90.72公斤物品"
+      },
+      "created_at": "2026-03-11T17:32:59.990822",
+      "updated_at": "2026-03-11T17:32:59.990822"
+    },
+    "3f4fe027-a85": {
+      "uuid": "3f4fe027-a85",
+      "name": "扎哈里",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370航班机长",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本人员描述",
+        "description": "在家中进行飞行模拟的机长"
+      },
+      "created_at": "2026-03-11T17:32:59.998227",
+      "updated_at": "2026-03-11T17:32:59.998227"
+    },
+    "03d138c4-5ac": {
+      "uuid": "03d138c4-5ac",
+      "name": "法里克",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370航班副驾驶",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本人员描述",
+        "description": "在波音777上第5次飞行的副驾驶"
+      },
+      "created_at": "2026-03-11T17:33:00.004787",
+      "updated_at": "2026-03-11T17:33:00.004787"
+    },
+    "d694e012-afd": {
+      "uuid": "d694e012-afd",
+      "name": "美国联邦调查局",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "调查机构",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本证据描述",
+        "description": "恢复扎哈里硬盘数据的机构"
+      },
+      "created_at": "2026-03-11T17:33:00.011774",
+      "updated_at": "2026-03-11T17:33:00.011774"
+    },
+    "3cdea172-86c": {
+      "uuid": "3cdea172-86c",
+      "name": "马来西亚当局",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "政府机构",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本货物描述",
+        "description": "未公开货物完整清单的机构"
+      },
+      "created_at": "2026-03-11T17:33:00.016276",
+      "updated_at": "2026-03-11T17:33:00.016276"
+    },
+    "56899fbb-c98": {
+      "uuid": "56899fbb-c98",
+      "name": "FBI恢复的硬盘数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "从扎哈里硬盘恢复的模拟航线数据",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本证据描述",
+        "description": "包含吉隆坡至南印度洋模拟航线的被删除数据"
+      },
+      "created_at": "2026-03-11T17:33:00.021779",
+      "updated_at": "2026-03-11T17:33:00.021779"
+    },
+    "f4996260-7fc": {
+      "uuid": "f4996260-7fc",
+      "name": "模拟航线数据",
+      "labels": [
+        "TechnicalData"
+      ],
+      "summary": "与MH370实际路径吻合的模拟数据",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本证据描述",
+        "description": "显示从吉隆坡经马六甲海峡向南飞行的路线"
+      },
+      "created_at": "2026-03-11T17:33:00.026787",
+      "updated_at": "2026-03-11T17:33:00.026787"
+    },
+    "8ede7df9-a7d": {
+      "uuid": "8ede7df9-a7d",
+      "name": "马六甲海峡",
+      "labels": [
+        "Location"
+      ],
+      "summary": "模拟航线经过的海域",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本证据描述",
+        "description": "模拟航线中的关键地理位置"
+      },
+      "created_at": "2026-03-11T17:33:00.036792",
+      "updated_at": "2026-03-11T17:33:00.036792"
+    },
+    "2087c711-852": {
+      "uuid": "2087c711-852",
+      "name": "南印度洋",
+      "labels": [
+        "Location"
+      ],
+      "summary": "模拟航线终点",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本证据描述",
+        "description": "模拟航线中燃油耗尽的区域"
+      },
+      "created_at": "2026-03-11T17:33:00.042806",
+      "updated_at": "2026-03-11T17:33:00.042806"
+    },
+    "caa8d017-6f4": {
+      "uuid": "caa8d017-6f4",
+      "name": "飞达物流公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "锂离子电池托运方",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本货物描述",
+        "description": "托运摩托罗拉锂离子电池的公司"
+      },
+      "created_at": "2026-03-11T17:33:00.049826",
+      "updated_at": "2026-03-11T17:33:00.049826"
+    },
+    "31a8f014-d05": {
+      "uuid": "31a8f014-d05",
+      "name": "MH370起飞",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班从吉隆坡国际机场起飞事件",
+      "attributes": {
+        "timestamp": "00:41 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "航班于00:41 MYT从吉隆坡国际机场27L跑道起飞"
+      },
+      "created_at": "2026-03-11T17:33:49.713340",
+      "updated_at": "2026-03-11T17:33:49.713340"
+    },
+    "461fbcc6-e09": {
+      "uuid": "461fbcc6-e09",
+      "name": "应答机工作正常",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370应答机正常运行事件",
+      "attributes": {
+        "timestamp": "00:42 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "应答机显示航班号MH370，飞行高度爬升至FL350"
+      },
+      "created_at": "2026-03-11T17:33:49.723336",
+      "updated_at": "2026-03-11T17:33:49.723336"
+    },
+    "398cacd0-5c2": {
+      "uuid": "398cacd0-5c2",
+      "name": "进入巡航高度",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370达到巡航高度事件",
+      "attributes": {
+        "timestamp": "01:01 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "飞机到达35,000英尺巡航高度，进入南海上空"
+      },
+      "created_at": "2026-03-11T17:33:49.729353",
+      "updated_at": "2026-03-11T17:33:49.729353"
+    },
+    "757748a8-a1a": {
+      "uuid": "757748a8-a1a",
+      "name": "ACARS数据报告",
+      "labels": [
+        "Event"
+      ],
+      "summary": "ACARS系统发送最后一次自动报告",
+      "attributes": {
+        "timestamp": "01:07 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "发送发动机性能、燃油消耗等参数，一切正常"
+      },
+      "created_at": "2026-03-11T17:33:49.736366",
+      "updated_at": "2026-03-11T17:33:49.736366"
+    },
+    "86022260-29a": {
+      "uuid": "86022260-29a",
+      "name": "副驾驶通信",
+      "labels": [
+        "Event"
+      ],
+      "summary": "副驾驶最后一次无线电通信",
+      "attributes": {
+        "timestamp": "01:19:24 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "副驾驶回复吉隆坡空管指令：Good night, Malaysian Three Seven Zero"
+      },
+      "created_at": "2026-03-11T17:33:49.743390",
+      "updated_at": "2026-03-11T17:33:49.743390"
+    },
+    "afc51f2f-eba": {
+      "uuid": "afc51f2f-eba",
+      "name": "应答机信号消失",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370应答机信号停止事件",
+      "attributes": {
+        "timestamp": "01:20:36 MYT",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "飞机越过IGARI航路点后应答机信号消失"
+      },
+      "created_at": "2026-03-11T17:33:49.750415",
+      "updated_at": "2026-03-11T17:33:49.750415"
+    },
+    "7164f3bf-92d": {
+      "uuid": "7164f3bf-92d",
+      "name": "应答机",
+      "labels": [
+        "AircraftPart"
+      ],
+      "summary": "飞机应答机设备",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接提及",
+        "description": "用于发送航班号和高度的电子设备"
+      },
+      "created_at": "2026-03-11T17:33:49.757444",
+      "updated_at": "2026-03-11T17:33:49.757444"
+    },
+    "6780b120-b06": {
+      "uuid": "6780b120-b06",
+      "name": "副驾驶Fariq",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370副驾驶",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接命名",
+        "description": "执行最后一次无线电通信的机组人员"
+      },
+      "created_at": "2026-03-11T17:33:49.766404",
+      "updated_at": "2026-03-11T17:33:49.766404"
+    },
+    "e5c60d33-2b7": {
+      "uuid": "e5c60d33-2b7",
+      "name": "吉隆坡空管中心",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "马来西亚空中交通管制机构",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接提及",
+        "description": "负责MH370航班初期管制的机构"
+      },
+      "created_at": "2026-03-11T17:33:49.781053",
+      "updated_at": "2026-03-11T17:33:49.781053"
+    },
+    "ca51eff3-469": {
+      "uuid": "ca51eff3-469",
+      "name": "胡志明空管中心",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "越南空中交通管制机构",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接提及",
+        "description": "MH370计划移交管制的下一个机构"
+      },
+      "created_at": "2026-03-11T17:33:49.795070",
+      "updated_at": "2026-03-11T17:33:49.795070"
+    },
+    "a620c220-f09": {
+      "uuid": "a620c220-f09",
+      "name": "IGARI航路点",
+      "labels": [
+        "Location"
+      ],
+      "summary": "马来西亚与越南空域边界点",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接描述",
+        "description": "飞行情报区交界处的导航定位点"
+      },
+      "created_at": "2026-03-11T17:33:49.806061",
+      "updated_at": "2026-03-11T17:33:49.806061"
+    },
+    "30121ec5-367": {
+      "uuid": "30121ec5-367",
+      "name": "南海",
+      "labels": [
+        "Location"
+      ],
+      "summary": "南中国海区域",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "文本直接提及",
+        "description": "MH370进入的海洋空域"
+      },
+      "created_at": "2026-03-11T17:33:49.812831",
+      "updated_at": "2026-03-11T17:33:49.812831"
+    },
+    "b7f4ab80-b35": {
+      "uuid": "b7f4ab80-b35",
+      "name": "手动关闭操作",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "应答机人为关闭状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "1.0",
+        "source": "调查结论",
+        "description": "需在驾驶舱内有意识操作的设备状态变更"
+      },
+      "created_at": "2026-03-11T17:33:49.823847",
+      "updated_at": "2026-03-11T17:33:49.823847"
+    }
+  },
+  "edges": {
+    "6529e94c-0dd": {
+      "uuid": "6529e94c-0dd",
+      "name": "PARTICIPATED_IN",
+      "fact": "马来西亚航空公司参与了MH370航班失踪事件",
+      "source_node_uuid": "731f03c5-8fa",
+      "target_node_uuid": "a4e7cc89-46e",
+      "source_node_name": "马来西亚航空公司",
+      "target_node_name": "MH370航班失踪事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:27.527279",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d7958022-4a8": {
+      "uuid": "d7958022-4a8",
+      "name": "INVOLVES",
+      "fact": "MH370航班起飞事件涉及波音777-200ER (9M-MRO)飞机",
+      "source_node_uuid": "dba39999-085",
+      "target_node_uuid": "dd76b533-75e",
+      "source_node_name": "MH370航班起飞",
+      "target_node_name": "波音777-200ER (9M-MRO)",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:27.596378",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5719ae37-9e8": {
+      "uuid": "5719ae37-9e8",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班起飞事件发生在吉隆坡国际机场",
+      "source_node_uuid": "dba39999-085",
+      "target_node_uuid": "9c10bf6c-12f",
+      "source_node_name": "MH370航班起飞",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:27.598898",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e0a34a60-1f4": {
+      "uuid": "e0a34a60-1f4",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班事件发生在吉隆坡国际机场",
+      "source_node_uuid": "649b9ff1-e2f",
+      "target_node_uuid": "9c10bf6c-12f",
+      "source_node_name": "MH370航班",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:58.939559",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2b0586e5-627": {
+      "uuid": "2b0586e5-627",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班计划抵达北京首都国际机场",
+      "source_node_uuid": "649b9ff1-e2f",
+      "target_node_uuid": "8d09a507-ba8",
+      "source_node_name": "MH370航班",
+      "target_node_name": "北京首都国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:58.941538",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b19578f7-c09": {
+      "uuid": "b19578f7-c09",
+      "name": "HAS_PART",
+      "fact": "波音777-200ER飞机配备两台罗尔斯·罗伊斯Trent 892B-17发动机",
+      "source_node_uuid": "328359a6-612",
+      "target_node_uuid": "5e039bcb-dbd",
+      "source_node_name": "波音777-200ER",
+      "target_node_name": "罗尔斯·罗伊斯Trent 892B-17",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:58.944043",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3da1ff12-148": {
+      "uuid": "3da1ff12-148",
+      "name": "INVOLVES",
+      "fact": "MH370航班事件涉及波音777-200ER飞机",
+      "source_node_uuid": "649b9ff1-e2f",
+      "target_node_uuid": "328359a6-612",
+      "source_node_name": "MH370航班",
+      "target_node_name": "波音777-200ER",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:58.946561",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0c59bebe-578": {
+      "uuid": "0c59bebe-578",
+      "name": "INVOLVES",
+      "fact": "MH370航班事件涉及机上239名人员",
+      "source_node_uuid": "649b9ff1-e2f",
+      "target_node_uuid": "abe2378b-779",
+      "source_node_name": "MH370航班",
+      "target_node_name": "机上人员",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:26:58.949657",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c25006e2-d93": {
+      "uuid": "c25006e2-d93",
+      "name": "SUPPORTED_BY",
+      "fact": "假护照登机事件由被盗护照证据支持",
+      "source_node_uuid": "c76d7fcd-794",
+      "target_node_uuid": "e4b30fdb-0f7",
+      "source_node_name": "假护照登机事件",
+      "target_node_name": "被盗护照",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T17:29:47.616430",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1531adca-bea": {
+      "uuid": "1531adca-bea",
+      "name": "CAUSED_BY",
+      "fact": "假护照登机事件由马来西亚机场安检系统漏洞导致",
+      "source_node_uuid": "c76d7fcd-794",
+      "target_node_uuid": "9285795e-352",
+      "source_node_name": "假护照登机事件",
+      "target_node_name": "马来西亚机场安检系统",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T17:29:47.619942",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "535565d0-43a": {
+      "uuid": "535565d0-43a",
+      "name": "CONTRADICTED_BY",
+      "fact": "马来西亚机场安检系统未使用SLTD数据库的行为与其应有功能矛盾",
+      "source_node_uuid": "9285795e-352",
+      "target_node_uuid": "bf756720-711",
+      "source_node_name": "马来西亚机场安检系统",
+      "target_node_name": "SLTD数据库",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:29:47.624457",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "16ac186b-823": {
+      "uuid": "16ac186b-823",
+      "name": "PARTICIPATED_IN",
+      "fact": "扎哈里·艾哈迈德·沙阿作为机长参与了MH370航班事件",
+      "source_node_uuid": "1fea4754-08e",
+      "target_node_uuid": "5d324428-725",
+      "source_node_name": "扎哈里·艾哈迈德·沙阿",
+      "target_node_name": "MH370航班事件",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T17:29:47.628509",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cbeb6d35-bce": {
+      "uuid": "cbeb6d35-bce",
+      "name": "PARTICIPATED_IN",
+      "fact": "法里克·阿卜杜勒·哈米德作为副驾驶参与了MH370航班事件",
+      "source_node_uuid": "48822f2b-a37",
+      "target_node_uuid": "5d324428-725",
+      "source_node_name": "法里克·阿卜杜勒·哈米德",
+      "target_node_name": "MH370航班事件",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T17:29:47.632568",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "eb245e05-500": {
+      "uuid": "eb245e05-500",
+      "name": "INVOLVES",
+      "fact": "MH370航班事件涉及山竹果货物运输",
+      "source_node_uuid": "5d324428-725",
+      "target_node_uuid": "5e3b0dd8-71e",
+      "source_node_name": "MH370航班事件",
+      "target_node_name": "山竹果货物",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:29:47.637061",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "eaffdef0-bbd": {
+      "uuid": "eaffdef0-bbd",
+      "name": "INVOLVES",
+      "fact": "MH370航班事件涉及锂离子电池货物运输",
+      "source_node_uuid": "5d324428-725",
+      "target_node_uuid": "52e097ed-ca5",
+      "source_node_name": "MH370航班事件",
+      "target_node_name": "锂离子电池货物",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:29:47.641056",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2a2139cb-827": {
+      "uuid": "2a2139cb-827",
+      "name": "SUPPORTED_BY",
+      "fact": "扎哈里模拟飞行的细节由FBI恢复的硬盘数据提供证据支持",
+      "source_node_uuid": "97c34ed9-96c",
+      "target_node_uuid": "56899fbb-c98",
+      "source_node_name": "扎哈里模拟飞行",
+      "target_node_name": "FBI恢复的硬盘数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.056331",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d1587316-ab7": {
+      "uuid": "d1587316-ab7",
+      "name": "DERIVED_FROM",
+      "fact": "模拟航线数据是从FBI恢复的硬盘数据中衍生而来",
+      "source_node_uuid": "f4996260-7fc",
+      "target_node_uuid": "56899fbb-c98",
+      "source_node_name": "模拟航线数据",
+      "target_node_name": "FBI恢复的硬盘数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.061375",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bb8c9b96-d1a": {
+      "uuid": "bb8c9b96-d1a",
+      "name": "LOCATED_AT",
+      "fact": "扎哈里模拟飞行起始于吉隆坡国际机场的位置",
+      "source_node_uuid": "97c34ed9-96c",
+      "target_node_uuid": "9c10bf6c-12f",
+      "source_node_name": "扎哈里模拟飞行",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.066857",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "24007c4c-738": {
+      "uuid": "24007c4c-738",
+      "name": "INVOLVES",
+      "fact": "扎哈里模拟飞行涉及飞越马六甲海峡的地理位置",
+      "source_node_uuid": "97c34ed9-96c",
+      "target_node_uuid": "8ede7df9-a7d",
+      "source_node_name": "扎哈里模拟飞行",
+      "target_node_name": "马六甲海峡",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.072372",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1fcf7844-152": {
+      "uuid": "1fcf7844-152",
+      "name": "INVOLVES",
+      "fact": "扎哈里模拟飞行涉及南印度洋作为航线终点",
+      "source_node_uuid": "97c34ed9-96c",
+      "target_node_uuid": "2087c711-852",
+      "source_node_name": "扎哈里模拟飞行",
+      "target_node_name": "南印度洋",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.077398",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8d5086c3-6e5": {
+      "uuid": "8d5086c3-6e5",
+      "name": "PARTICIPATED_IN",
+      "fact": "扎哈里参与了在家中的飞行模拟事件",
+      "source_node_uuid": "3f4fe027-a85",
+      "target_node_uuid": "97c34ed9-96c",
+      "source_node_name": "扎哈里",
+      "target_node_name": "扎哈里模拟飞行",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.082891",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "822f4392-ac0": {
+      "uuid": "822f4392-ac0",
+      "name": "PARTICIPATED_IN",
+      "fact": "法里克参与了MH370起飞事件作为副驾驶",
+      "source_node_uuid": "03d138c4-5ac",
+      "target_node_uuid": "9ad28f46-af5",
+      "source_node_name": "法里克",
+      "target_node_name": "MH370起飞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.088403",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1fd258d2-9f7": {
+      "uuid": "1fd258d2-9f7",
+      "name": "LOCATED_AT",
+      "fact": "MH370起飞事件发生于吉隆坡国际机场的位置",
+      "source_node_uuid": "9ad28f46-af5",
+      "target_node_uuid": "9c10bf6c-12f",
+      "source_node_name": "MH370起飞事件",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.093966",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ae118874-99c": {
+      "uuid": "ae118874-99c",
+      "name": "INVOLVES",
+      "fact": "MH370起飞事件涉及山竹果货物被装载在飞机上",
+      "source_node_uuid": "9ad28f46-af5",
+      "target_node_uuid": "5e3b0dd8-71e",
+      "source_node_name": "MH370起飞事件",
+      "target_node_name": "山竹果货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.100071",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7de11014-d76": {
+      "uuid": "7de11014-d76",
+      "name": "INVOLVES",
+      "fact": "MH370起飞事件涉及锂离子电池货物被装载在飞机上",
+      "source_node_uuid": "9ad28f46-af5",
+      "target_node_uuid": "52e097ed-ca5",
+      "source_node_name": "MH370起飞事件",
+      "target_node_name": "锂离子电池货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.105590",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "845a455a-921": {
+      "uuid": "845a455a-921",
+      "name": "INVOLVES",
+      "fact": "MH370起飞事件涉及神秘货物被装载在飞机上",
+      "source_node_uuid": "9ad28f46-af5",
+      "target_node_uuid": "da6255ed-08f",
+      "source_node_name": "MH370起飞事件",
+      "target_node_name": "神秘货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.111679",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f56539e3-bc3": {
+      "uuid": "f56539e3-bc3",
+      "name": "INVOLVES",
+      "fact": "MH370起飞事件涉及未说明物品被装载在飞机上",
+      "source_node_uuid": "9ad28f46-af5",
+      "target_node_uuid": "4654e757-94a",
+      "source_node_name": "MH370起飞事件",
+      "target_node_name": "未说明物品",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.117323",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5f808a37-a3e": {
+      "uuid": "5f808a37-a3e",
+      "name": "PARTICIPATED_IN",
+      "fact": "飞达物流公司参与了锂离子电池货物的托运过程",
+      "source_node_uuid": "caa8d017-6f4",
+      "target_node_uuid": "52e097ed-ca5",
+      "source_node_name": "飞达物流公司",
+      "target_node_name": "锂离子电池货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.123819",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8ecb2596-a2a": {
+      "uuid": "8ecb2596-a2a",
+      "name": "PRECEDED_BY",
+      "fact": "扎哈里模拟飞行在时间序列上发生于MH370起飞事件之前",
+      "source_node_uuid": "97c34ed9-96c",
+      "target_node_uuid": "9ad28f46-af5",
+      "source_node_name": "扎哈里模拟飞行",
+      "target_node_name": "MH370起飞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.129854",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "97d0c050-8b1": {
+      "uuid": "97d0c050-8b1",
+      "name": "CONTRADICTED_BY",
+      "fact": "马来西亚当局未公开货物清单的行为与神秘货物的存在形成矛盾证据",
+      "source_node_uuid": "3cdea172-86c",
+      "target_node_uuid": "da6255ed-08f",
+      "source_node_name": "马来西亚当局",
+      "target_node_name": "神秘货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-11T17:33:00.136339",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0f6035b9-6d8": {
+      "uuid": "0f6035b9-6d8",
+      "name": "CAUSED_BY",
+      "fact": "应答机信号消失事件是由手动关闭操作导致的",
+      "source_node_uuid": "afc51f2f-eba",
+      "target_node_uuid": "b7f4ab80-b35",
+      "source_node_name": "应答机信号消失",
+      "target_node_name": "手动关闭操作",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T17:33:49.833370",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d5138421-abe": {
+      "uuid": "d5138421-abe",
+      "name": "PARTICIPATED_IN",
+      "fact": "副驾驶Fariq参与了最后一次无线电通信事件",
+      "source_node_uuid": "6780b120-b06",
+      "target_node_uuid": "86022260-29a",
+      "source_node_name": "副驾驶Fariq",
+      "target_node_name": "副驾驶通信",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "1.0"
+      },
+      "created_at": "2026-03-11T17:33:49.841977",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f37a322c-675": {
+      "uuid": "f37a322c-675",
+      "name": "LOCATED_AT",
+      "fact": "进入巡航高度事件发生在南海空域",
+      "source_node_uuid": "398cacd0-5c2",
+      "target_node_uuid": "30121ec5-367",
+      "source_node_name": "进入巡航高度",
+      "target_node_name": "南海",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "1.0"
+      },
+      "created_at": "2026-03-11T17:33:49.848986",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c69ec0c0-086": {
+      "uuid": "c69ec0c0-086",
+      "name": "LOCATED_AT",
+      "fact": "应答机信号消失事件发生在IGARI航路点位置",
+      "source_node_uuid": "afc51f2f-eba",
+      "target_node_uuid": "a620c220-f09",
+      "source_node_name": "应答机信号消失",
+      "target_node_name": "IGARI航路点",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "1.0"
+      },
+      "created_at": "2026-03-11T17:33:49.856546",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "582abecb-e8e": {
+      "uuid": "582abecb-e8e",
+      "name": "PARTICIPATED_IN",
+      "fact": "吉隆坡空管中心参与了副驾驶通信事件",
+      "source_node_uuid": "86022260-29a",
+      "target_node_uuid": "e5c60d33-2b7",
+      "source_node_name": "副驾驶通信",
+      "target_node_name": "吉隆坡空管中心",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "1.0"
+      },
+      "created_at": "2026-03-11T17:33:49.864087",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "869c7723-eee": {
+      "uuid": "869c7723-eee",
+      "name": "SUPPORTED_BY",
+      "fact": "应答机工作正常事件由ACARS数据报告提供支持证据",
+      "source_node_uuid": "757748a8-a1a",
+      "target_node_uuid": "461fbcc6-e09",
+      "source_node_name": "ACARS数据报告",
+      "target_node_name": "应答机工作正常",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T17:33:49.874102",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "65cc6887-b41": {
+      "uuid": "65cc6887-b41",
+      "name": "INVOLVES",
+      "fact": "应答机工作正常事件涉及应答机设备",
+      "source_node_uuid": "461fbcc6-e09",
+      "target_node_uuid": "7164f3bf-92d",
+      "source_node_name": "应答机工作正常",
+      "target_node_name": "应答机",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "1.0"
+      },
+      "created_at": "2026-03-11T17:33:49.883115",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

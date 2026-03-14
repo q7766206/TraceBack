@@ -1,0 +1,311 @@
+{
+  "nodes": {
+    "60dbfc2f-edf": {
+      "uuid": "60dbfc2f-edf",
+      "name": "MH370",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "Malaysia Airlines Flight MH370",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Flight that disappeared on March 8, 2014, after takeoff from Kuala Lumpur."
+      },
+      "created_at": "2026-03-10T20:04:23.042248",
+      "updated_at": "2026-03-10T20:04:23.042248"
+    },
+    "10d9790e-400": {
+      "uuid": "10d9790e-400",
+      "name": "Disappearance",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Disappearance of MH370",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The aircraft went missing after takeoff from Kuala Lumpur."
+      },
+      "created_at": "2026-03-10T20:04:23.044246",
+      "updated_at": "2026-03-10T20:04:23.044246"
+    },
+    "15d6414f-151": {
+      "uuid": "15d6414f-151",
+      "name": "Kuala Lumpur",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Departure location of MH370",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Geographical place from which MH370 departed before disappearing."
+      },
+      "created_at": "2026-03-10T20:04:23.047244",
+      "updated_at": "2026-03-10T20:04:23.047244"
+    },
+    "62ffc051-932": {
+      "uuid": "62ffc051-932",
+      "name": "Transponder",
+      "labels": [
+        "Transponder"
+      ],
+      "summary": "Communication equipment on MH370",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Transponder that was turned off during the flight."
+      },
+      "created_at": "2026-03-10T20:04:23.049243",
+      "updated_at": "2026-03-10T20:04:23.049243"
+    },
+    "09ee30e5-580": {
+      "uuid": "09ee30e5-580",
+      "name": "Transponder Turn-off",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Turning off of the transponder",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The transponder was deactivated, leading to a change in aircraft direction."
+      },
+      "created_at": "2026-03-10T20:04:23.051242",
+      "updated_at": "2026-03-10T20:04:23.051242"
+    },
+    "42b01eeb-cdf": {
+      "uuid": "42b01eeb-cdf",
+      "name": "Aircraft Turn West",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Aircraft changing direction to west",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The aircraft turned westward after the transponder was turned off."
+      },
+      "created_at": "2026-03-10T20:04:23.053241",
+      "updated_at": "2026-03-10T20:04:23.053241"
+    },
+    "1f0d9ebd-92e": {
+      "uuid": "1f0d9ebd-92e",
+      "name": "Satellite",
+      "labels": [
+        "Satellite"
+      ],
+      "summary": "Data collection platform",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Satellite that provided data indicating the crash location."
+      },
+      "created_at": "2026-03-10T20:04:23.055247",
+      "updated_at": "2026-03-10T20:04:23.055247"
+    },
+    "48c2d1cd-8b5": {
+      "uuid": "48c2d1cd-8b5",
+      "name": "Satellite Data",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Data indicating crash location",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Satellite data showing that MH370 crashed into the South Indian Ocean."
+      },
+      "created_at": "2026-03-10T20:04:23.058237",
+      "updated_at": "2026-03-10T20:04:23.058237"
+    },
+    "f42af811-dc4": {
+      "uuid": "f42af811-dc4",
+      "name": "Crash",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Crash of MH370",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The aircraft crashed into the South Indian Ocean as per satellite data."
+      },
+      "created_at": "2026-03-10T20:04:23.061235",
+      "updated_at": "2026-03-10T20:04:23.061235"
+    },
+    "5363a449-21e": {
+      "uuid": "5363a449-21e",
+      "name": "South Indian Ocean",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Ocean region south of India",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Geographical place where MH370 crashed according to satellite data."
+      },
+      "created_at": "2026-03-10T20:04:23.064233",
+      "updated_at": "2026-03-10T20:04:23.064233"
+    },
+    "44284bbf-157": {
+      "uuid": "44284bbf-157",
+      "name": "Flaperon Debris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "Wing flap debris from MH370",
+      "attributes": {
+        "timestamp": "2015",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Physical remnants of the aircraft found on Réunion Island."
+      },
+      "created_at": "2026-03-10T20:04:23.067233",
+      "updated_at": "2026-03-10T20:04:23.067233"
+    },
+    "b60b720a-218": {
+      "uuid": "b60b720a-218",
+      "name": "Réunion Island",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Island in the Indian Ocean",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Geographical place where flaperon debris was discovered."
+      },
+      "created_at": "2026-03-10T20:04:23.070229",
+      "updated_at": "2026-03-10T20:04:23.070229"
+    },
+    "aa86d36e-840": {
+      "uuid": "aa86d36e-840",
+      "name": "Debris Discovery",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Discovery of MH370 debris",
+      "attributes": {
+        "timestamp": "2015",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Flaperon debris was found on Réunion Island in 2015."
+      },
+      "created_at": "2026-03-10T20:04:23.073228",
+      "updated_at": "2026-03-10T20:04:23.073228"
+    }
+  },
+  "edges": {
+    "7cc2d3df-8fb": {
+      "uuid": "7cc2d3df-8fb",
+      "name": "PRECEDED_BY",
+      "fact": "The aircraft turning west was preceded by the transponder being turned off.",
+      "source_node_uuid": "42b01eeb-cdf",
+      "target_node_uuid": "09ee30e5-580",
+      "source_node_name": "Aircraft Turn West",
+      "target_node_name": "Transponder Turn-off",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.077226",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9b103ba7-8c8": {
+      "uuid": "9b103ba7-8c8",
+      "name": "SUPPORTED_BY",
+      "fact": "The crash of MH370 is supported by satellite data.",
+      "source_node_uuid": "f42af811-dc4",
+      "target_node_uuid": "48c2d1cd-8b5",
+      "source_node_name": "Crash",
+      "target_node_name": "Satellite Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.080223",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c4aae1c5-ede": {
+      "uuid": "c4aae1c5-ede",
+      "name": "DERIVED_FROM",
+      "fact": "Satellite data was derived from satellite.",
+      "source_node_uuid": "48c2d1cd-8b5",
+      "target_node_uuid": "1f0d9ebd-92e",
+      "source_node_name": "Satellite Data",
+      "target_node_name": "Satellite",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.083222",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4e77aee4-afb": {
+      "uuid": "4e77aee4-afb",
+      "name": "LOCATED_AT",
+      "fact": "The crash occurred at the South Indian Ocean.",
+      "source_node_uuid": "f42af811-dc4",
+      "target_node_uuid": "5363a449-21e",
+      "source_node_name": "Crash",
+      "target_node_name": "South Indian Ocean",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.085221",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8bad1fec-f50": {
+      "uuid": "8bad1fec-f50",
+      "name": "LOCATED_AT",
+      "fact": "The flaperon debris was located at Réunion Island.",
+      "source_node_uuid": "44284bbf-157",
+      "target_node_uuid": "b60b720a-218",
+      "source_node_name": "Flaperon Debris",
+      "target_node_name": "Réunion Island",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.088218",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d08b3fe5-67f": {
+      "uuid": "d08b3fe5-67f",
+      "name": "LOCATED_AT",
+      "fact": "The debris discovery event occurred at Réunion Island.",
+      "source_node_uuid": "aa86d36e-840",
+      "target_node_uuid": "b60b720a-218",
+      "source_node_name": "Debris Discovery",
+      "target_node_name": "Réunion Island",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T20:04:23.091216",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

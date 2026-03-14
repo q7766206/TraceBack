@@ -1,0 +1,551 @@
+{
+  "nodes": {
+    "a95973a1-e56": {
+      "uuid": "a95973a1-e56",
+      "name": "MH370 Flight",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "Malaysia Airlines flight from Kuala Lumpur to Beijing that disappeared on March 8, 2014.",
+      "attributes": {
+        "timestamp": "2014-03-08",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "从马来西亚吉隆坡飞往中国北京的马航MH370航班客机失联，机上载有239人。"
+      },
+      "created_at": "2026-03-10T19:04:38.888668",
+      "updated_at": "2026-03-10T19:04:38.888668"
+    },
+    "b1b7e9db-55f": {
+      "uuid": "b1b7e9db-55f",
+      "name": "2025 MH370 Search Operation",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "Search operation for MH370 wreckage restarted in late 2025, covering over 7000 sq km, paused due to weather.",
+      "attributes": {
+        "timestamp": "2025-12",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "2025年年底重启的马来西亚航空公司370航班客机残骸搜寻工作，覆盖较大范围，累计覆盖面积已超过7000平方公里，因天气状况转差暂停。"
+      },
+      "created_at": "2026-03-10T19:04:38.891665",
+      "updated_at": "2026-03-10T19:04:38.891665"
+    },
+    "992942d4-75c": {
+      "uuid": "992942d4-75c",
+      "name": "Malaysia Cabinet 2025 Approval",
+      "labels": [
+        "GovernmentDecision"
+      ],
+      "summary": "Decision by Malaysia Cabinet in March 2025 to approve service agreement with Ocean Infinity for MH370 search.",
+      "attributes": {
+        "timestamp": "2025-03",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "2025年3月，马来西亚内阁正式批准马政府与水下探测公司“海洋无限”签署服务协议，授权后者在印度洋南部开展搜寻马航370航班客机残骸的工作。"
+      },
+      "created_at": "2026-03-10T19:04:38.894663",
+      "updated_at": "2026-03-10T19:04:38.894663"
+    },
+    "146add55-da7": {
+      "uuid": "146add55-da7",
+      "name": "Ocean Infinity",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Underwater exploration company contracted for MH370 search.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "水下探测公司“海洋无限”。"
+      },
+      "created_at": "2026-03-10T19:04:38.897661",
+      "updated_at": "2026-03-10T19:04:38.897661"
+    },
+    "30a87ce7-ed3": {
+      "uuid": "30a87ce7-ed3",
+      "name": "MH370 Family Association",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Association of families of passengers and crew of MH370 flight.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "马航370航班乘客及机组人员家属协会。"
+      },
+      "created_at": "2026-03-10T19:04:38.900659",
+      "updated_at": "2026-03-10T19:04:38.900659"
+    },
+    "c427c4bf-1d8": {
+      "uuid": "c427c4bf-1d8",
+      "name": "Search Progress Report",
+      "labels": [
+        "Report"
+      ],
+      "summary": "Report on the progress of the search operation released by the family association.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "搜寻行动阶段性进展报告，由家属协会在社交媒体上发布。"
+      },
+      "created_at": "2026-03-10T19:04:38.903658",
+      "updated_at": "2026-03-10T19:04:38.903658"
+    },
+    "4b3e4900-447": {
+      "uuid": "4b3e4900-447",
+      "name": "Poor Weather Condition",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Poor weather conditions that caused the search operation to pause.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "天气状况转差导致搜寻行动暂停。"
+      },
+      "created_at": "2026-03-10T19:04:38.906655",
+      "updated_at": "2026-03-10T19:04:38.906655"
+    },
+    "e443fb32-031": {
+      "uuid": "e443fb32-031",
+      "name": "2015 MH370 Loss Announcement",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Announcement by Malaysia Civil Aviation Authority on January 29, 2015, declaring MH370 lost with all aboard presumed dead.",
+      "attributes": {
+        "timestamp": "2015-01-29",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "2015年1月29日，马来西亚民航局宣布该航班客机失事，并推定机上所有人员遇难。"
+      },
+      "created_at": "2026-03-10T19:04:38.911652",
+      "updated_at": "2026-03-10T19:04:38.911652"
+    },
+    "bb588fab-36e": {
+      "uuid": "bb588fab-36e",
+      "name": "Loke Siew Fook",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Malaysia Transport Minister who agreed in principle to resume the MH370 search.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "马来西亚交通部长陆兆福。"
+      },
+      "created_at": "2026-03-10T19:04:38.914650",
+      "updated_at": "2026-03-10T19:04:38.914650"
+    },
+    "5970e9cb-b1d": {
+      "uuid": "5970e9cb-b1d",
+      "name": "2024 Search Resumption Agreement",
+      "labels": [
+        "GovernmentDecision"
+      ],
+      "summary": "Agreement in principle to resume MH370 search on December 20, 2024.",
+      "attributes": {
+        "timestamp": "2024-12-20",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "2024年12月20日，马来西亚交通部长陆兆福表示，原则上同意恢复对马航MH370航班的搜索工作。"
+      },
+      "created_at": "2026-03-10T19:04:38.918648",
+      "updated_at": "2026-03-10T19:04:38.918648"
+    },
+    "f6e5de0f-660": {
+      "uuid": "f6e5de0f-660",
+      "name": "Southern Indian Ocean",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Area in the southern Indian Ocean where search operations are conducted.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "印度洋南部，搜寻工作授权区域。"
+      },
+      "created_at": "2026-03-10T19:04:38.920646",
+      "updated_at": "2026-03-10T19:04:38.920646"
+    },
+    "16e2b9fa-507": {
+      "uuid": "16e2b9fa-507",
+      "name": "Malaysia Cabinet",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Cabinet of Malaysia that approved the search agreement.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "马来西亚内阁。"
+      },
+      "created_at": "2026-03-10T19:04:38.922644",
+      "updated_at": "2026-03-10T19:04:38.922644"
+    },
+    "c7c64779-393": {
+      "uuid": "c7c64779-393",
+      "name": "Malaysia Civil Aviation Authority",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Authority that announced the loss of MH370.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "马来西亚民航局。"
+      },
+      "created_at": "2026-03-10T19:04:38.924642",
+      "updated_at": "2026-03-10T19:04:38.924642"
+    },
+    "818ae3ba-e92": {
+      "uuid": "818ae3ba-e92",
+      "name": "内阁同意搜索",
+      "labels": [
+        "GovernmentDecision"
+      ],
+      "summary": "马来西亚内阁同意恢复对马航MH370航班的搜索工作",
+      "attributes": {
+        "timestamp": "2024-12-13",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "马来西亚内阁在2024年12月13日的会议上同意由海洋无限公司恢复搜索马航MH370航班。"
+      },
+      "created_at": "2026-03-10T19:06:10.206456",
+      "updated_at": "2026-03-10T19:06:10.206456"
+    },
+    "a8f7046b-539": {
+      "uuid": "a8f7046b-539",
+      "name": "陆兆福",
+      "labels": [
+        "Person"
+      ],
+      "summary": "马来西亚交通部长",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "马来西亚交通部长，于2024年12月20日表示原则上同意恢复搜索工作。"
+      },
+      "created_at": "2026-03-10T19:06:10.212453",
+      "updated_at": "2026-03-10T19:06:10.212453"
+    },
+    "7d4e3c13-01c": {
+      "uuid": "7d4e3c13-01c",
+      "name": "马来西亚内阁",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "马来西亚政府内阁",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "马来西亚政府内阁，负责决策同意搜索工作。"
+      },
+      "created_at": "2026-03-10T19:06:10.217962",
+      "updated_at": "2026-03-10T19:06:10.217962"
+    },
+    "aea010d0-466": {
+      "uuid": "aea010d0-466",
+      "name": "海洋无限",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "水下探测公司",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "一家水下探测公司，被同意在南太平洋水域执行搜索工作。"
+      },
+      "created_at": "2026-03-10T19:06:10.223959",
+      "updated_at": "2026-03-10T19:06:10.223959"
+    },
+    "5d9c90af-422": {
+      "uuid": "5d9c90af-422",
+      "name": "搜索工作",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "对马航MH370航班的搜索工作",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "由海洋无限公司执行的搜索操作，覆盖南太平洋1.5万平方公里水域，以'无发现无收费'原则进行。"
+      },
+      "created_at": "2026-03-10T19:06:10.228955",
+      "updated_at": "2026-03-10T19:06:10.228955"
+    },
+    "cf982d4d-387": {
+      "uuid": "cf982d4d-387",
+      "name": "马航MH370航班",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "马来西亚航空MH370航班",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "失踪的马来西亚航空航班，搜索工作针对此航班。"
+      },
+      "created_at": "2026-03-10T19:06:10.234952",
+      "updated_at": "2026-03-10T19:06:10.234952"
+    },
+    "536d7029-aaf": {
+      "uuid": "536d7029-aaf",
+      "name": "南太平洋水域",
+      "labels": [
+        "Location"
+      ],
+      "summary": "南太平洋一处1.5万平方公里面积的水域",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "搜索操作的目标位置，位于南太平洋，面积1.5万平方公里。"
+      },
+      "created_at": "2026-03-10T19:06:10.238948",
+      "updated_at": "2026-03-10T19:06:10.238948"
+    }
+  },
+  "edges": {
+    "8bb91fe8-cc6": {
+      "uuid": "8bb91fe8-cc6",
+      "name": "SUPPORTED_BY",
+      "fact": "The progress of the search operation is supported by the report from the family association.",
+      "source_node_uuid": "b1b7e9db-55f",
+      "target_node_uuid": "c427c4bf-1d8",
+      "source_node_name": "2025 MH370 Search Operation",
+      "target_node_name": "Search Progress Report",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.927641",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "93feb7a4-e3b": {
+      "uuid": "93feb7a4-e3b",
+      "name": "PREVENTED_BY",
+      "fact": "The search operation was prevented by poor weather conditions.",
+      "source_node_uuid": "b1b7e9db-55f",
+      "target_node_uuid": "4b3e4900-447",
+      "source_node_name": "2025 MH370 Search Operation",
+      "target_node_name": "Poor Weather Condition",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.929639",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "738c7567-a95": {
+      "uuid": "738c7567-a95",
+      "name": "LOCATED_AT",
+      "fact": "The search operation is located at the Southern Indian Ocean.",
+      "source_node_uuid": "b1b7e9db-55f",
+      "target_node_uuid": "f6e5de0f-660",
+      "source_node_name": "2025 MH370 Search Operation",
+      "target_node_name": "Southern Indian Ocean",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.932638",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "66c93e55-d54": {
+      "uuid": "66c93e55-d54",
+      "name": "TRIGGERED_BY",
+      "fact": "The search operation was triggered by the approval decision from Malaysia Cabinet.",
+      "source_node_uuid": "b1b7e9db-55f",
+      "target_node_uuid": "992942d4-75c",
+      "source_node_name": "2025 MH370 Search Operation",
+      "target_node_name": "Malaysia Cabinet 2025 Approval",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.934636",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6cd19432-f16": {
+      "uuid": "6cd19432-f16",
+      "name": "APPROVED_BY",
+      "fact": "The decision to sign the agreement is approved by the Malaysia Cabinet.",
+      "source_node_uuid": "992942d4-75c",
+      "target_node_uuid": "16e2b9fa-507",
+      "source_node_name": "Malaysia Cabinet 2025 Approval",
+      "target_node_name": "Malaysia Cabinet",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.937634",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5a3e7881-9e7": {
+      "uuid": "5a3e7881-9e7",
+      "name": "PARTICIPATED_IN",
+      "fact": "Ocean Infinity participated in the search operation as the authorized company.",
+      "source_node_uuid": "146add55-da7",
+      "target_node_uuid": "b1b7e9db-55f",
+      "source_node_name": "Ocean Infinity",
+      "target_node_name": "2025 MH370 Search Operation",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.940633",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3a70b898-7d8": {
+      "uuid": "3a70b898-7d8",
+      "name": "PARTICIPATED_IN",
+      "fact": "Loke Siew Fook participated in the decision to resume search.",
+      "source_node_uuid": "bb588fab-36e",
+      "target_node_uuid": "5970e9cb-b1d",
+      "source_node_name": "Loke Siew Fook",
+      "target_node_name": "2024 Search Resumption Agreement",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.943631",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9618cc16-124": {
+      "uuid": "9618cc16-124",
+      "name": "PARTICIPATED_IN",
+      "fact": "Malaysia Civil Aviation Authority participated in the announcement event.",
+      "source_node_uuid": "c7c64779-393",
+      "target_node_uuid": "e443fb32-031",
+      "source_node_name": "Malaysia Civil Aviation Authority",
+      "target_node_name": "2015 MH370 Loss Announcement",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:04:38.946135",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "062459e5-b3d": {
+      "uuid": "062459e5-b3d",
+      "name": "APPROVED_BY",
+      "fact": "搜索工作被马来西亚内阁批准。",
+      "source_node_uuid": "5d9c90af-422",
+      "target_node_uuid": "7d4e3c13-01c",
+      "source_node_name": "搜索工作",
+      "target_node_name": "马来西亚内阁",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.242946",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0741a3ea-7fe": {
+      "uuid": "0741a3ea-7fe",
+      "name": "PARTICIPATED_IN",
+      "fact": "海洋无限公司参与了搜索工作。",
+      "source_node_uuid": "aea010d0-466",
+      "target_node_uuid": "5d9c90af-422",
+      "source_node_name": "海洋无限",
+      "target_node_name": "搜索工作",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.245944",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "18c234c6-686": {
+      "uuid": "18c234c6-686",
+      "name": "CORRELATED_WITH",
+      "fact": "搜索工作与马航MH370航班相关。",
+      "source_node_uuid": "5d9c90af-422",
+      "target_node_uuid": "cf982d4d-387",
+      "source_node_name": "搜索工作",
+      "target_node_name": "马航MH370航班",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.249941",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0bbbe3a0-7dd": {
+      "uuid": "0bbbe3a0-7dd",
+      "name": "LOCATED_AT",
+      "fact": "搜索工作位于南太平洋水域。",
+      "source_node_uuid": "5d9c90af-422",
+      "target_node_uuid": "536d7029-aaf",
+      "source_node_name": "搜索工作",
+      "target_node_name": "南太平洋水域",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.253939",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "75b0b0d5-b16": {
+      "uuid": "75b0b0d5-b16",
+      "name": "TRIGGERED_BY",
+      "fact": "搜索工作被内阁同意搜索决策触发。",
+      "source_node_uuid": "5d9c90af-422",
+      "target_node_uuid": "818ae3ba-e92",
+      "source_node_name": "搜索工作",
+      "target_node_name": "内阁同意搜索",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.257936",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7afe85c6-894": {
+      "uuid": "7afe85c6-894",
+      "name": "PARTICIPATED_IN",
+      "fact": "陆兆福参与了内阁同意搜索事件。",
+      "source_node_uuid": "a8f7046b-539",
+      "target_node_uuid": "818ae3ba-e92",
+      "source_node_name": "陆兆福",
+      "target_node_name": "内阁同意搜索",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T19:06:10.260934",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

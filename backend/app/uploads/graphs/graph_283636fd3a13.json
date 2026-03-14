@@ -1,0 +1,1096 @@
+{
+  "nodes": {
+    "834a37d9-a38": {
+      "uuid": "834a37d9-a38",
+      "name": "马来西亚航空公司MH370航班失踪事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "2014年3月8日失踪的马来西亚航空客机事件",
+      "attributes": {
+        "timestamp": "2014年3月8日",
+        "credibility_score": "0.7",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班于2014年3月8日凌晨失踪的事件"
+      },
+      "created_at": "2026-03-11T22:05:45.562410",
+      "updated_at": "2026-03-11T22:05:45.562410"
+    },
+    "bbcd576e-2e3": {
+      "uuid": "bbcd576e-2e3",
+      "name": "马来西亚航空MH370航班起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班从吉隆坡国际机场起飞事件",
+      "attributes": {
+        "timestamp": "2014年3月8日0时41分（马来西亚时间，UTC+8）",
+        "credibility_score": "0.7",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空MH370航班为波音777-200ER型客机，注册编号9M-MRO，于2014年3月8日0时41分从吉隆坡国际机场（KLIA）起飞，原定于北京时间6时30分抵达北京首都国际机场"
+      },
+      "created_at": "2026-03-11T22:05:45.564412",
+      "updated_at": "2026-03-11T22:05:45.564412"
+    },
+    "6cd63052-b48": {
+      "uuid": "6cd63052-b48",
+      "name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370事件全维度回溯分析文档",
+      "attributes": {
+        "timestamp": "2026年3月",
+        "credibility_score": "0.7",
+        "source": "公开综合研究资料",
+        "description": "汇集截至2026年1月的全部公开信息，涵盖MH370事件时间线、技术数据、残骸发现记录、调查结论、争议假说及最新搜寻进展的综合研究资料，文档版本为V3.0"
+      },
+      "created_at": "2026-03-11T22:05:45.567409",
+      "updated_at": "2026-03-11T22:05:45.567409"
+    },
+    "9d76381c-3c3": {
+      "uuid": "9d76381c-3c3",
+      "name": "吉隆坡国际机场（KLIA）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班的起飞地",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "马来西亚的国际机场，为本次航班的起飞地点"
+      },
+      "created_at": "2026-03-11T22:06:47.464491",
+      "updated_at": "2026-03-11T22:06:47.464491"
+    },
+    "18b5d89b-095": {
+      "uuid": "18b5d89b-095",
+      "name": "北京首都国际机场",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班原定抵达地",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班原定于北京时间6时30分抵达的机场"
+      },
+      "created_at": "2026-03-11T22:06:47.467487",
+      "updated_at": "2026-03-11T22:06:47.467487"
+    },
+    "5f506625-bd0": {
+      "uuid": "5f506625-bd0",
+      "name": "波音777-200ER客机",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班使用的机型",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班使用的机型，为双发宽体客机，全称波音777-200ER（Extended Range）"
+      },
+      "created_at": "2026-03-11T22:06:47.469485",
+      "updated_at": "2026-03-11T22:06:47.469485"
+    },
+    "0c52374d-e50": {
+      "uuid": "0c52374d-e50",
+      "name": "9M-MRO飞机",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班使用的飞机",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "注册编号为9M-MRO的飞机，2002年5月31日交付马来西亚航空公司，截至失联日机龄11年9个月，累计飞行时间约53,465.21小时"
+      },
+      "created_at": "2026-03-11T22:06:47.472484",
+      "updated_at": "2026-03-11T22:06:47.472484"
+    },
+    "8237badf-333": {
+      "uuid": "8237badf-333",
+      "name": "罗尔斯·罗伊斯Trent 892B-17发动机",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班使用的发动机",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班使用的飞机搭载的发动机，共两台"
+      },
+      "created_at": "2026-03-11T22:06:47.475481",
+      "updated_at": "2026-03-11T22:06:47.475481"
+    },
+    "89bed82d-f5e": {
+      "uuid": "89bed82d-f5e",
+      "name": "马来西亚航空公司（马航）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班运营方",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班的运营航空公司，9M-MRO飞机于2002年5月31日交付该公司"
+      },
+      "created_at": "2026-03-11T22:06:47.477480",
+      "updated_at": "2026-03-11T22:06:47.477480"
+    },
+    "49938796-af8": {
+      "uuid": "49938796-af8",
+      "name": "2002年5月31日",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "飞机交付日期",
+      "attributes": {
+        "timestamp": "2002年5月31日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "注册编号为9M-MRO的飞机交付马来西亚航空公司的日期"
+      },
+      "created_at": "2026-03-11T22:06:47.479480",
+      "updated_at": "2026-03-11T22:06:47.479480"
+    },
+    "5a260454-689": {
+      "uuid": "5a260454-689",
+      "name": "马航失联事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "本次航班的失联事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班发生的失联事件，截至该日9M-MRO飞机机龄为11年9个月"
+      },
+      "created_at": "2026-03-11T22:06:47.481632",
+      "updated_at": "2026-03-11T22:06:47.481632"
+    },
+    "6798d26a-594": {
+      "uuid": "6798d26a-594",
+      "name": "飞机最大航程",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "飞机的最大航程参数",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班使用的飞机的最大航程为14,685公里"
+      },
+      "created_at": "2026-03-11T22:06:47.484630",
+      "updated_at": "2026-03-11T22:06:47.484630"
+    },
+    "5352b041-17d": {
+      "uuid": "5352b041-17d",
+      "name": "飞机最大燃油量",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "飞机的最大燃油量参数",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班使用的飞机的最大燃油量约171,160升，约合49,100公斤起飞燃油"
+      },
+      "created_at": "2026-03-11T22:06:47.487629",
+      "updated_at": "2026-03-11T22:06:47.487629"
+    },
+    "9e049ea2-1ea": {
+      "uuid": "9e049ea2-1ea",
+      "name": "机上总人员",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "本次航班机上总人数",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上共239人，包含227名乘客和12名机组人员"
+      },
+      "created_at": "2026-03-11T22:06:47.490626",
+      "updated_at": "2026-03-11T22:06:47.490626"
+    },
+    "51381355-c26": {
+      "uuid": "51381355-c26",
+      "name": "中国大陆乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上中国大陆乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的中国大陆乘客共153人，含1名婴儿"
+      },
+      "created_at": "2026-03-11T22:06:47.493625",
+      "updated_at": "2026-03-11T22:06:47.493625"
+    },
+    "94c1b623-9d4": {
+      "uuid": "94c1b623-9d4",
+      "name": "马来西亚乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上马来西亚乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的马来西亚乘客共38人"
+      },
+      "created_at": "2026-03-11T22:06:47.498621",
+      "updated_at": "2026-03-11T22:06:47.498621"
+    },
+    "4bf57ba1-317": {
+      "uuid": "4bf57ba1-317",
+      "name": "印度尼西亚乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上印度尼西亚乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的印度尼西亚乘客共7人"
+      },
+      "created_at": "2026-03-11T22:06:47.500801",
+      "updated_at": "2026-03-11T22:06:47.500801"
+    },
+    "3e735497-83d": {
+      "uuid": "3e735497-83d",
+      "name": "澳大利亚乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上澳大利亚乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的澳大利亚乘客共6人"
+      },
+      "created_at": "2026-03-11T22:06:47.504800",
+      "updated_at": "2026-03-11T22:06:47.504800"
+    },
+    "fcd5ca86-270": {
+      "uuid": "fcd5ca86-270",
+      "name": "印度乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上印度乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的印度乘客共5人"
+      },
+      "created_at": "2026-03-11T22:06:47.509796",
+      "updated_at": "2026-03-11T22:06:47.509796"
+    },
+    "331c854a-217": {
+      "uuid": "331c854a-217",
+      "name": "法国乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上法国乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的法国乘客共4人"
+      },
+      "created_at": "2026-03-11T22:06:47.514046",
+      "updated_at": "2026-03-11T22:06:47.514046"
+    },
+    "33654037-a8e": {
+      "uuid": "33654037-a8e",
+      "name": "美国乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上美国乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的美国乘客共3人"
+      },
+      "created_at": "2026-03-11T22:06:47.517044",
+      "updated_at": "2026-03-11T22:06:47.517044"
+    },
+    "0e33c336-845": {
+      "uuid": "0e33c336-845",
+      "name": "伊朗乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上伊朗乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的伊朗乘客共2人，均持假护照"
+      },
+      "created_at": "2026-03-11T22:06:47.522042",
+      "updated_at": "2026-03-11T22:06:47.522042"
+    },
+    "28eeea34-4e4": {
+      "uuid": "28eeea34-4e4",
+      "name": "乌克兰乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上乌克兰乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的乌克兰乘客共2人"
+      },
+      "created_at": "2026-03-11T22:06:47.526039",
+      "updated_at": "2026-03-11T22:06:47.526039"
+    },
+    "220e64a5-5e8": {
+      "uuid": "220e64a5-5e8",
+      "name": "加拿大乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上加拿大乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的加拿大乘客共2人"
+      },
+      "created_at": "2026-03-11T22:06:47.530079",
+      "updated_at": "2026-03-11T22:06:47.530079"
+    },
+    "55f5818b-05b": {
+      "uuid": "55f5818b-05b",
+      "name": "新西兰乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上新西兰乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的新西兰乘客共2人"
+      },
+      "created_at": "2026-03-11T22:06:47.533105",
+      "updated_at": "2026-03-11T22:06:47.533105"
+    },
+    "fa58fdbf-010": {
+      "uuid": "fa58fdbf-010",
+      "name": "荷兰乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上荷兰乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的荷兰乘客共1人"
+      },
+      "created_at": "2026-03-11T22:06:47.536103",
+      "updated_at": "2026-03-11T22:06:47.536103"
+    },
+    "4bba1a1b-bc2": {
+      "uuid": "4bba1a1b-bc2",
+      "name": "俄罗斯乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上俄罗斯乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的俄罗斯乘客共1人"
+      },
+      "created_at": "2026-03-11T22:06:47.540100",
+      "updated_at": "2026-03-11T22:06:47.540100"
+    },
+    "457a8636-cf4": {
+      "uuid": "457a8636-cf4",
+      "name": "中国台湾乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "机上中国台湾乘客群体",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班机上的中国台湾乘客共1人"
+      },
+      "created_at": "2026-03-11T22:06:47.543098",
+      "updated_at": "2026-03-11T22:06:47.543098"
+    },
+    "98bfb8cc-8b8": {
+      "uuid": "98bfb8cc-8b8",
+      "name": "UTC+8时区",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "航班起飞使用的时区",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班起飞使用的时区为UTC+8"
+      },
+      "created_at": "2026-03-11T22:06:47.547096",
+      "updated_at": "2026-03-11T22:06:47.547096"
+    },
+    "119a315a-a30": {
+      "uuid": "119a315a-a30",
+      "name": "北京时间",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "航班原定抵达时间使用的时区",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "本次航班原定抵达北京首都国际机场的时间使用的时区为北京时间"
+      },
+      "created_at": "2026-03-11T22:06:47.551094",
+      "updated_at": "2026-03-11T22:06:47.551094"
+    },
+    "6de1eb2f-6f7": {
+      "uuid": "6de1eb2f-6f7",
+      "name": "两名伊朗籍乘客持假护照登机事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "两名伊朗乘客使用被盗护照登机的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "伊朗籍乘客普里亚·努尔·穆罕默德·迈赫达德（19岁）和德拉瓦尔·赛义德·穆罕默德·雷扎（29岁）使用被盗的奥地利和意大利护照登机"
+      },
+      "created_at": "2026-03-11T22:07:41.459200",
+      "updated_at": "2026-03-11T22:07:41.459200"
+    },
+    "b0105250-19b": {
+      "uuid": "b0105250-19b",
+      "name": "国际刑警组织持假护照乘客调查事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "国际刑警组织对持假护照乘客的调查事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "国际刑警组织对两名使用被盗护照登机的伊朗乘客开展调查"
+      },
+      "created_at": "2026-03-11T22:07:41.466406",
+      "updated_at": "2026-03-11T22:07:41.466406"
+    },
+    "2225aef6-460": {
+      "uuid": "2225aef6-460",
+      "name": "国际刑警组织持假护照乘客调查结果",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "国际刑警组织关于持假护照乘客的调查结论",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "确认两名伊朗乘客为非法移民，意图经北京转机前往欧洲，与恐怖主义无关"
+      },
+      "created_at": "2026-03-11T22:07:41.472591",
+      "updated_at": "2026-03-11T22:07:41.472591"
+    },
+    "62c1af49-ad0": {
+      "uuid": "62c1af49-ad0",
+      "name": "马来西亚机场安检系统漏洞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚机场安检系统存在的漏洞事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "马来西亚机场安检系统未能与国际刑警组织被盗和遗失旅行证件数据库（SLTD）进行实时比对"
+      },
+      "created_at": "2026-03-11T22:07:41.479587",
+      "updated_at": "2026-03-11T22:07:41.479587"
+    },
+    "6a3cd67f-a89": {
+      "uuid": "6a3cd67f-a89",
+      "name": "MH370货舱装载货物事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班货舱装载货物的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "货舱前部装载约4566公斤新鲜山竹果，221公斤摩托罗拉品牌锂离子电池由飞达物流公司托运"
+      },
+      "created_at": "2026-03-11T22:07:41.485751",
+      "updated_at": "2026-03-11T22:07:41.485751"
+    },
+    "b9299e0f-784": {
+      "uuid": "b9299e0f-784",
+      "name": "MH370机组人员配备事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班机组人员配备事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "配备机长扎哈里·艾哈迈德·沙阿、副驾驶法里克·阿卜杜勒·哈米德及10名客舱乘务员，两人均有对应飞行时长资质"
+      },
+      "created_at": "2026-03-11T22:07:41.489748",
+      "updated_at": "2026-03-11T22:07:41.489748"
+    },
+    "efd5519c-4b1": {
+      "uuid": "efd5519c-4b1",
+      "name": "MH370乘客构成事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班乘客构成事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "给定文本",
+        "description": "乘客包含伊朗2人（持假护照）、乌克兰2人、加拿大2人、新西兰2人、荷兰1人、俄罗斯1人、中国台湾1人及另外3人"
+      },
+      "created_at": "2026-03-11T22:07:41.493849",
+      "updated_at": "2026-03-11T22:07:41.493849"
+    },
+    "c224ce72-8ad": {
+      "uuid": "c224ce72-8ad",
+      "name": "两名伊朗乘客与恐怖主义无关",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-11T22:07:41.506939",
+      "updated_at": "2026-03-11T22:07:41.506939"
+    },
+    "de483bc2-c8a": {
+      "uuid": "de483bc2-c8a",
+      "name": "两名伊朗乘客为非法移民",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-11T22:07:41.516034",
+      "updated_at": "2026-03-11T22:07:41.516034"
+    },
+    "0a0e99f4-a0c": {
+      "uuid": "0a0e99f4-a0c",
+      "name": "两名伊朗乘客意图经北京转机前往欧洲",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-11T22:07:41.525129",
+      "updated_at": "2026-03-11T22:07:41.525129"
+    },
+    "2b97137e-9bc": {
+      "uuid": "2b97137e-9bc",
+      "name": "MH370航班起飞",
+      "labels": [
+        "Event"
+      ],
+      "summary": "2014年3月8日MH370从吉隆坡国际机场起飞的事件",
+      "attributes": {
+        "timestamp": "2014年3月8日00:41 MYT",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "MH370从吉隆坡国际机场27L跑道起飞，属于起飞与正常飞行阶段的起始事件"
+      },
+      "created_at": "2026-03-11T22:09:20.967745",
+      "updated_at": "2026-03-11T22:09:20.967745"
+    },
+    "3dc61699-7e3": {
+      "uuid": "3dc61699-7e3",
+      "name": "扎哈里飞行模拟器模拟飞行",
+      "labels": [
+        "Event"
+      ],
+      "summary": "2014年3月7日机长扎哈里在家进行的模拟飞行",
+      "attributes": {
+        "timestamp": "2014年3月7日",
+        "credibility_score": "0.9",
+        "source": "美国联邦调查局（FBI）",
+        "description": "机长扎哈里在家中的飞行模拟器上进行了最后一次模拟飞行，航线为从吉隆坡起飞、向西北飞越马六甲海峡、随后左转向南飞入南印度洋直至燃油耗尽"
+      },
+      "created_at": "2026-03-11T22:09:20.975735",
+      "updated_at": "2026-03-11T22:09:20.975735"
+    },
+    "311845a2-791": {
+      "uuid": "311845a2-791",
+      "name": "FBI恢复扎哈里硬盘数据",
+      "labels": [
+        "Event"
+      ],
+      "summary": "美国联邦调查局恢复扎哈里飞行模拟器硬盘中被删除的数据",
+      "attributes": {
+        "timestamp": "无明确时间（后续调查）",
+        "credibility_score": "0.9",
+        "source": "美国联邦调查局（FBI）",
+        "description": "FBI从扎哈里的硬盘中恢复了被删除的数据，发现了模拟航线数据"
+      },
+      "created_at": "2026-03-11T22:09:20.982732",
+      "updated_at": "2026-03-11T22:09:20.982732"
+    },
+    "253797b0-fae": {
+      "uuid": "253797b0-fae",
+      "name": "副驾驶法里克报到训练",
+      "labels": [
+        "Event"
+      ],
+      "summary": "2014年3月7日晚副驾驶法里克正常报到并进行波音777机型过渡训练",
+      "attributes": {
+        "timestamp": "2014年3月7日晚",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "副驾驶法里克当晚正常报到，这是他在波音777机型上的第5次飞行，属于过渡训练阶段"
+      },
+      "created_at": "2026-03-11T22:09:20.989995",
+      "updated_at": "2026-03-11T22:09:20.989995"
+    },
+    "99328c81-0e7": {
+      "uuid": "99328c81-0e7",
+      "name": "装载新鲜山竹果",
+      "labels": [
+        "Event"
+      ],
+      "summary": "将5吨新鲜山竹果装载至MH370货舱前部",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "装载5吨新鲜山竹果，装在货舱前部"
+      },
+      "created_at": "2026-03-11T22:09:20.997988",
+      "updated_at": "2026-03-11T22:09:20.997988"
+    },
+    "5dd66bf5-1ff": {
+      "uuid": "5dd66bf5-1ff",
+      "name": "装载摩托罗拉锂离子电池",
+      "labels": [
+        "Event"
+      ],
+      "summary": "装载221公斤摩托罗拉品牌锂离子电池，由飞达物流公司托运",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "221公斤摩托罗拉品牌锂离子电池，由飞达物流公司托运并装载上机"
+      },
+      "created_at": "2026-03-11T22:09:21.005181",
+      "updated_at": "2026-03-11T22:09:21.005181"
+    },
+    "0defae97-564": {
+      "uuid": "0defae97-564",
+      "name": "装载神秘货物",
+      "labels": [
+        "Event"
+      ],
+      "summary": "装载重约89公斤、货运单描述模糊的货物",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "一件重约89公斤的货物被装载上机，货运单上的描述模糊不清"
+      },
+      "created_at": "2026-03-11T22:09:21.013374",
+      "updated_at": "2026-03-11T22:09:21.013374"
+    },
+    "3819601e-ab9": {
+      "uuid": "3819601e-ab9",
+      "name": "装载未详细说明物品",
+      "labels": [
+        "Event"
+      ],
+      "summary": "起飞前装载约90.72公斤未详细说明的物品",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.7",
+        "source": "另有报道",
+        "description": "另有报道称起飞前还装载了约90.72公斤（200磅）的未详细说明物品"
+      },
+      "created_at": "2026-03-11T22:09:21.021370",
+      "updated_at": "2026-03-11T22:09:21.021370"
+    },
+    "3e11f65f-0b4": {
+      "uuid": "3e11f65f-0b4",
+      "name": "MH370实际飞行",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的实际飞行过程",
+      "attributes": {
+        "timestamp": "2014年3月8日",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "MH370的实际飞行路径与扎哈里的模拟航线高度吻合"
+      },
+      "created_at": "2026-03-11T22:09:21.029364",
+      "updated_at": "2026-03-11T22:09:21.029364"
+    },
+    "a5ad8810-a5c": {
+      "uuid": "a5ad8810-a5c",
+      "name": "扎哈里模拟航线数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "FBI从扎哈里硬盘恢复的模拟航线数据",
+      "attributes": {
+        "timestamp": "无明确时间（调查时）",
+        "credibility_score": "0.9",
+        "source": "美国联邦调查局（FBI）",
+        "description": "从扎哈里硬盘恢复的被删除数据中的模拟航线，航线为从吉隆坡起飞、向西北飞越马六甲海峡、随后左转向南飞入南印度洋直至燃油耗尽"
+      },
+      "created_at": "2026-03-11T22:09:21.037530",
+      "updated_at": "2026-03-11T22:09:21.037530"
+    },
+    "68d02fde-a30": {
+      "uuid": "68d02fde-a30",
+      "name": "锂离子电池热失控专家观点",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "部分专家关于锂离子电池热失控及火灾风险的观点",
+      "attributes": {
+        "timestamp": "无明确时间",
+        "credibility_score": "0.7",
+        "source": "部分专家",
+        "description": "锂离子电池在特定条件下可能发生热失控，与山竹果释放的水汽混合后可能加剧火灾风险"
+      },
+      "created_at": "2026-03-11T22:09:21.045723",
+      "updated_at": "2026-03-11T22:09:21.045723"
+    },
+    "f1f930e6-956": {
+      "uuid": "f1f930e6-956",
+      "name": "马来西亚未公开货物清单",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "马来西亚当局未公开相关货物完整清单的情况",
+      "attributes": {
+        "timestamp": "无明确时间",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "马来西亚当局始终未公开神秘货物和未详细说明物品的完整清单和详细说明"
+      },
+      "created_at": "2026-03-11T22:09:21.051881",
+      "updated_at": "2026-03-11T22:09:21.051881"
+    },
+    "53184428-9e9": {
+      "uuid": "53184428-9e9",
+      "name": "未详细说明物品装载报道",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "关于起飞前装载未详细说明物品的报道",
+      "attributes": {
+        "timestamp": "无明确时间",
+        "credibility_score": "0.7",
+        "source": "另有报道",
+        "description": "另有报道称起飞前还装载了约90.72公斤（200磅）的未详细说明物品"
+      },
+      "created_at": "2026-03-11T22:09:21.058878",
+      "updated_at": "2026-03-11T22:09:21.058878"
+    },
+    "d26cf6e3-981": {
+      "uuid": "d26cf6e3-981",
+      "name": "锂离子电池热失控并与山竹果水汽混合",
+      "labels": [
+        "Event"
+      ],
+      "summary": "锂离子电池在特定条件下发生热失控并与山竹果释放的水汽混合的事件",
+      "attributes": {
+        "timestamp": "无明确时间",
+        "credibility_score": "0.7",
+        "source": "部分专家",
+        "description": "锂离子电池在特定条件下可能发生热失控，与山竹果释放的水汽混合"
+      },
+      "created_at": "2026-03-11T22:09:21.064054",
+      "updated_at": "2026-03-11T22:09:21.064054"
+    },
+    "4a064d35-0aa": {
+      "uuid": "4a064d35-0aa",
+      "name": "火灾风险加剧",
+      "labels": [
+        "Event"
+      ],
+      "summary": "锂离子电池热失控与山竹果水汽混合后可能导致的火灾风险加剧事件",
+      "attributes": {
+        "timestamp": "无明确时间",
+        "credibility_score": "0.7",
+        "source": "部分专家",
+        "description": "锂离子电池在特定条件下热失控并与山竹果释放的水汽混合后可能加剧火灾风险"
+      },
+      "created_at": "2026-03-11T22:09:21.070164",
+      "updated_at": "2026-03-11T22:09:21.070164"
+    }
+  },
+  "edges": {
+    "7161c3d5-525": {
+      "uuid": "7161c3d5-525",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚航空公司MH370航班失踪事件的相关信息由该回溯分析文档提供支持",
+      "source_node_uuid": "6cd63052-b48",
+      "target_node_uuid": "834a37d9-a38",
+      "source_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-11T22:05:45.569407",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "188db11b-662": {
+      "uuid": "188db11b-662",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚航空MH370航班起飞事件的相关信息由该回溯分析文档提供支持",
+      "source_node_uuid": "6cd63052-b48",
+      "target_node_uuid": "bbcd576e-2e3",
+      "source_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+      "target_node_name": "马来西亚航空MH370航班起飞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-11T22:05:45.571406",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c5932fe7-541": {
+      "uuid": "c5932fe7-541",
+      "name": "CAUSED_BY",
+      "fact": "两名伊朗籍乘客持假护照登机事件是由马来西亚机场安检系统漏洞事件所导致的",
+      "source_node_uuid": "6de1eb2f-6f7",
+      "target_node_uuid": "62c1af49-ad0",
+      "source_node_name": "两名伊朗籍乘客持假护照登机事件",
+      "target_node_name": "马来西亚机场安检系统漏洞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T22:07:41.498846",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1f9c7a1e-707": {
+      "uuid": "1f9c7a1e-707",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚机场安检系统存在漏洞的结论被两名伊朗籍乘客持假护照登机事件所支持",
+      "source_node_uuid": "62c1af49-ad0",
+      "target_node_uuid": "6de1eb2f-6f7",
+      "source_node_name": "马来西亚机场安检系统漏洞事件",
+      "target_node_name": "两名伊朗籍乘客持假护照登机事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:07:41.502942",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "db17416d-194": {
+      "uuid": "db17416d-194",
+      "name": "SUPPORTED_BY",
+      "fact": "两名伊朗乘客与恐怖主义无关的结论被国际刑警组织持假护照乘客调查结果所支持",
+      "source_node_uuid": "c224ce72-8ad",
+      "target_node_uuid": "2225aef6-460",
+      "source_node_name": "两名伊朗乘客与恐怖主义无关",
+      "target_node_name": "国际刑警组织持假护照乘客调查结果",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T22:07:41.512037",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e986c513-317": {
+      "uuid": "e986c513-317",
+      "name": "SUPPORTED_BY",
+      "fact": "两名伊朗乘客为非法移民的结论被国际刑警组织持假护照乘客调查结果所支持",
+      "source_node_uuid": "de483bc2-c8a",
+      "target_node_uuid": "2225aef6-460",
+      "source_node_name": "两名伊朗乘客为非法移民",
+      "target_node_name": "国际刑警组织持假护照乘客调查结果",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T22:07:41.520132",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5f63ae75-222": {
+      "uuid": "5f63ae75-222",
+      "name": "SUPPORTED_BY",
+      "fact": "两名伊朗乘客意图经北京转机前往欧洲的结论被国际刑警组织持假护照乘客调查结果所支持",
+      "source_node_uuid": "0a0e99f4-a0c",
+      "target_node_uuid": "2225aef6-460",
+      "source_node_name": "两名伊朗乘客意图经北京转机前往欧洲",
+      "target_node_name": "国际刑警组织持假护照乘客调查结果",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T22:07:41.530151",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d73913ab-c54": {
+      "uuid": "d73913ab-c54",
+      "name": "SUPPORTED_BY",
+      "fact": "扎哈里飞行模拟器模拟飞行的航线内容被FBI恢复的模拟航线数据所支持",
+      "source_node_uuid": "a5ad8810-a5c",
+      "target_node_uuid": "3dc61699-7e3",
+      "source_node_name": "扎哈里模拟航线数据",
+      "target_node_name": "扎哈里飞行模拟器模拟飞行",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:09:21.076160",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "56b7965c-2df": {
+      "uuid": "56b7965c-2df",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370实际飞行路径与扎哈里模拟航线高度吻合的结论被扎哈里模拟航线数据所支持",
+      "source_node_uuid": "a5ad8810-a5c",
+      "target_node_uuid": "3e11f65f-0b4",
+      "source_node_name": "扎哈里模拟航线数据",
+      "target_node_name": "MH370实际飞行",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T22:09:21.082296",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7f0fb72f-827": {
+      "uuid": "7f0fb72f-827",
+      "name": "SUPPORTED_BY",
+      "fact": "起飞前装载约90.72公斤未详细说明物品的事件被相关报道所支持",
+      "source_node_uuid": "53184428-9e9",
+      "target_node_uuid": "3819601e-ab9",
+      "source_node_name": "未详细说明物品装载报道",
+      "target_node_name": "装载未详细说明物品",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-11T22:09:21.088293",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "fce988a4-dc1": {
+      "uuid": "fce988a4-dc1",
+      "name": "SUPPORTED_BY",
+      "fact": "装载神秘货物的相关信息未被公开的情况被马来西亚当局未公开货物清单的情况所支持",
+      "source_node_uuid": "f1f930e6-956",
+      "target_node_uuid": "0defae97-564",
+      "source_node_name": "马来西亚未公开货物清单",
+      "target_node_name": "装载神秘货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T22:09:21.096425",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5fb1eea5-e0c": {
+      "uuid": "5fb1eea5-e0c",
+      "name": "SUPPORTED_BY",
+      "fact": "装载未详细说明物品的相关信息未被公开的情况被马来西亚当局未公开货物清单的情况所支持",
+      "source_node_uuid": "f1f930e6-956",
+      "target_node_uuid": "3819601e-ab9",
+      "source_node_name": "马来西亚未公开货物清单",
+      "target_node_name": "装载未详细说明物品",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T22:09:21.104569",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "403fd45e-706": {
+      "uuid": "403fd45e-706",
+      "name": "SUPPORTED_BY",
+      "fact": "火灾风险加剧的事件被部分专家的观点所支持",
+      "source_node_uuid": "68d02fde-a30",
+      "target_node_uuid": "4a064d35-0aa",
+      "source_node_name": "锂离子电池热失控专家观点",
+      "target_node_name": "火灾风险加剧",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-11T22:09:21.114808",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0e6a079c-435": {
+      "uuid": "0e6a079c-435",
+      "name": "CAUSED_BY",
+      "fact": "火灾风险加剧的情况是由锂离子电池在特定条件下发生热失控并与山竹果释放的水汽混合所导致的",
+      "source_node_uuid": "d26cf6e3-981",
+      "target_node_uuid": "4a064d35-0aa",
+      "source_node_name": "锂离子电池热失控并与山竹果水汽混合",
+      "target_node_name": "火灾风险加剧",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-11T22:09:21.121803",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

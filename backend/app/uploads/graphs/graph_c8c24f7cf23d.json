@@ -1,0 +1,4488 @@
+{
+  "nodes": {
+    "cceae2c1-7f1": {
+      "uuid": "cceae2c1-7f1",
+      "name": "马来西亚航空公司MH370航班",
+      "labels": [
+        "Event"
+      ],
+      "summary": "涉事波音777-200ER型客机",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司的波音777-200ER型客机，注册编号9M-MRO"
+      },
+      "created_at": "2026-03-12T15:20:07.065563",
+      "updated_at": "2026-03-12T15:20:07.065563"
+    },
+    "a372149b-35b": {
+      "uuid": "a372149b-35b",
+      "name": "马来西亚航空公司MH370航班起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班从吉隆坡国际机场起飞的事件",
+      "attributes": {
+        "timestamp": "2014年3月8日凌晨0时41分（马来西亚时间，UTC+8）",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班于2014年3月8日凌晨0时41分（马来西亚时间，UTC+8）从吉隆坡国际机场（KLIA）起飞的事件"
+      },
+      "created_at": "2026-03-12T15:20:07.068559",
+      "updated_at": "2026-03-12T15:20:07.068559"
+    },
+    "1ab5f4e0-2f3": {
+      "uuid": "1ab5f4e0-2f3",
+      "name": "吉隆坡国际机场（KLIA）",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班的出发机场",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班起飞的出发机场"
+      },
+      "created_at": "2026-03-12T15:20:07.071557",
+      "updated_at": "2026-03-12T15:20:07.071557"
+    },
+    "04cf76b2-087": {
+      "uuid": "04cf76b2-087",
+      "name": "北京首都国际机场",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班原计划抵达的机场",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班原计划抵达的目的地机场"
+      },
+      "created_at": "2026-03-12T15:20:07.073556",
+      "updated_at": "2026-03-12T15:20:07.073556"
+    },
+    "950d6cb3-c13": {
+      "uuid": "950d6cb3-c13",
+      "name": "马来西亚航空公司MH370航班原抵达计划事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班原计划抵达北京首都国际机场的事件",
+      "attributes": {
+        "timestamp": "2014年3月8日北京时间6时30分",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班原定于2014年3月8日北京时间6时30分抵达北京首都国际机场的计划事件"
+      },
+      "created_at": "2026-03-12T15:20:07.076720",
+      "updated_at": "2026-03-12T15:20:07.076720"
+    },
+    "c43b4d6d-4e4": {
+      "uuid": "c43b4d6d-4e4",
+      "name": "马来西亚航空公司MH370航班失踪事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班的失踪事件",
+      "attributes": {
+        "timestamp": "2014年3月8日后",
+        "credibility_score": "0.9",
+        "source": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+        "description": "马来西亚航空公司MH370航班的失踪事件，为该全维度回溯分析文档的核心分析对象"
+      },
+      "created_at": "2026-03-12T15:20:07.078719",
+      "updated_at": "2026-03-12T15:20:07.078719"
+    },
+    "28510e51-3d3": {
+      "uuid": "28510e51-3d3",
+      "name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370失踪事件的全维度回溯分析文档",
+      "attributes": {
+        "timestamp": "2026年3月",
+        "credibility_score": "0.8",
+        "source": "该文档本身",
+        "description": "版本为V3.0，编制于2026年3月，分类为综合研究资料，汇集了截至2026年1月的全部公开信息，涵盖事件时间线、技术数据、残骸发现记录、调查结论、争议假说及最新搜寻进展，旨在为多Agent因果回溯分析系统提供完整的事实基础"
+      },
+      "created_at": "2026-03-12T15:20:07.080718",
+      "updated_at": "2026-03-12T15:20:07.080718"
+    },
+    "581a38e2-5ae": {
+      "uuid": "581a38e2-5ae",
+      "name": "截至2026年1月的MH370相关公开信息",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370事件的全部公开信息",
+      "attributes": {
+        "timestamp": "截至2026年1月",
+        "credibility_score": "0.7",
+        "source": "公开渠道",
+        "description": "涵盖马来西亚航空公司MH370航班事件时间线、技术数据、残骸发现记录、调查结论、争议假说及最新搜寻进展的全部公开信息"
+      },
+      "created_at": "2026-03-12T15:20:07.084764",
+      "updated_at": "2026-03-12T15:20:07.084764"
+    },
+    "b94829e9-169": {
+      "uuid": "b94829e9-169",
+      "name": "MH370航班乘客搭载事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班搭载乘客的整体情况",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "搭载3名其他国籍乘客、伊朗2人（持假护照）、乌克兰2人、加拿大2人、新西兰2人、荷兰1人、俄罗斯1人、中国台湾1人"
+      },
+      "created_at": "2026-03-12T15:20:55.021353",
+      "updated_at": "2026-03-12T15:20:55.021353"
+    },
+    "28fefed9-9e2": {
+      "uuid": "28fefed9-9e2",
+      "name": "MH370航班机组人员配备事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班机组人员配置情况",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "机长扎哈里·艾哈迈德·沙阿（53岁，总飞行时间18365小时，其中波音777机型8659小时），副驾驶法里克·阿卜杜勒·哈米德（27岁，总飞行时间2763小时，正在进行波音777机型过渡训练），另有10名客舱乘务员"
+      },
+      "created_at": "2026-03-12T15:20:55.025349",
+      "updated_at": "2026-03-12T15:20:55.025349"
+    },
+    "656ba07e-7f3": {
+      "uuid": "656ba07e-7f3",
+      "name": "持假护照乘客登机事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "两名伊朗籍乘客使用被盗护照登机的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "普里亚·努尔·穆罕默德·迈赫达德和德拉瓦尔·赛义德·穆罕默德·雷扎使用被盗的奥地利和意大利护照登机，意图经北京转机前往欧洲"
+      },
+      "created_at": "2026-03-12T15:20:55.029351",
+      "updated_at": "2026-03-12T15:20:55.029351"
+    },
+    "a5094ab0-a6f": {
+      "uuid": "a5094ab0-a6f",
+      "name": "国际刑警组织持假护照乘客调查结果",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "国际刑警组织针对持假护照乘客的调查结论",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "确认两名伊朗乘客为非法移民，与恐怖主义无关"
+      },
+      "created_at": "2026-03-12T15:20:55.033346",
+      "updated_at": "2026-03-12T15:20:55.033346"
+    },
+    "3c42527d-8f0": {
+      "uuid": "3c42527d-8f0",
+      "name": "马来西亚机场安检系统漏洞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚机场安检系统存在的安全漏洞",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "给定文本",
+        "description": "马来西亚机场安检系统未能与国际刑警组织被盗和遗失旅行证件数据库（SLTD）进行实时比对"
+      },
+      "created_at": "2026-03-12T15:20:55.037342",
+      "updated_at": "2026-03-12T15:20:55.037342"
+    },
+    "42fbc16f-0b9": {
+      "uuid": "42fbc16f-0b9",
+      "name": "MH370货舱装载山竹果事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370货舱装载山竹果的情况",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "装载约4566公斤新鲜山竹果，装在货舱前部"
+      },
+      "created_at": "2026-03-12T15:20:55.042338",
+      "updated_at": "2026-03-12T15:20:55.042338"
+    },
+    "4055b93c-651": {
+      "uuid": "4055b93c-651",
+      "name": "MH370货舱装载锂离子电池事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370货舱装载锂离子电池的情况",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "装载221公斤摩托罗拉品牌锂离子电池，由飞达物流公司托运"
+      },
+      "created_at": "2026-03-12T15:20:55.046529",
+      "updated_at": "2026-03-12T15:20:55.046529"
+    },
+    "408b722b-85b": {
+      "uuid": "408b722b-85b",
+      "name": "MH370货物清单",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370货舱装载的货物明细",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "包含约4566公斤新鲜山竹果（装在货舱前部）、221公斤摩托罗拉品牌锂离子电池（由飞达物流公司托运）"
+      },
+      "created_at": "2026-03-12T15:20:55.051525",
+      "updated_at": "2026-03-12T15:20:55.051525"
+    },
+    "c2c69e24-cd8": {
+      "uuid": "c2c69e24-cd8",
+      "name": "MH370起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班起飞事件",
+      "attributes": {
+        "timestamp": "2014年3月8日00:41 MYT",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "MH370从吉隆坡国际机场27L跑道起飞"
+      },
+      "created_at": "2026-03-12T15:21:38.981482",
+      "updated_at": "2026-03-12T15:21:38.981482"
+    },
+    "917d5df7-cb1": {
+      "uuid": "917d5df7-cb1",
+      "name": "扎哈里模拟飞行事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "机长扎哈里的模拟飞行事件",
+      "attributes": {
+        "timestamp": "2014年3月7日",
+        "credibility_score": "0.85",
+        "source": "美国联邦调查局（FBI）",
+        "description": "机长扎哈里在家中的飞行模拟器上进行了最后一次模拟飞行"
+      },
+      "created_at": "2026-03-12T15:21:38.984587",
+      "updated_at": "2026-03-12T15:21:38.984587"
+    },
+    "b5eb02c1-d77": {
+      "uuid": "b5eb02c1-d77",
+      "name": "FBI恢复的扎哈里飞行模拟器数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "美国联邦调查局恢复的扎哈里飞行模拟器数据",
+      "attributes": {
+        "timestamp": "后续",
+        "credibility_score": "0.9",
+        "source": "美国联邦调查局（FBI）",
+        "description": "从扎哈里的硬盘中恢复了被删除的数据，包含从吉隆坡起飞、向西北飞越马六甲海峡、随后左转向南飞入南印度洋直至燃油耗尽的模拟航线"
+      },
+      "created_at": "2026-03-12T15:21:38.987585",
+      "updated_at": "2026-03-12T15:21:38.987585"
+    },
+    "672fc6c4-a30": {
+      "uuid": "672fc6c4-a30",
+      "name": "法里克报到事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "副驾驶法里克报到事件",
+      "attributes": {
+        "timestamp": "2014年3月7日晚",
+        "credibility_score": "0.8",
+        "source": "文本内容",
+        "description": "副驾驶法里克当晚正常报到，这是他在波音777机型上的第5次飞行，属于过渡训练阶段"
+      },
+      "created_at": "2026-03-12T15:21:38.991583",
+      "updated_at": "2026-03-12T15:21:38.991583"
+    },
+    "0728e15d-289": {
+      "uuid": "0728e15d-289",
+      "name": "装载新鲜山竹果事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "货舱装载新鲜山竹果事件",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.8",
+        "source": "文本内容",
+        "description": "装载5吨新鲜山竹果在货舱前部"
+      },
+      "created_at": "2026-03-12T15:21:38.994675",
+      "updated_at": "2026-03-12T15:21:38.994675"
+    },
+    "83a708d6-93c": {
+      "uuid": "83a708d6-93c",
+      "name": "装载锂离子电池事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "货舱装载锂离子电池事件",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.8",
+        "source": "文本内容",
+        "description": "装载221公斤摩托罗拉品牌锂离子电池，由飞达物流公司托运"
+      },
+      "created_at": "2026-03-12T15:21:38.997673",
+      "updated_at": "2026-03-12T15:21:38.997673"
+    },
+    "c17a6945-d23": {
+      "uuid": "c17a6945-d23",
+      "name": "锂离子电池热失控风险事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "锂离子电池热失控及火灾风险事件",
+      "attributes": {
+        "timestamp": "特定条件下",
+        "credibility_score": "0.7",
+        "source": "部分专家",
+        "description": "锂离子电池在特定条件下可能发生热失控，与山竹果释放的水汽混合后可能加剧火灾风险"
+      },
+      "created_at": "2026-03-12T15:21:39.001671",
+      "updated_at": "2026-03-12T15:21:39.001671"
+    },
+    "7bc74656-d85": {
+      "uuid": "7bc74656-d85",
+      "name": "装载神秘货物事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "货舱装载神秘货物事件",
+      "attributes": {
+        "timestamp": "起飞前",
+        "credibility_score": "0.7",
+        "source": "文本内容及另有报道",
+        "description": "一件重约89公斤的货物被装载上机，货运单上的描述模糊不清；另有报道称起飞前还装载了约90.72公斤（200磅）的未详细说明物品，马来西亚当局始终未公开这些货物的完整清单和详细说明"
+      },
+      "created_at": "2026-03-12T15:21:39.006376",
+      "updated_at": "2026-03-12T15:21:39.006376"
+    },
+    "77eb3ef4-439": {
+      "uuid": "77eb3ef4-439",
+      "name": "MH370吉隆坡起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370从吉隆坡国际机场27L跑道起飞",
+      "attributes": {
+        "timestamp": "00:41 MYT（16:41 UTC 3月7日）",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "00:41 MYT（16:41 UTC 3月7日）：MH370从吉隆坡国际机场27L跑道起飞。"
+      },
+      "created_at": "2026-03-12T15:22:49.657462",
+      "updated_at": "2026-03-12T15:22:49.657462"
+    },
+    "355e10d8-7fc": {
+      "uuid": "355e10d8-7fc",
+      "name": "MH370正常爬升事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370正常爬升，应答机工作正常并显示航班号MH370，爬升至巡航高度FL350",
+      "attributes": {
+        "timestamp": "00:42",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "00:42：飞机正常爬升，应答机（Transponder）工作正常，显示航班号MH370，飞行高度逐步爬升至巡航高度FL350（35,000英尺）。"
+      },
+      "created_at": "2026-03-12T15:22:49.664644",
+      "updated_at": "2026-03-12T15:22:49.664644"
+    },
+    "644b8a57-c5d": {
+      "uuid": "644b8a57-c5d",
+      "name": "MH370到达巡航高度事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370到达巡航高度35000英尺，进入南海上空并沿IGARI航路点飞行",
+      "attributes": {
+        "timestamp": "01:01",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "01:01：飞机到达巡航高度35,000英尺（约10,668米），进入南海上空，沿预定航路IGARI航路点方向飞行。"
+      },
+      "created_at": "2026-03-12T15:22:49.670640",
+      "updated_at": "2026-03-12T15:22:49.670640"
+    },
+    "437234be-e17": {
+      "uuid": "437234be-e17",
+      "name": "ACARS最后一次正常数据报告事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "ACARS发送最后一次正常自动数据报告，包含发动机性能、燃油消耗等参数",
+      "attributes": {
+        "timestamp": "01:07",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "01:07：ACARS（飞机通信寻址和报告系统）发送最后一次正常的自动数据报告，包含发动机性能数据、燃油消耗等参数，一切正常。"
+      },
+      "created_at": "2026-03-12T15:22:49.677640",
+      "updated_at": "2026-03-12T15:22:49.677640"
+    },
+    "52adb9cb-e93": {
+      "uuid": "52adb9cb-e93",
+      "name": "MH370最后一次无线电通信事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "吉隆坡空管指示MH370联系胡志明空管，副驾驶回复晚安，为最后一次无线电通信",
+      "attributes": {
+        "timestamp": "01:19:24",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "01:19:24：吉隆坡空管中心指示MH370联系胡志明空管中心。副驾驶法里克回复：\"Good night, Malaysian Three Seven Zero\"（晚安，马来西亚370）。这是MH370发出的最后一次无线电通信。"
+      },
+      "created_at": "2026-03-12T15:22:49.684777",
+      "updated_at": "2026-03-12T15:22:49.684777"
+    },
+    "c60f684d-edb": {
+      "uuid": "c60f684d-edb",
+      "name": "MH370越过马越FIR边界事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370越过马来西亚与越南飞行情报区边界（IGARI航路点）",
+      "attributes": {
+        "timestamp": "01:20:36",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "01:20:36：飞机越过马来西亚与越南飞行情报区（FIR）的边界，即IGARI航路点。"
+      },
+      "created_at": "2026-03-12T15:22:49.689772",
+      "updated_at": "2026-03-12T15:22:49.689772"
+    },
+    "3615d55e-357": {
+      "uuid": "3615d55e-357",
+      "name": "MH370应答机信号消失事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的应答机信号消失",
+      "attributes": {
+        "timestamp": "01:20:36",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "01:20:36：此后应答机信号消失。"
+      },
+      "created_at": "2026-03-12T15:22:49.693771",
+      "updated_at": "2026-03-12T15:22:49.693771"
+    },
+    "9d905477-445": {
+      "uuid": "9d905477-445",
+      "name": "MH370应答机手动关闭事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的应答机被手动关闭，非设备故障，需驾驶舱有意识操作",
+      "attributes": {
+        "timestamp": "01:20:36左右",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "根据调查，应答机被手动关闭——这不是简单的设备故障，而是需要在驾驶舱内有意识地操作才能实现。"
+      },
+      "created_at": "2026-03-12T15:22:49.697879",
+      "updated_at": "2026-03-12T15:22:49.697879"
+    },
+    "6b2b5877-14c": {
+      "uuid": "6b2b5877-14c",
+      "name": "MH370应答机关闭调查证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "调查显示MH370应答机被手动关闭，非设备故障，需驾驶舱有意识操作",
+      "attributes": {
+        "timestamp": "无明确单独时间",
+        "credibility_score": "0.9",
+        "source": "给定的MH370飞行记录文本",
+        "description": "根据调查，应答机被手动关闭——这不是简单的设备故障，而是需要在驾驶舱内有意识地操作才能实现。"
+      },
+      "created_at": "2026-03-12T15:22:49.701876",
+      "updated_at": "2026-03-12T15:22:49.701876"
+    },
+    "a72c7bd9-343": {
+      "uuid": "a72c7bd9-343",
+      "name": "应答机被手动关闭",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机应答机被人为手动关闭，非设备故障，需驾驶舱内有意识操作",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "航空事故调查结果",
+        "description": "该操作并非简单的设备故障，需要在驾驶舱内有意识地操作才能实现"
+      },
+      "created_at": "2026-03-12T15:24:16.182244",
+      "updated_at": "2026-03-12T15:24:16.182244"
+    },
+    "e9afe292-83c": {
+      "uuid": "e9afe292-83c",
+      "name": "应答机关闭调查证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "支持应答机被手动关闭结论的调查结果",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "航空事故调查人员",
+        "description": "调查得出飞机应答机被手动关闭，而非设备故障的结论"
+      },
+      "created_at": "2026-03-12T15:24:16.190240",
+      "updated_at": "2026-03-12T15:24:16.190240"
+    },
+    "6fc25b30-daa": {
+      "uuid": "6fc25b30-daa",
+      "name": "ADS-B信号中断",
+      "labels": [
+        "Event"
+      ],
+      "summary": "01:21时ADS-B信号同时中断",
+      "attributes": {
+        "timestamp": "01:21",
+        "credibility_score": "0.95",
+        "source": "民航雷达监控记录",
+        "description": "广播式自动相关监视信号中断"
+      },
+      "created_at": "2026-03-12T15:24:16.199232",
+      "updated_at": "2026-03-12T15:24:16.199232"
+    },
+    "22edc8b9-319": {
+      "uuid": "22edc8b9-319",
+      "name": "飞机从民航雷达屏幕消失",
+      "labels": [
+        "Event"
+      ],
+      "summary": "01:21时飞机从民航雷达屏幕消失",
+      "attributes": {
+        "timestamp": "01:21",
+        "credibility_score": "0.95",
+        "source": "民航雷达监控记录",
+        "description": "01:21时飞机从民航雷达屏幕上消失"
+      },
+      "created_at": "2026-03-12T15:24:16.206227",
+      "updated_at": "2026-03-12T15:24:16.206227"
+    },
+    "94314825-d27": {
+      "uuid": "94314825-d27",
+      "name": "民航雷达监控记录",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "记录ADS-B信号中断及飞机从民航雷达消失的监控数据",
+      "attributes": {
+        "timestamp": "01:21",
+        "credibility_score": "0.95",
+        "source": "民航雷达系统",
+        "description": "记录了01:21时ADS-B信号中断以及飞机从民航雷达屏幕上消失的情况"
+      },
+      "created_at": "2026-03-12T15:24:16.212224",
+      "updated_at": "2026-03-12T15:24:16.212224"
+    },
+    "8499f7a2-852": {
+      "uuid": "8499f7a2-852",
+      "name": "ACARS系统未按计划发送定时数据报告",
+      "labels": [
+        "Event"
+      ],
+      "summary": "01:37时ACARS系统未按计划发送下一次定时数据报告",
+      "attributes": {
+        "timestamp": "01:37",
+        "credibility_score": "0.9",
+        "source": "ACARS系统运行记录",
+        "description": "ACARS系统正常数据报告间隔为30分钟，本次未按计划发送下一次定时数据报告"
+      },
+      "created_at": "2026-03-12T15:24:16.217220",
+      "updated_at": "2026-03-12T15:24:16.217220"
+    },
+    "32a3572e-d4b": {
+      "uuid": "32a3572e-d4b",
+      "name": "飞机主电源总线被切断",
+      "labels": [
+        "Event"
+      ],
+      "summary": "01:37时飞机主电源总线被切断，导致多个系统同时断电",
+      "attributes": {
+        "timestamp": "01:37",
+        "credibility_score": "0.9",
+        "source": "航空系统分析结果",
+        "description": "该操作需要对波音777的电气系统有深入了解，导致包括ACARS在内的多个系统同时断电"
+      },
+      "created_at": "2026-03-12T15:24:16.221218",
+      "updated_at": "2026-03-12T15:24:16.221218"
+    },
+    "f280acd8-da9": {
+      "uuid": "f280acd8-da9",
+      "name": "ACARS系统异常分析报告",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "分析ACARS系统异常原因的报告",
+      "attributes": {
+        "timestamp": "01:37",
+        "credibility_score": "0.85",
+        "source": "航空系统分析专家",
+        "description": "分析表明ACARS并非被单独关闭，而是飞机的主电源总线被切断，导致包括ACARS在内的多个系统同时断电"
+      },
+      "created_at": "2026-03-12T15:24:16.226215",
+      "updated_at": "2026-03-12T15:24:16.226215"
+    },
+    "1d0bc081-267": {
+      "uuid": "1d0bc081-267",
+      "name": "马来西亚皇家空军军用雷达监控数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "记录不明飞行目标轨迹的军用雷达监控数据",
+      "attributes": {
+        "timestamp": "01:30-02:22",
+        "credibility_score": "0.9",
+        "source": "马来西亚皇家空军",
+        "description": "哥打巴鲁和西马来西亚的雷达站捕捉到的不明飞行目标的轨迹、高度、航向等数据"
+      },
+      "created_at": "2026-03-12T15:24:16.231211",
+      "updated_at": "2026-03-12T15:24:16.231211"
+    },
+    "d86f969b-eaf": {
+      "uuid": "d86f969b-eaf",
+      "name": "马来西亚皇家空军雷达捕捉到不明飞行目标",
+      "labels": [
+        "Event"
+      ],
+      "summary": "01:30-02:22期间马来西亚皇家空军雷达捕捉到不明飞行目标",
+      "attributes": {
+        "timestamp": "01:30-02:22",
+        "credibility_score": "0.9",
+        "source": "马来西亚皇家空军军用雷达监控数据",
+        "description": "捕捉到的不明飞行目标在IGARI航路点附近近180度掉头，向西南飞行穿越马来半岛，沿马六甲海峡向西北飞行"
+      },
+      "created_at": "2026-03-12T15:24:16.237208",
+      "updated_at": "2026-03-12T15:24:16.237208"
+    },
+    "b6fa9799-0d3": {
+      "uuid": "b6fa9799-0d3",
+      "name": "不明飞行目标高度与航向大幅变化",
+      "labels": [
+        "Event"
+      ],
+      "summary": "不明飞行目标高度大幅变化，一度超出波音777正常运营高度",
+      "attributes": {
+        "timestamp": "01:30-02:22",
+        "credibility_score": "0.9",
+        "source": "马来西亚皇家空军军用雷达监控数据",
+        "description": "目标一度爬升至45000英尺，超出波音777正常运营高度上限43100英尺，随后又下降至23000英尺"
+      },
+      "created_at": "2026-03-12T15:24:16.242205",
+      "updated_at": "2026-03-12T15:24:16.242205"
+    },
+    "293969d3-298": {
+      "uuid": "293969d3-298",
+      "name": "飞机最后一次出现在军用雷达",
+      "labels": [
+        "Event"
+      ],
+      "summary": "02:22时飞机最后一次出现在槟城岛西北约200海里的安达曼海上空",
+      "attributes": {
+        "timestamp": "02:22",
+        "credibility_score": "0.95",
+        "source": "马来西亚皇家空军军用雷达监控数据",
+        "description": "位置在槟城岛西北约200海里处，安达曼海上空"
+      },
+      "created_at": "2026-03-12T15:24:16.250201",
+      "updated_at": "2026-03-12T15:24:16.250201"
+    },
+    "c0558e49-30d": {
+      "uuid": "c0558e49-30d",
+      "name": "飞机完全脱离所有雷达监控范围",
+      "labels": [
+        "Event"
+      ],
+      "summary": "02:22之后飞机完全脱离所有雷达监控范围",
+      "attributes": {
+        "timestamp": "02:22之后",
+        "credibility_score": "0.95",
+        "source": "马来西亚皇家空军军用雷达监控数据",
+        "description": "此后飞机未再出现在任何雷达监控范围内"
+      },
+      "created_at": "2026-03-12T15:24:16.259195",
+      "updated_at": "2026-03-12T15:24:16.259195"
+    },
+    "e57b639a-4f7": {
+      "uuid": "e57b639a-4f7",
+      "name": "不明飞行目标飞行模式被解读为有意规避民用雷达",
+      "labels": [
+        "Event"
+      ],
+      "summary": "部分专家将不明飞行目标的飞行模式解读为有意规避民用雷达覆盖范围",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "航空专家",
+        "description": "基于马来西亚皇家空军军用雷达监控数据，部分专家将目标的飞行模式解读为有意规避民用雷达覆盖范围"
+      },
+      "created_at": "2026-03-12T15:24:16.267435",
+      "updated_at": "2026-03-12T15:24:16.267435"
+    },
+    "c717c5af-936": {
+      "uuid": "c717c5af-936",
+      "name": "飞机首次雷达侦测事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机在军用雷达上被侦测到的事件",
+      "attributes": {
+        "timestamp": "无",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机出现在槟城岛西北约200海里处安达曼海上空的军用雷达上"
+      },
+      "created_at": "2026-03-12T15:25:26.599749",
+      "updated_at": "2026-03-12T15:25:26.599749"
+    },
+    "d026b377-5a9": {
+      "uuid": "d026b377-5a9",
+      "name": "飞机脱离雷达监控事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机完全脱离所有雷达监控范围的事件",
+      "attributes": {
+        "timestamp": "无",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机完全脱离所有雷达监控范围"
+      },
+      "created_at": "2026-03-12T15:25:26.611743",
+      "updated_at": "2026-03-12T15:25:26.611743"
+    },
+    "6c25356f-20c": {
+      "uuid": "6c25356f-20c",
+      "name": "卫星握手信号阶段",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机SDU与卫星进行握手通信的阶段",
+      "attributes": {
+        "timestamp": "02:25 - 08:19 MYT",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "2.4阶段，飞机Inmarsat卫星数据单元与卫星进行握手通信的时间段"
+      },
+      "created_at": "2026-03-12T15:25:26.619734",
+      "updated_at": "2026-03-12T15:25:26.619734"
+    },
+    "d6acb33f-a6f": {
+      "uuid": "d6acb33f-a6f",
+      "name": "飞机电源恢复事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机电源恢复的事件",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机电源恢复，使得SDU重新启动的事件"
+      },
+      "created_at": "2026-03-12T15:25:26.625730",
+      "updated_at": "2026-03-12T15:25:26.625730"
+    },
+    "a9686040-10f": {
+      "uuid": "a9686040-10f",
+      "name": "SDU重启事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Inmarsat卫星数据单元重启的事件",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机电源恢复后，Inmarsat卫星数据单元（SDU）重新启动"
+      },
+      "created_at": "2026-03-12T15:25:26.633726",
+      "updated_at": "2026-03-12T15:25:26.633726"
+    },
+    "8ce841a3-080": {
+      "uuid": "8ce841a3-080",
+      "name": "SDU重新上电事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "SDU重新上电的事件",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "02:25时SDU重新上电的事件"
+      },
+      "created_at": "2026-03-12T15:25:26.639722",
+      "updated_at": "2026-03-12T15:25:26.639722"
+    },
+    "01bee7b3-a6f": {
+      "uuid": "01bee7b3-a6f",
+      "name": "SDU登录握手事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "SDU与卫星完成登录握手的事件",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "02:25时SDU重新上电并与Inmarsat-3 F1卫星完成登录握手"
+      },
+      "created_at": "2026-03-12T15:25:26.646718",
+      "updated_at": "2026-03-12T15:25:26.646718"
+    },
+    "5cde64c3-f42": {
+      "uuid": "5cde64c3-f42",
+      "name": "APU/主发动机供电恢复事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机APU或主发动机恢复对SDU供电的事件",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "SDU完成登录握手表明飞机辅助动力装置（APU）或主发动机恢复对SDU供电"
+      },
+      "created_at": "2026-03-12T15:25:26.653713",
+      "updated_at": "2026-03-12T15:25:26.653713"
+    },
+    "c3ba4d7c-697": {
+      "uuid": "c3ba4d7c-697",
+      "name": "卫星握手通信事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "SDU与卫星进行自动握手通信的事件",
+      "attributes": {
+        "timestamp": "02:25 - 08:19 MYT",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机SDU与印度洋上空的Inmarsat-3 F1卫星进行的一系列自动握手通信"
+      },
+      "created_at": "2026-03-12T15:25:26.660710",
+      "updated_at": "2026-03-12T15:25:26.660710"
+    },
+    "ef361cf5-691": {
+      "uuid": "ef361cf5-691",
+      "name": "6次整点卫星握手事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "卫星记录的6次整点握手信号事件",
+      "attributes": {
+        "timestamp": "02:25 - 08:11",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "02:25 - 08:11期间卫星记录到6次整点握手信号，分别在02:25、03:41、04:41、05:41、06:41、08:11"
+      },
+      "created_at": "2026-03-12T15:25:26.667704",
+      "updated_at": "2026-03-12T15:25:26.667704"
+    },
+    "103ff812-a4f": {
+      "uuid": "103ff812-a4f",
+      "name": "卫星握手信号证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "追踪MH370最后飞行路径的唯一线索",
+      "attributes": {
+        "timestamp": "02:25 - 08:19 MYT",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "飞机SDU与Inmarsat-3 F1卫星进行的一系列自动握手通信信号，是追踪MH370最后飞行路径的唯一线索"
+      },
+      "created_at": "2026-03-12T15:25:26.675511",
+      "updated_at": "2026-03-12T15:25:26.675511"
+    },
+    "66cf2475-0b7": {
+      "uuid": "66cf2475-0b7",
+      "name": "SDU异常重启证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "证明SDU重启为异常事件的证据",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "无",
+        "source": "给定文本",
+        "description": "SDU的重启本身是异常事件，正常飞行中SDU不会断电重启"
+      },
+      "created_at": "2026-03-12T15:25:26.682513",
+      "updated_at": "2026-03-12T15:25:26.682513"
+    },
+    "08400f27-cb4": {
+      "uuid": "08400f27-cb4",
+      "name": "SDU重启为异常事件",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:25:26.689508",
+      "updated_at": "2026-03-12T15:25:26.689508"
+    },
+    "ad93cc3b-227": {
+      "uuid": "ad93cc3b-227",
+      "name": "MH370最后飞行路径追踪",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:25:26.712497",
+      "updated_at": "2026-03-12T15:25:26.712497"
+    },
+    "093a09be-0b0": {
+      "uuid": "093a09be-0b0",
+      "name": "02:25握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的一次定时握手信号",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "约每小时一次的MH370握手信号之一"
+      },
+      "created_at": "2026-03-12T15:26:42.208121",
+      "updated_at": "2026-03-12T15:26:42.208121"
+    },
+    "6edf6f74-0cb": {
+      "uuid": "6edf6f74-0cb",
+      "name": "03:41握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的一次定时握手信号",
+      "attributes": {
+        "timestamp": "03:41",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "约每小时一次的MH370握手信号之一"
+      },
+      "created_at": "2026-03-12T15:26:42.221280",
+      "updated_at": "2026-03-12T15:26:42.221280"
+    },
+    "c56da133-6e6": {
+      "uuid": "c56da133-6e6",
+      "name": "04:41握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的一次定时握手信号",
+      "attributes": {
+        "timestamp": "04:41",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "约每小时一次的MH370握手信号之一"
+      },
+      "created_at": "2026-03-12T15:26:42.233884",
+      "updated_at": "2026-03-12T15:26:42.233884"
+    },
+    "3b592a90-f3c": {
+      "uuid": "3b592a90-f3c",
+      "name": "05:41握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的一次定时握手信号",
+      "attributes": {
+        "timestamp": "05:41",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "约每小时一次的MH370握手信号之一"
+      },
+      "created_at": "2026-03-12T15:26:42.247167",
+      "updated_at": "2026-03-12T15:26:42.247167"
+    },
+    "f7611d89-952": {
+      "uuid": "f7611d89-952",
+      "name": "06:41握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的一次定时握手信号",
+      "attributes": {
+        "timestamp": "06:41",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "约每小时一次的MH370握手信号之一"
+      },
+      "created_at": "2026-03-12T15:26:42.255524",
+      "updated_at": "2026-03-12T15:26:42.255524"
+    },
+    "d285440d-111": {
+      "uuid": "d285440d-111",
+      "name": "08:11第6次握手信号",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的第6次握手信号",
+      "attributes": {
+        "timestamp": "08:11",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "其BTO数据定义了第七弧线，是飞机与卫星最后一次正常通信时的握手信号"
+      },
+      "created_at": "2026-03-12T15:26:42.263764",
+      "updated_at": "2026-03-12T15:26:42.263764"
+    },
+    "df242b26-c30": {
+      "uuid": "df242b26-c30",
+      "name": "08:19异常握手请求",
+      "labels": [
+        "Event"
+      ],
+      "summary": "卫星记录的异常握手请求",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.95",
+        "source": "文本内容",
+        "description": "异常的、不完整的握手请求，被认为是MH370发出的最后信号"
+      },
+      "created_at": "2026-03-12T15:26:42.271759",
+      "updated_at": "2026-03-12T15:26:42.271759"
+    },
+    "945ec8e4-f0e": {
+      "uuid": "945ec8e4-f0e",
+      "name": "APU短暂启动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机辅助动力系统短暂启动",
+      "attributes": {
+        "timestamp": "08:19左右",
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "飞机燃油耗尽后，APU短暂启动，利用残余燃油或重力供油"
+      },
+      "created_at": "2026-03-12T15:26:42.279852",
+      "updated_at": "2026-03-12T15:26:42.279852"
+    },
+    "930313f9-1d0": {
+      "uuid": "930313f9-1d0",
+      "name": "SDU短暂上电",
+      "labels": [
+        "Event"
+      ],
+      "summary": "卫星数据单元短暂上电",
+      "attributes": {
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "由APU短暂启动导致的SDU再次短暂上电事件"
+      },
+      "created_at": "2026-03-12T15:26:42.287847",
+      "updated_at": "2026-03-12T15:26:42.287847"
+    },
+    "bf85413f-0f6": {
+      "uuid": "bf85413f-0f6",
+      "name": "吉隆坡空管未确认移交事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "空中交通管制失误事件",
+      "attributes": {
+        "timestamp": "01:19 - 01:38",
+        "credibility_score": "0.85",
+        "source": "文本内容",
+        "description": "吉隆坡空管在指示MH370联系胡志明后，未按程序确认移交是否完成"
+      },
+      "created_at": "2026-03-12T15:26:42.295941",
+      "updated_at": "2026-03-12T15:26:42.295941"
+    },
+    "fa84d20e-fc5": {
+      "uuid": "fa84d20e-fc5",
+      "name": "飞机燃油耗尽",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370燃油耗尽事件",
+      "attributes": {
+        "credibility_score": "0.85",
+        "source": "文本内容",
+        "description": "导致APU短暂启动的前置事件"
+      },
+      "created_at": "2026-03-12T15:26:42.307932",
+      "updated_at": "2026-03-12T15:26:42.307932"
+    },
+    "b00da481-e25": {
+      "uuid": "b00da481-e25",
+      "name": "BTO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "突发时间偏移数据",
+      "attributes": {
+        "credibility_score": "0.95",
+        "source": "文本内容",
+        "description": "根据信号往返时间计算飞机与卫星之间的距离，可画出以卫星星下点为中心的等距弧线"
+      },
+      "created_at": "2026-03-12T15:26:42.315928",
+      "updated_at": "2026-03-12T15:26:42.315928"
+    },
+    "be7e98db-4ca": {
+      "uuid": "be7e98db-4ca",
+      "name": "BFO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "突发频率偏移数据",
+      "attributes": {
+        "credibility_score": "0.95",
+        "source": "文本内容",
+        "description": "根据多普勒效应反映飞机的运动方向和速度分量"
+      },
+      "created_at": "2026-03-12T15:26:42.324922",
+      "updated_at": "2026-03-12T15:26:42.324922"
+    },
+    "c7d4cada-399": {
+      "uuid": "c7d4cada-399",
+      "name": "第七弧线（7th Arc）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "飞机与卫星最后一次正常通信的等距弧线",
+      "attributes": {
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "由08:11第6次握手信号的BTO数据定义的等距弧线"
+      },
+      "created_at": "2026-03-12T15:26:42.332917",
+      "updated_at": "2026-03-12T15:26:42.332917"
+    },
+    "49d283be-e4b": {
+      "uuid": "49d283be-e4b",
+      "name": "08:19异常握手请求BFO值",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "08:19异常握手请求的突发频率偏移值",
+      "attributes": {
+        "credibility_score": "0.9",
+        "source": "文本内容",
+        "description": "该值表明飞机当时正在高速下降"
+      },
+      "created_at": "2026-03-12T15:26:42.341911",
+      "updated_at": "2026-03-12T15:26:42.341911"
+    },
+    "ae05d0ae-72e": {
+      "uuid": "ae05d0ae-72e",
+      "name": "08:11第6次握手信号BTO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "08:11第6次握手信号的突发时间偏移数据",
+      "attributes": {
+        "credibility_score": "0.95",
+        "source": "文本内容",
+        "description": "定义了第七弧线（7th Arc）的BTO数据"
+      },
+      "created_at": "2026-03-12T15:26:42.350004",
+      "updated_at": "2026-03-12T15:26:42.350004"
+    },
+    "5ce509e4-bbe": {
+      "uuid": "5ce509e4-bbe",
+      "name": "飞机当时正在高速下降",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:26:42.412604",
+      "updated_at": "2026-03-12T15:26:42.412604"
+    },
+    "fb6e1e02-8bb": {
+      "uuid": "fb6e1e02-8bb",
+      "name": "MH370发出的最后信号",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:26:42.430458",
+      "updated_at": "2026-03-12T15:26:42.430458"
+    },
+    "8673aa37-f58": {
+      "uuid": "8673aa37-f58",
+      "name": "吉隆坡空管未确认MH370移交胡志明程序完成",
+      "labels": [
+        "Event"
+      ],
+      "summary": "吉隆坡空管在指示MH370联系胡志明后未按程序确认移交是否完成",
+      "attributes": {
+        "timestamp": "01:19 - 01:38",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "吉隆坡空管在指示MH370联系胡志明后，未按程序确认移交是否完成"
+      },
+      "created_at": "2026-03-12T15:27:48.190111",
+      "updated_at": "2026-03-12T15:27:48.190111"
+    },
+    "143df347-c3d": {
+      "uuid": "143df347-c3d",
+      "name": "胡志明空管未立即启动MH370失联紧急程序",
+      "labels": [
+        "Event"
+      ],
+      "summary": "胡志明空管发现MH370未报到后仅内部询问未启动紧急程序",
+      "attributes": {
+        "timestamp": "01:38",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "胡志明空管注意到MH370未在其频率上报到，但仅通过内部渠道询问，未立即启动紧急程序"
+      },
+      "created_at": "2026-03-12T15:27:48.207101",
+      "updated_at": "2026-03-12T15:27:48.207101"
+    },
+    "93c9d2df-9b5": {
+      "uuid": "93c9d2df-9b5",
+      "name": "马航运营中心尝试联系MH370未获回应",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马航运营中心通过ACARS联系MH370无回应",
+      "attributes": {
+        "timestamp": "02:03",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "马来西亚航空运营中心尝试通过ACARS联系MH370，未获回应"
+      },
+      "created_at": "2026-03-12T15:27:48.221093",
+      "updated_at": "2026-03-12T15:27:48.221093"
+    },
+    "938475aa-17e": {
+      "uuid": "938475aa-17e",
+      "name": "胡志明空管通知吉隆坡空管MH370未联系",
+      "labels": [
+        "Event"
+      ],
+      "summary": "胡志明空管正式告知吉隆坡空管MH370未联系",
+      "attributes": {
+        "timestamp": "02:15",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "胡志明空管正式通知吉隆坡空管MH370未联系"
+      },
+      "created_at": "2026-03-12T15:27:48.230087",
+      "updated_at": "2026-03-12T15:27:48.230087"
+    },
+    "e5715d20-a38": {
+      "uuid": "e5715d20-a38",
+      "name": "马航正式宣布MH370航班失联",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚航空正式宣布MH370失联",
+      "attributes": {
+        "timestamp": "05:30",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "马来西亚航空正式宣布航班失联，距最后通信已过去超过4小时"
+      },
+      "created_at": "2026-03-12T15:27:48.240080",
+      "updated_at": "2026-03-12T15:27:48.240080"
+    },
+    "e442926b-ab3": {
+      "uuid": "e442926b-ab3",
+      "name": "MH370搜救行动正式启动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370搜救行动正式启动",
+      "attributes": {
+        "timestamp": "06:32",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "MH370搜救行动正式启动，距失联已近5小时"
+      },
+      "created_at": "2026-03-12T15:27:48.249585",
+      "updated_at": "2026-03-12T15:27:48.249585"
+    },
+    "9192527c-481": {
+      "uuid": "9192527c-481",
+      "name": "2018年MH370失联事件最终调查报告",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "批评MH370失联后的相关延误",
+      "attributes": {
+        "timestamp": "2018年",
+        "credibility_score": "0.85",
+        "source": "MH370事件相关文本",
+        "description": "针对MH370失联事件的2018年最终调查报告，严厉批评了事件中的相关延误"
+      },
+      "created_at": "2026-03-12T15:27:48.259577",
+      "updated_at": "2026-03-12T15:27:48.259577"
+    },
+    "4f65bbf6-7f3": {
+      "uuid": "4f65bbf6-7f3",
+      "name": "Inmarsat卫星BTO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "用于计算飞机与卫星斜距的卫星数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "MH370事件相关文本",
+        "description": "BTO（Burst Timing Offset）是卫星信号从地面站经卫星转发到飞机再返回的总延迟时间，通过已知的地面站位置、卫星位置和信号传播速度，可以计算出飞机与卫星之间的斜距，进而在地球表面画出一条等距弧线，每次握手产生一条弧线，共7条弧线"
+      },
+      "created_at": "2026-03-12T15:27:48.272569",
+      "updated_at": "2026-03-12T15:27:48.272569"
+    },
+    "9d39407b-15e": {
+      "uuid": "9d39407b-15e",
+      "name": "Inmarsat卫星BFO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "反映多普勒频移的卫星数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "MH370事件相关文本",
+        "description": "BFO（Burst Frequency Offset）反映了由于飞机运动和卫星运动导致的多普勒频移"
+      },
+      "created_at": "2026-03-12T15:27:48.282563",
+      "updated_at": "2026-03-12T15:27:48.282563"
+    },
+    "f337f63f-d45": {
+      "uuid": "f337f63f-d45",
+      "name": "通过BTO数据计算飞机与卫星斜距及绘制等距弧线",
+      "labels": [
+        "Event"
+      ],
+      "summary": "利用BTO数据结合已知参数计算斜距并绘制弧线",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "通过已知的地面站位置、卫星位置和信号传播速度，结合Inmarsat卫星BTO数据，可以计算出飞机与卫星之间的斜距，进而在地球表面画出一条等距弧线，每次握手产生一条弧线，共7条弧线"
+      },
+      "created_at": "2026-03-12T15:27:48.292557",
+      "updated_at": "2026-03-12T15:27:48.292557"
+    },
+    "2ae66500-90f": {
+      "uuid": "2ae66500-90f",
+      "name": "BFO数据反映飞机与卫星运动导致的多普勒频移",
+      "labels": [
+        "Event"
+      ],
+      "summary": "BFO数据可反映多普勒频移现象",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事件相关文本",
+        "description": "BFO（Burst Frequency Offset）反映了由于飞机运动和卫星运动导致的多普勒频移"
+      },
+      "created_at": "2026-03-12T15:27:48.302550",
+      "updated_at": "2026-03-12T15:27:48.302550"
+    },
+    "c3b03ba4-5fb": {
+      "uuid": "c3b03ba4-5fb",
+      "name": "MH370失联后存在相关延误",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:27:48.312544",
+      "updated_at": "2026-03-12T15:27:48.312544"
+    },
+    "816771f7-911": {
+      "uuid": "816771f7-911",
+      "name": "BFO（Burst Frequency Offset）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "反映由于飞机运动和卫星运动导致的多普勒频移的参数",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "可用于分析判断飞机飞行方向的多普勒频移参数"
+      },
+      "created_at": "2026-03-12T15:28:52.050090",
+      "updated_at": "2026-03-12T15:28:52.050090"
+    },
+    "011d73f7-f66": {
+      "uuid": "011d73f7-f66",
+      "name": "第2次握手开始的BFO数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "从第2次握手开始的BFO值相关数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "关键发现所用的BFO数据，用于判断飞机飞行方向"
+      },
+      "created_at": "2026-03-12T15:28:52.061084",
+      "updated_at": "2026-03-12T15:28:52.061084"
+    },
+    "4aab7c24-d1f": {
+      "uuid": "4aab7c24-d1f",
+      "name": "第七弧线",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370最后一次正常握手时的等距弧线，横跨南印度洋",
+      "attributes": {
+        "timestamp": "08:11 MYT",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "从南纬约20度延伸至南纬约40度，用于缩小MH370坠海区域的等距弧线"
+      },
+      "created_at": "2026-03-12T15:28:52.079072",
+      "updated_at": "2026-03-12T15:28:52.079072"
+    },
+    "ee19a371-a0b": {
+      "uuid": "ee19a371-a0b",
+      "name": "飞机性能参数",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "包括巡航速度、燃油消耗率的飞机相关参数",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "用于辅助确定MH370坠海区域的参数"
+      },
+      "created_at": "2026-03-12T15:28:52.092246",
+      "updated_at": "2026-03-12T15:28:52.092246"
+    },
+    "0563acca-944": {
+      "uuid": "0563acca-944",
+      "name": "风场数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "用于飞行路径分析的风场相关数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.85",
+        "source": "MH370事故调查文本",
+        "description": "用于辅助确定MH370坠海区域的数据"
+      },
+      "created_at": "2026-03-12T15:28:52.108240",
+      "updated_at": "2026-03-12T15:28:52.108240"
+    },
+    "6207d747-1ea": {
+      "uuid": "6207d747-1ea",
+      "name": "08:19的最后异常信号的BFO值",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "值为-2 Hz的08:19最后异常信号的BFO数据",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "用于分析飞机最终下降状态的BFO数据"
+      },
+      "created_at": "2026-03-12T15:28:52.123229",
+      "updated_at": "2026-03-12T15:28:52.123229"
+    },
+    "06dab7a8-bb3": {
+      "uuid": "06dab7a8-bb3",
+      "name": "卫星数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "用于重建MH370飞行路径的卫星相关数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "用于分析MH370脱离雷达后的飞行路径的数据"
+      },
+      "created_at": "2026-03-12T15:28:52.134223",
+      "updated_at": "2026-03-12T15:28:52.134223"
+    },
+    "0b1a25dd-85f": {
+      "uuid": "0b1a25dd-85f",
+      "name": "军用雷达监控数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "记录MH370脱离雷达监控情况的监控数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "用于获取MH370脱离军用雷达时间的监控数据"
+      },
+      "created_at": "2026-03-12T15:28:52.145222",
+      "updated_at": "2026-03-12T15:28:52.145222"
+    },
+    "4c63fd86-efb": {
+      "uuid": "4c63fd86-efb",
+      "name": "飞机向南飞行",
+      "labels": [
+        "Event"
+      ],
+      "summary": "通过BFO数据判断的MH370飞行方向行为",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "从第2次握手开始的MH370飞行方向"
+      },
+      "created_at": "2026-03-12T15:28:52.156398",
+      "updated_at": "2026-03-12T15:28:52.156398"
+    },
+    "bfaf90a7-3c4": {
+      "uuid": "bfaf90a7-3c4",
+      "name": "排除北线飞行可能性",
+      "labels": [
+        "Event"
+      ],
+      "summary": "排除MH370经中亚飞往哈萨克斯坦方向的北线可能性的结论事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "基于BFO数据得出的排除北线的结论"
+      },
+      "created_at": "2026-03-12T15:28:52.168389",
+      "updated_at": "2026-03-12T15:28:52.168389"
+    },
+    "6b8430c5-7ba": {
+      "uuid": "6b8430c5-7ba",
+      "name": "确定MH370最可能坠海区域",
+      "labels": [
+        "Event"
+      ],
+      "summary": "缩小MH370坠海区域的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "将坠海区域缩小到第七弧线上南纬34度至38度之间的区域"
+      },
+      "created_at": "2026-03-12T15:28:52.180385",
+      "updated_at": "2026-03-12T15:28:52.180385"
+    },
+    "c2975a5f-e79": {
+      "uuid": "c2975a5f-e79",
+      "name": "飞机以15000英尺/分钟速率下降",
+      "labels": [
+        "Event"
+      ],
+      "summary": "08:19异常信号对应的飞机下降速率行为",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "与08:19 BFO值预期一致的飞机下降速率"
+      },
+      "created_at": "2026-03-12T15:28:52.193374",
+      "updated_at": "2026-03-12T15:28:52.193374"
+    },
+    "553584ee-9f2": {
+      "uuid": "553584ee-9f2",
+      "name": "飞机燃油耗尽后进入不受控俯冲或螺旋下降",
+      "labels": [
+        "Event"
+      ],
+      "summary": "根据08:19 BFO值得出的MH370最终状态事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "MH370燃油耗尽后的飞行状态"
+      },
+      "created_at": "2026-03-12T15:28:52.207366",
+      "updated_at": "2026-03-12T15:28:52.207366"
+    },
+    "5657bfa3-692": {
+      "uuid": "5657bfa3-692",
+      "name": "MH370脱离军用雷达监控",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370脱离军用雷达监控的事件",
+      "attributes": {
+        "timestamp": "02:22",
+        "credibility_score": "0.95",
+        "source": "MH370事故调查文本",
+        "description": "MH370在02:22脱离军用雷达监控"
+      },
+      "created_at": "2026-03-12T15:28:52.221358",
+      "updated_at": "2026-03-12T15:28:52.221358"
+    },
+    "aa585318-61f": {
+      "uuid": "aa585318-61f",
+      "name": "飞机向西北飞行至安达曼海上空",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370脱离雷达后的首次飞行行为",
+      "attributes": {
+        "timestamp": "02:22之后",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "脱离军用雷达后向西北飞行至安达曼海上空"
+      },
+      "created_at": "2026-03-12T15:28:52.237347",
+      "updated_at": "2026-03-12T15:28:52.237347"
+    },
+    "ff8ef73e-5e1": {
+      "uuid": "ff8ef73e-5e1",
+      "name": "飞机转向南方穿越印度洋",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370转向后的跨洋飞行行为",
+      "attributes": {
+        "timestamp": "02:25 SDU重启前后",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "沿接近正南的航向飞行穿越印度洋"
+      },
+      "created_at": "2026-03-12T15:28:52.249340",
+      "updated_at": "2026-03-12T15:28:52.249340"
+    },
+    "fb7b7bea-9fa": {
+      "uuid": "fb7b7bea-9fa",
+      "name": "重建MH370脱离雷达后的飞行路径",
+      "labels": [
+        "Event"
+      ],
+      "summary": "基于卫星数据的飞行路径重建事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "MH370事故调查文本",
+        "description": "调查人员重建MH370脱离雷达监控后的可能飞行路径"
+      },
+      "created_at": "2026-03-12T15:28:52.261499",
+      "updated_at": "2026-03-12T15:28:52.261499"
+    },
+    "a446e196-9c0": {
+      "uuid": "a446e196-9c0",
+      "name": "MH370前期海上搜索行动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "针对MH370的前期海上搜索行动",
+      "attributes": {
+        "timestamp": "无明确具体时间",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "搜索面积累计超过460万平方公里，期间多次发现疑似漂浮物，但均未确认与MH370有关"
+      },
+      "created_at": "2026-03-12T15:30:04.771908",
+      "updated_at": "2026-03-12T15:30:04.771908"
+    },
+    "c42df365-21d": {
+      "uuid": "c42df365-21d",
+      "name": "MH370第三阶段海底搜索行动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "澳大利亚交通安全局（ATSB）主导的MH370海底搜索行动",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "人类历史上最大规模的水下搜索行动，使用拖曳式声呐设备和自主水下航行器（AUV），在南印度洋第七弧线附近进行系统性海底扫描，搜索面积达120,000平方公里，水深3,000-6,000米，耗资约2亿澳元（约1.5亿美元），发现两艘19世纪沉船残骸，但未找到MH370的任何部件"
+      },
+      "created_at": "2026-03-12T15:30:04.792895",
+      "updated_at": "2026-03-12T15:30:04.792895"
+    },
+    "b773e772-5a5": {
+      "uuid": "b773e772-5a5",
+      "name": "MH370第四阶段Ocean Infinity搜索行动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "美国深海探测公司Ocean Infinity开展的MH370搜索行动",
+      "attributes": {
+        "timestamp": "2018年1月-5月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "与马来西亚政府签订\"无果不付费\"协议，使用其旗舰船\"海底建造者号\"（Seabed Constructor）搭载8台AUV同时作业，搜索区域位于此前官方搜索区域以北，覆盖约112,000平方公里，搜索于2018年5月29日结束，未找到飞机残骸，若找到则Ocean Infinity将获得最高7,000万美元的报酬"
+      },
+      "created_at": "2026-03-12T15:30:04.811097",
+      "updated_at": "2026-03-12T15:30:04.811097"
+    },
+    "5f16098c-a24": {
+      "uuid": "5f16098c-a24",
+      "name": "疑似漂浮物",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370搜索期间发现的疑似漂浮物",
+      "attributes": {
+        "timestamp": "无明确具体时间",
+        "credibility_score": "0.8",
+        "source": "给定文本",
+        "description": "在MH370相关搜索行动中多次被发现，但均未确认与MH370有关"
+      },
+      "created_at": "2026-03-12T15:30:04.823198",
+      "updated_at": "2026-03-12T15:30:04.823198"
+    },
+    "9c90074c-d72": {
+      "uuid": "9c90074c-d72",
+      "name": "拖曳式声呐设备",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370第三阶段海底搜索使用的设备",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "澳大利亚交通安全局（ATSB）主导的海底搜索行动中使用的搜索设备之一"
+      },
+      "created_at": "2026-03-12T15:30:04.836284",
+      "updated_at": "2026-03-12T15:30:04.836284"
+    },
+    "3bfe9182-ddb": {
+      "uuid": "3bfe9182-ddb",
+      "name": "自主水下航行器（AUV）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370搜索行动使用的自主水下航行设备",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月、2018年1月-5月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "在MH370第三阶段海底搜索行动和第四阶段Ocean Infinity搜索行动中均有使用"
+      },
+      "created_at": "2026-03-12T15:30:04.849276",
+      "updated_at": "2026-03-12T15:30:04.849276"
+    },
+    "b7ade7a0-f22": {
+      "uuid": "b7ade7a0-f22",
+      "name": "海底建造者号（Seabed Constructor）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Ocean Infinity搜索行动使用的旗舰船",
+      "attributes": {
+        "timestamp": "2018年1月-5月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "搭载8台自主水下航行器（AUV）同时作业的旗舰船"
+      },
+      "created_at": "2026-03-12T15:30:04.862367",
+      "updated_at": "2026-03-12T15:30:04.862367"
+    },
+    "34682016-284": {
+      "uuid": "34682016-284",
+      "name": "19世纪沉船残骸",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370第三阶段海底搜索发现的残骸",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "共两艘，在MH370第三阶段海底搜索行动中被发现"
+      },
+      "created_at": "2026-03-12T15:30:04.875553",
+      "updated_at": "2026-03-12T15:30:04.875553"
+    },
+    "25e5ed67-6f5": {
+      "uuid": "25e5ed67-6f5",
+      "name": "未找到MH370飞机残骸（第三阶段）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370第三阶段海底搜索的结果",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "MH370第三阶段海底搜索行动未找到MH370的任何部件"
+      },
+      "created_at": "2026-03-12T15:30:04.888661",
+      "updated_at": "2026-03-12T15:30:04.888661"
+    },
+    "3c3b43a5-184": {
+      "uuid": "3c3b43a5-184",
+      "name": "未找到MH370飞机残骸（第四阶段）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370第四阶段搜索的结果",
+      "attributes": {
+        "timestamp": "2018年1月-5月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "MH370第四阶段Ocean Infinity搜索行动未找到飞机残骸"
+      },
+      "created_at": "2026-03-12T15:30:04.904915",
+      "updated_at": "2026-03-12T15:30:04.904915"
+    },
+    "1ec71072-c34": {
+      "uuid": "1ec71072-c34",
+      "name": "29日MH370搜寻行动",
+      "labels": [
+        "Event"
+      ],
+      "summary": "一次未找到残骸的MH370搜寻行动",
+      "attributes": {
+        "timestamp": "29日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "该搜寻行动结束，未找到MH370飞机残骸"
+      },
+      "created_at": "2026-03-12T15:30:53.111982",
+      "updated_at": "2026-03-12T15:30:53.111982"
+    },
+    "d40388ef-f7a": {
+      "uuid": "d40388ef-f7a",
+      "name": "2025年3月马来西亚内阁审批MH370搜寻协议",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚内阁的审批行为",
+      "attributes": {
+        "timestamp": "2025年3月",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "正式批准与Ocean Infinity签署新的服务协议，授权其在印度洋南部约15000平方公里区域开展MH370搜寻"
+      },
+      "created_at": "2026-03-12T15:30:53.126185",
+      "updated_at": "2026-03-12T15:30:53.126185"
+    },
+    "4c668a45-a6c": {
+      "uuid": "4c668a45-a6c",
+      "name": "2025年底MH370第五阶段搜寻重启",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370第五阶段搜寻的重启行动",
+      "attributes": {
+        "timestamp": "2025年底至2026年1月15日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "采用间歇方式进行（受天气影响），截至2026年1月15日累计覆盖面积超7000平方公里，未发现重大线索，使用升级后的AUV技术和更精确的海底测绘设备"
+      },
+      "created_at": "2026-03-12T15:30:53.140293",
+      "updated_at": "2026-03-12T15:30:53.140293"
+    },
+    "06f72a8c-655": {
+      "uuid": "06f72a8c-655",
+      "name": "2026年初MH370碎片发现事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370相关碎片的发现行动",
+      "attributes": {
+        "timestamp": "2026年初",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "在非洲东海岸和印度洋岛屿上陆续发现36块经确认或高度可能属于MH370的碎片"
+      },
+      "created_at": "2026-03-12T15:30:53.154476",
+      "updated_at": "2026-03-12T15:30:53.154476"
+    },
+    "a0864bc0-dfb": {
+      "uuid": "a0864bc0-dfb",
+      "name": "MH370搜寻报酬触发条件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Ocean Infinity获取搜寻报酬的条件",
+      "attributes": {
+        "timestamp": "未提及",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "若找到MH370飞机残骸，Ocean Infinity将获得最高7000万美元的报酬"
+      },
+      "created_at": "2026-03-12T15:30:53.169467",
+      "updated_at": "2026-03-12T15:30:53.169467"
+    },
+    "6a60ae89-9fc": {
+      "uuid": "6a60ae89-9fc",
+      "name": "MH370第五阶段搜寻数据证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "第五阶段搜寻的相关数据证据",
+      "attributes": {
+        "timestamp": "2025年底至2026年1月15日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "截至2026年1月15日，MH370第五阶段搜寻累计覆盖面积超7000平方公里，未发现重大线索，使用升级后的AUV技术和更精确的海底测绘设备"
+      },
+      "created_at": "2026-03-12T15:30:53.184725",
+      "updated_at": "2026-03-12T15:30:53.184725"
+    },
+    "0782a6ab-727": {
+      "uuid": "0782a6ab-727",
+      "name": "MH370碎片实物证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "已发现的MH370相关碎片证据",
+      "attributes": {
+        "timestamp": "2026年初",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "在非洲东海岸和印度洋岛屿上发现的36块经确认或高度可能属于MH370的碎片"
+      },
+      "created_at": "2026-03-12T15:30:53.205713",
+      "updated_at": "2026-03-12T15:30:53.205713"
+    },
+    "c29769fe-ec1": {
+      "uuid": "c29769fe-ec1",
+      "name": "36块MH370相关碎片",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "非洲东海岸和印度洋岛屿发现的MH370相关残骸碎片",
+      "attributes": {
+        "timestamp": "截至2026年初",
+        "credibility_score": "0.85",
+        "source": "非洲东海岸和印度洋岛屿的发现行动",
+        "description": "共36块经确认或高度可能属于MH370的碎片，包含右翼襟副翼、右翼外侧襟翼等关键残骸"
+      },
+      "created_at": "2026-03-12T15:32:03.902729",
+      "updated_at": "2026-03-12T15:32:03.902729"
+    },
+    "4d41a03f-4b3": {
+      "uuid": "4d41a03f-4b3",
+      "name": "右翼襟副翼（Flaperon）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370的右翼襟副翼残骸部件",
+      "attributes": {
+        "timestamp": "2015年7月29日",
+        "credibility_score": "0.95",
+        "source": "法属留尼汪岛圣安德烈海滩、法国航空事故调查局（BEA）、波音公司",
+        "description": "部件编号657BB，可追溯至波音777-200ER机型，经确认属于MH370的9M-MRO；襟副翼后缘呈锯齿状撕裂，表面附着大量藤壶，其生长模式被用于推算残骸在海上的漂流时间，是MH370坠入印度洋的首个物理证据"
+      },
+      "created_at": "2026-03-12T15:32:03.928715",
+      "updated_at": "2026-03-12T15:32:03.928715"
+    },
+    "17ebb2be-d40": {
+      "uuid": "17ebb2be-d40",
+      "name": "右翼外侧襟翼（Outboard Flap）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370的右翼外侧襟翼残骸部件",
+      "attributes": {
+        "timestamp": "2016年6月（发现）、2016年9月（确认归属）",
+        "credibility_score": "0.9",
+        "source": "坦桑尼亚奔巴岛、相关检测机构",
+        "description": "经检测该襟翼在事发时处于收起状态，而非着陆构型，该发现对‘机长控制飞机进行水上迫降’的假说构成重大挑战"
+      },
+      "created_at": "2026-03-12T15:32:03.945703",
+      "updated_at": "2026-03-12T15:32:03.945703"
+    },
+    "a9f467a3-86d": {
+      "uuid": "a9f467a3-86d",
+      "name": "MH370坠入印度洋",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370的最终坠毁事件",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "0.9",
+        "source": "MH370残骸证据",
+        "description": "MH370最终坠入印度洋的事件"
+      },
+      "created_at": "2026-03-12T15:32:03.965691",
+      "updated_at": "2026-03-12T15:32:03.965691"
+    },
+    "cdeb4a14-1ee": {
+      "uuid": "cdeb4a14-1ee",
+      "name": "机长控制飞机水上迫降",
+      "labels": [
+        "Event"
+      ],
+      "summary": "关于MH370失事的假说事件; 针对MH370的假说事件，主张机长控制飞机进行水上迫降",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "0.5",
+        "source": "相关失事假说",
+        "description": "认为MH370失事是由机长控制飞机进行水上迫降导致的假说事件"
+      },
+      "created_at": "2026-03-12T15:32:03.989675",
+      "updated_at": "2026-03-12T15:33:53.859269"
+    },
+    "f86a8c71-1ca": {
+      "uuid": "f86a8c71-1ca",
+      "name": "飞机坠海",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370最终发生坠海的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "MH370发生坠海的事件，由残骸发现佐证"
+      },
+      "created_at": "2026-03-12T15:33:53.876259",
+      "updated_at": "2026-03-12T15:33:53.876259"
+    },
+    "de73b108-90b": {
+      "uuid": "de73b108-90b",
+      "name": "飞机结构性解体",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370在坠落过程中经历的结构性解体事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "文本暗示MH370在坠落过程中可能经历的结构性解体事件"
+      },
+      "created_at": "2026-03-12T15:33:53.892250",
+      "updated_at": "2026-03-12T15:33:53.892250"
+    },
+    "9e710b33-766": {
+      "uuid": "9e710b33-766",
+      "name": "襟翼应处于放下状态推论",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "从机长控制飞机水上迫降假说推导得出的推论证据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "若机长控制飞机进行水上迫降，襟翼应处于放下状态的推论"
+      },
+      "created_at": "2026-03-12T15:33:53.908239",
+      "updated_at": "2026-03-12T15:33:53.908239"
+    },
+    "59c2871b-d36": {
+      "uuid": "59c2871b-d36",
+      "name": "MH370水平安定面碎片（残骸3）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "在莫桑比克维兰库洛海滩发现的MH370残骸",
+      "attributes": {
+        "timestamp": "2016年3月",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "2016年3月在莫桑比克维兰库洛海滩发现的水平安定面碎片，高度可能属于MH370"
+      },
+      "created_at": "2026-03-12T15:33:53.924231",
+      "updated_at": "2026-03-12T15:33:53.924231"
+    },
+    "9193c0d3-143": {
+      "uuid": "9193c0d3-143",
+      "name": "MH370发动机整流罩碎片（残骸4）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "在南非发现的MH370残骸",
+      "attributes": {
+        "timestamp": "2016年3月",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "2016年3月在南非发现的发动机整流罩碎片，高度可能属于MH370"
+      },
+      "created_at": "2026-03-12T15:33:53.940220",
+      "updated_at": "2026-03-12T15:33:53.940220"
+    },
+    "ea0daa01-e03": {
+      "uuid": "ea0daa01-e03",
+      "name": "MH370内饰面板碎片（残骸5）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "在毛里求斯发现的MH370残骸",
+      "attributes": {
+        "timestamp": "2016年",
+        "credibility_score": "0.95",
+        "source": "文本",
+        "description": "2016年在毛里求斯发现的内饰面板碎片，2016年10月确认属于MH370，为第三块正式确认的MH370残骸"
+      },
+      "created_at": "2026-03-12T15:33:53.955210",
+      "updated_at": "2026-03-12T15:33:53.955210"
+    },
+    "18a55b1e-3ac": {
+      "uuid": "18a55b1e-3ac",
+      "name": "MH370左起落架耳轴门部件（残骸6）",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "在马达加斯加海岸发现的MH370残骸",
+      "attributes": {
+        "timestamp": "2022年12月",
+        "credibility_score": "0.9",
+        "source": "文本",
+        "description": "2022年12月确认在马达加斯加海岸发现的左起落架耳轴门部件，此前在马达加斯加渔民家中被当作洗衣板使用约5年，高度可能属于MH370"
+      },
+      "created_at": "2026-03-12T15:33:53.971201",
+      "updated_at": "2026-03-12T15:33:53.971201"
+    },
+    "07c99354-06c": {
+      "uuid": "07c99354-06c",
+      "name": "起落架放下状态证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "表明飞机坠海时起落架可能处于放下状态的证据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "通过对MH370左起落架耳轴门部件的分析得出的，飞机坠海时起落架可能处于放下状态的证据"
+      },
+      "created_at": "2026-03-12T15:33:53.990189",
+      "updated_at": "2026-03-12T15:33:53.990189"
+    },
+    "9f33dc4b-21a": {
+      "uuid": "9f33dc4b-21a",
+      "name": "襟翼收起状态证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "表明襟翼处于收起状态的发现证据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "与起落架放下状态证据形成矛盾的襟翼状态相关发现"
+      },
+      "created_at": "2026-03-12T15:33:54.006180",
+      "updated_at": "2026-03-12T15:33:54.006180"
+    },
+    "a0b15985-2f9": {
+      "uuid": "a0b15985-2f9",
+      "name": "起落架与襟翼状态矛盾证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "起落架放下状态和襟翼收起状态的发现形成的矛盾证据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "起落架放下状态的发现与襟翼收起状态的发现形成矛盾，正常情况下放下起落架和收起襟翼不会同时出现"
+      },
+      "created_at": "2026-03-12T15:33:54.023168",
+      "updated_at": "2026-03-12T15:33:54.023168"
+    },
+    "813ddf37-285": {
+      "uuid": "813ddf37-285",
+      "name": "MH370残骸分布区域证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "关于MH370残骸分布区域的证据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "",
+        "source": "文本",
+        "description": "所有已发现的MH370残骸均位于印度洋西侧，从留尼汪岛到坦桑尼亚、莫桑比克、马达加斯加、南非和毛里求斯"
+      },
+      "created_at": "2026-03-12T15:33:54.039158",
+      "updated_at": "2026-03-12T15:33:54.039158"
+    },
+    "2141d51a-90f": {
+      "uuid": "2141d51a-90f",
+      "name": "MH370残骸分布数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "在印度洋西侧发现的MH370残骸分布情况",
+      "attributes": {
+        "source": "文本分析内容",
+        "description": "所有已发现的MH370残骸均位于印度洋西侧，范围从留尼汪岛延伸至坦桑尼亚、莫桑比克、马达加斯加、南非和毛里求斯"
+      },
+      "created_at": "2026-03-12T15:35:00.413320",
+      "updated_at": "2026-03-12T15:35:00.413320"
+    },
+    "02a81af2-f1b": {
+      "uuid": "02a81af2-f1b",
+      "name": "南印度洋洋流系统",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "南印度洋的洋流系统情况",
+      "attributes": {
+        "source": "文本分析内容",
+        "description": "包含南赤道暖流，其将漂浮物从东向西输送，经莫桑比克海峡和马达加斯加周围分散到非洲东海岸各处"
+      },
+      "created_at": "2026-03-12T15:35:00.428310",
+      "updated_at": "2026-03-12T15:35:00.428310"
+    },
+    "9f17a388-dba": {
+      "uuid": "9f17a388-dba",
+      "name": "CSIRO洋流推算结果",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "澳大利亚联邦科学与工业研究组织（CSIRO）的洋流漂移模型反向推算结果",
+      "attributes": {
+        "source": "澳大利亚联邦科学与工业研究组织（CSIRO）",
+        "description": "结合残骸发现时间和地点进行反向推算，支持飞机坠毁在第七弧线南纬32度至36度之间的假设"
+      },
+      "created_at": "2026-03-12T15:35:00.441303",
+      "updated_at": "2026-03-12T15:35:00.441303"
+    },
+    "f1aab8f7-1ff": {
+      "uuid": "f1aab8f7-1ff",
+      "name": "格里芬漂流实验结果",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "澳洲海洋学家格里芬博士的飞机侧翼复制品漂流实验结果",
+      "attributes": {
+        "source": "澳洲海洋学家格里芬博士",
+        "description": "复制品的漂流轨迹在排除误差后与真实残片的发现模式相符"
+      },
+      "created_at": "2026-03-12T15:35:00.455672",
+      "updated_at": "2026-03-12T15:35:00.455672"
+    },
+    "a0c7f59d-d84": {
+      "uuid": "a0c7f59d-d84",
+      "name": "MH370坠毁事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班坠毁事件",
+      "attributes": {
+        "source": "CSIRO推算及文本分析",
+        "description": "推测发生在南纬32度至36度的第七弧线区域的MH370航班坠毁事件"
+      },
+      "created_at": "2026-03-12T15:35:00.469705",
+      "updated_at": "2026-03-12T15:35:00.469705"
+    },
+    "5b4d7b00-976": {
+      "uuid": "5b4d7b00-976",
+      "name": "MH370人为偏航事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班的掉头和偏航事件",
+      "attributes": {
+        "source": "马来西亚航空器事故调查组",
+        "description": "MH370航班的掉头和偏航是人为控制的，不排除第三方非法干涉，但无证据表明被遥控操控"
+      },
+      "created_at": "2026-03-12T15:35:00.483697",
+      "updated_at": "2026-03-12T15:35:00.483697"
+    },
+    "ccb1a6d3-658": {
+      "uuid": "ccb1a6d3-658",
+      "name": "MH3702018最终调查报告",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "马来西亚官方发布的MH370航班事故最终调查报告",
+      "attributes": {
+        "timestamp": "2018年7月30日",
+        "source": "马来西亚航空器事故调查组",
+        "description": "长达495页，包含两条核心结论：人为控制偏航、飞行员无异常证据"
+      },
+      "created_at": "2026-03-12T15:35:00.497690",
+      "updated_at": "2026-03-12T15:35:00.497690"
+    },
+    "28722c1e-1d2": {
+      "uuid": "28722c1e-1d2",
+      "name": "格里芬漂流实验事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "澳洲海洋学家格里芬博士开展的漂流实验",
+      "attributes": {
+        "source": "澳洲海洋学家格里芬博士",
+        "description": "从波音公司获取真实飞机侧翼，切割成与留尼汪岛发现的襟副翼相似的形状，装上定位系统放入印度洋洋流中"
+      },
+      "created_at": "2026-03-12T15:35:00.511116",
+      "updated_at": "2026-03-12T15:35:00.511116"
+    },
+    "f50ad23a-a30": {
+      "uuid": "f50ad23a-a30",
+      "name": "MH370飞行员状态事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班机长和副驾驶的状态事件",
+      "attributes": {
+        "source": "马来西亚航空器事故调查组",
+        "description": "机长和副驾驶均持有有效执照，身体健康，得到充分休息"
+      },
+      "created_at": "2026-03-12T15:35:00.526105",
+      "updated_at": "2026-03-12T15:35:00.526105"
+    },
+    "831a561a-dcf": {
+      "uuid": "831a561a-dcf",
+      "name": "MH370失联事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班失联的事件",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "文本调查内容",
+        "description": "MH370航班失联，调查组最终无法确认其真正原因，受害人及飞机均未找到"
+      },
+      "created_at": "2026-03-12T15:36:08.154232",
+      "updated_at": "2026-03-12T15:36:08.154232"
+    },
+    "7b8d1f6b-76f": {
+      "uuid": "7b8d1f6b-76f",
+      "name": "飞行员无异常证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "证明飞行员无异常的证据",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论2",
+        "description": "机长和副驾驶均持有有效执照，身体健康，得到了充分休息，无证据显示他们处于焦虑、经济压力或情感困扰之下"
+      },
+      "created_at": "2026-03-12T15:36:08.176220",
+      "updated_at": "2026-03-12T15:36:08.176220"
+    },
+    "16e715e1-6c0": {
+      "uuid": "16e715e1-6c0",
+      "name": "飞行员无异常结论",
+      "labels": [
+        "Event"
+      ],
+      "summary": "关于飞行员无异常的结论",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论2",
+        "description": "结论2指出飞行员无异常"
+      },
+      "created_at": "2026-03-12T15:36:08.198206",
+      "updated_at": "2026-03-12T15:36:08.198206"
+    },
+    "dc2dafb6-306": {
+      "uuid": "dc2dafb6-306",
+      "name": "排除机械故障的证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "证明飞机无机械故障的证据",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论3",
+        "description": "飞机维护状况良好，因故障或缺陷导致MH370失联的可能性可以排除"
+      },
+      "created_at": "2026-03-12T15:36:08.225189",
+      "updated_at": "2026-03-12T15:36:08.225189"
+    },
+    "1e438f05-ded": {
+      "uuid": "1e438f05-ded",
+      "name": "排除机械故障结论",
+      "labels": [
+        "Event"
+      ],
+      "summary": "关于排除机械故障的结论",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论3",
+        "description": "结论3指出可以排除机械故障导致MH370失联的可能性"
+      },
+      "created_at": "2026-03-12T15:36:08.250340",
+      "updated_at": "2026-03-12T15:36:08.250340"
+    },
+    "8f563862-318": {
+      "uuid": "8f563862-318",
+      "name": "空管未及时启动紧急措施事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "空中交通管制员未及时启动紧急措施的事件",
+      "attributes": {
+        "timestamp": "MH370失联后",
+        "credibility_score": "未明确",
+        "source": "结论4",
+        "description": "空中交通管制员未及时启动紧急措施"
+      },
+      "created_at": "2026-03-12T15:36:08.268327",
+      "updated_at": "2026-03-12T15:36:08.268327"
+    },
+    "ca45cab8-55b": {
+      "uuid": "ca45cab8-55b",
+      "name": "推迟MH370搜救行动启动事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370失联后搜救行动启动被推迟的事件",
+      "attributes": {
+        "timestamp": "MH370失联后",
+        "credibility_score": "未明确",
+        "source": "结论4",
+        "description": "MH370失联后的搜救行动启动被推迟"
+      },
+      "created_at": "2026-03-12T15:36:08.287316",
+      "updated_at": "2026-03-12T15:36:08.287316"
+    },
+    "926754be-fad": {
+      "uuid": "926754be-fad",
+      "name": "调查组无法确认MH370失联原因事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "调查组无法确认MH370失联真正原因的事件",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论5",
+        "description": "调查组最终无法确认MH370失联的真正原因"
+      },
+      "created_at": "2026-03-12T15:36:08.305305",
+      "updated_at": "2026-03-12T15:36:08.305305"
+    },
+    "aca2786a-c53": {
+      "uuid": "aca2786a-c53",
+      "name": "受害人及飞机均未找到证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "证明受害人及飞机均未找到的证据",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "结论5",
+        "description": "调查组负责人指出受害人没找到，飞机没找到"
+      },
+      "created_at": "2026-03-12T15:36:08.323294",
+      "updated_at": "2026-03-12T15:36:08.323294"
+    },
+    "a7bf4558-4e4": {
+      "uuid": "a7bf4558-4e4",
+      "name": "机长扎哈里被列为MH370调查重点事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "机长扎哈里被列为MH370调查重点关注对象的事件",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "6.2 机长嫌疑与FBI模拟器证据",
+        "description": "机长扎哈里一直是MH370调查的重点关注对象"
+      },
+      "created_at": "2026-03-12T15:36:08.342283",
+      "updated_at": "2026-03-12T15:36:08.342283"
+    },
+    "b54a46be-d0a": {
+      "uuid": "b54a46be-d0a",
+      "name": "FBI飞行模拟器硬盘取证证据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "FBI对扎哈里家中飞行模拟器硬盘的取证得到的关键证据",
+      "attributes": {
+        "timestamp": "MH370消失数周后",
+        "credibility_score": "未明确",
+        "source": "6.2 机长嫌疑与FBI模拟器证据",
+        "description": "成功恢复了MH370消失数周前被删除的6个飞行模拟数据点，这些数据点记录的模拟航线与MH370实际飞行路径高度吻合"
+      },
+      "created_at": "2026-03-12T15:36:08.360271",
+      "updated_at": "2026-03-12T15:36:08.360271"
+    },
+    "8ac3a689-07d": {
+      "uuid": "8ac3a689-07d",
+      "name": "模拟航线与MH370实际飞行路径吻合结论",
+      "labels": [
+        "Event"
+      ],
+      "summary": "关于模拟航线与MH370实际飞行路径高度吻合的结论",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "6.2 机长嫌疑与FBI模拟器证据",
+        "description": "FBI的取证分析显示模拟航线与MH370实际飞行路径高度吻合"
+      },
+      "created_at": "2026-03-12T15:36:08.378260",
+      "updated_at": "2026-03-12T15:36:08.378260"
+    },
+    "9666e47b-176": {
+      "uuid": "9666e47b-176",
+      "name": "机长扎哈里飞行模拟事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "扎哈里使用飞行模拟器进行模拟飞行的事件",
+      "attributes": {
+        "timestamp": "MH370消失数周前",
+        "credibility_score": "未明确",
+        "source": "6.2 机长嫌疑与FBI模拟器证据",
+        "description": "模拟飞行的航线为从吉隆坡起飞、向西北飞越马六甲海峡、随后左转向南飞入南印度洋直至燃油耗尽"
+      },
+      "created_at": "2026-03-12T15:36:08.396249",
+      "updated_at": "2026-03-12T15:36:08.396249"
+    },
+    "40e2c385-240": {
+      "uuid": "40e2c385-240",
+      "name": "马来西亚官方MH370最终调查报告",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚官方发布的MH370最终调查报告",
+      "attributes": {
+        "timestamp": "未明确",
+        "credibility_score": "未明确",
+        "source": "6.2 机长嫌疑与FBI模拟器证据",
+        "description": "马来西亚官方发布的MH370最终调查报告，未详细提及FBI的模拟器取证发现"
+      },
+      "created_at": "2026-03-12T15:36:08.415239",
+      "updated_at": "2026-03-12T15:37:27.009130"
+    },
+    "f681eed1-8f1": {
+      "uuid": "f681eed1-8f1",
+      "name": "飞行模拟器南印度洋航线数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的支持证据之一",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "来自飞行模拟器的南印度洋航线数据，用于支持机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.697304",
+      "updated_at": "2026-03-12T15:37:26.697304"
+    },
+    "285dac05-462": {
+      "uuid": "285dac05-462",
+      "name": "通信系统被系统性逐一关闭",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的支持证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "通信系统被系统性逐一关闭且需要专业知识，用于支持机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.721289",
+      "updated_at": "2026-03-12T15:37:26.721289"
+    },
+    "85a113ae-bd4": {
+      "uuid": "85a113ae-bd4",
+      "name": "飞行路径规避雷达覆盖",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的支持证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "飞行路径显示有意规避雷达覆盖，用于支持机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.741277",
+      "updated_at": "2026-03-12T15:37:26.741277"
+    },
+    "7c991f83-f14": {
+      "uuid": "7c991f83-f14",
+      "name": "飞机人为控制偏航",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的支持证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "飞机在人为控制下偏航，用于支持机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.760265",
+      "updated_at": "2026-03-12T15:37:26.760265"
+    },
+    "b3680b98-415": {
+      "uuid": "b3680b98-415",
+      "name": "未发现机长心理问题",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的反对证据",
+      "attributes": {
+        "source": "MH370官方调查报告",
+        "description": "官方调查未发现机长有心理问题或异常行为，用于反对机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.779254",
+      "updated_at": "2026-03-12T15:37:26.779254"
+    },
+    "f2cf16be-dae": {
+      "uuid": "f2cf16be-dae",
+      "name": "亲友描述机长友善",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的反对证据",
+      "attributes": {
+        "source": "MH370调查相关访谈",
+        "description": "亲友描述机长为友善、热爱生活的人，用于反对机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.801241",
+      "updated_at": "2026-03-12T15:37:26.801241"
+    },
+    "4a4b3747-fb4": {
+      "uuid": "4a4b3747-fb4",
+      "name": "襟翼收起状态不符迫降",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说A的反对证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "襟翼收起状态与\"控制迫降\"不符，可说明机长直接坠海，用于反对机长蓄意行为假说"
+      },
+      "created_at": "2026-03-12T15:37:26.831234",
+      "updated_at": "2026-03-12T15:37:26.831234"
+    },
+    "d1f750b6-8c2": {
+      "uuid": "d1f750b6-8c2",
+      "name": "官方报告不排除第三方干涉",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说B的支持证据",
+      "attributes": {
+        "source": "MH370官方调查报告",
+        "description": "官方报告不排除第三方干涉，用于支持劫机假说"
+      },
+      "created_at": "2026-03-12T15:37:26.851221",
+      "updated_at": "2026-03-12T15:37:26.851221"
+    },
+    "74dc7420-d75": {
+      "uuid": "74dc7420-d75",
+      "name": "通信系统关闭有预谋",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说B的支持证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "通信系统被关闭的方式暗示有预谋，用于支持劫机假说"
+      },
+      "created_at": "2026-03-12T15:37:26.870209",
+      "updated_at": "2026-03-12T15:37:26.870209"
+    },
+    "c1548949-c22": {
+      "uuid": "c1548949-c22",
+      "name": "两名持假护照乘客",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370假说B的支持证据",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "两名持假护照乘客（已排除恐怖主义关联），用于支持劫机假说"
+      },
+      "created_at": "2026-03-12T15:37:26.890197",
+      "updated_at": "2026-03-12T15:37:26.890197"
+    },
+    "57b68b4d-fd1": {
+      "uuid": "57b68b4d-fd1",
+      "name": "拟航线与MH370实际飞行路径吻合",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370相关发现",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "拟航线与MH370实际飞行路径高度吻合，未被马来西亚官方调查报告提及"
+      },
+      "created_at": "2026-03-12T15:37:26.909185",
+      "updated_at": "2026-03-12T15:37:26.909185"
+    },
+    "cc321f72-bbf": {
+      "uuid": "cc321f72-bbf",
+      "name": "MH370航班失事事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚航空MH370航班失事事件",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "文本讨论的核心失事航班事件"
+      },
+      "created_at": "2026-03-12T15:37:26.930173",
+      "updated_at": "2026-03-12T15:37:26.930173"
+    },
+    "43cd9344-a81": {
+      "uuid": "43cd9344-a81",
+      "name": "1999年埃及航空990航班事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "1999年埃及航空990航班事件",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "与MH370类似的航空事件"
+      },
+      "created_at": "2026-03-12T15:37:26.960155",
+      "updated_at": "2026-03-12T15:37:26.960155"
+    },
+    "c5a1c0ad-f25": {
+      "uuid": "c5a1c0ad-f25",
+      "name": "1997年胜安航空185航班事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "1997年胜安航空185航班事件",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "与MH370类似的航空事件"
+      },
+      "created_at": "2026-03-12T15:37:26.986138",
+      "updated_at": "2026-03-12T15:37:26.986138"
+    },
+    "2faf01d0-731": {
+      "uuid": "2faf01d0-731",
+      "name": "澳美官员怀疑机长事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "参与MH370调查的澳美官员倾向怀疑机长",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "参与调查的澳大利亚和美国官员比马来西亚官员更倾向于怀疑机长"
+      },
+      "created_at": "2026-03-12T15:37:27.028117",
+      "updated_at": "2026-03-12T15:37:27.028117"
+    },
+    "87c41023-7e0": {
+      "uuid": "87c41023-7e0",
+      "name": "当事国官员拒绝飞行员蓄意结论事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "类似事件中当事国官员的普遍行为",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "历史上类似航空事件中，当事国官员通常拒绝接受飞行员蓄意行为的结论"
+      },
+      "created_at": "2026-03-12T15:37:27.048106",
+      "updated_at": "2026-03-12T15:37:27.048106"
+    },
+    "ac547452-c55": {
+      "uuid": "ac547452-c55",
+      "name": "假说A：机长蓄意行为",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370调查假说A",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "机长蓄意行为（自杀/谋杀）假说"
+      },
+      "created_at": "2026-03-12T15:37:27.076089",
+      "updated_at": "2026-03-12T15:37:27.076089"
+    },
+    "a1dc51d7-d43": {
+      "uuid": "a1dc51d7-d43",
+      "name": "假说B：劫机事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370调查假说B",
+      "attributes": {
+        "source": "MH370调查分析文本",
+        "description": "第三方非法干涉劫机假说"
+      },
+      "created_at": "2026-03-12T15:37:27.103071",
+      "updated_at": "2026-03-12T15:37:27.103071"
+    },
+    "23806864-2cc": {
+      "uuid": "23806864-2cc",
+      "name": "人为控制行为",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:37:27.382906",
+      "updated_at": "2026-03-12T15:37:27.382906"
+    },
+    "64561f51-1c4": {
+      "uuid": "64561f51-1c4",
+      "name": "具备专业知识的人员操作",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-12T15:37:27.438561",
+      "updated_at": "2026-03-12T15:37:27.438561"
+    }
+  },
+  "edges": {
+    "59958b27-a2b": {
+      "uuid": "59958b27-a2b",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0的内容由截至2026年1月的MH370相关公开信息支持",
+      "source_node_uuid": "28510e51-3d3",
+      "target_node_uuid": "581a38e2-5ae",
+      "source_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档V3.0",
+      "target_node_name": "截至2026年1月的MH370相关公开信息",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:20:07.086900",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7b1c465b-c37": {
+      "uuid": "7b1c465b-c37",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚机场安检系统存在未与SLTD实时比对的漏洞这一结论被持假护照乘客登机事件所支持",
+      "source_node_uuid": "3c42527d-8f0",
+      "target_node_uuid": "656ba07e-7f3",
+      "source_node_name": "马来西亚机场安检系统漏洞事件",
+      "target_node_name": "持假护照乘客登机事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:20:55.055707",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c061444c-64a": {
+      "uuid": "c061444c-64a",
+      "name": "SUPPORTED_BY",
+      "fact": "持假护照乘客登机事件的相关调查结论被国际刑警组织的调查结果所支持",
+      "source_node_uuid": "656ba07e-7f3",
+      "target_node_uuid": "a5094ab0-a6f",
+      "source_node_name": "持假护照乘客登机事件",
+      "target_node_name": "国际刑警组织持假护照乘客调查结果",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:20:55.058704",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a3bd8994-b2a": {
+      "uuid": "a3bd8994-b2a",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370货舱装载山竹果事件的情况被MH370货物清单所支持",
+      "source_node_uuid": "42fbc16f-0b9",
+      "target_node_uuid": "408b722b-85b",
+      "source_node_name": "MH370货舱装载山竹果事件",
+      "target_node_name": "MH370货物清单",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:20:55.061702",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4a17ce32-259": {
+      "uuid": "4a17ce32-259",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370货舱装载锂离子电池事件的情况被MH370货物清单所支持",
+      "source_node_uuid": "4055b93c-651",
+      "target_node_uuid": "408b722b-85b",
+      "source_node_name": "MH370货舱装载锂离子电池事件",
+      "target_node_name": "MH370货物清单",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:20:55.064851",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "52f5e7c3-ac5": {
+      "uuid": "52f5e7c3-ac5",
+      "name": "SUPPORTED_BY",
+      "fact": "扎哈里模拟飞行事件的模拟航线信息被FBI恢复的扎哈里飞行模拟器数据所支持",
+      "source_node_uuid": "917d5df7-cb1",
+      "target_node_uuid": "b5eb02c1-d77",
+      "source_node_name": "扎哈里模拟飞行事件",
+      "target_node_name": "FBI恢复的扎哈里飞行模拟器数据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:21:39.010374",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f7ac4aeb-c10": {
+      "uuid": "f7ac4aeb-c10",
+      "name": "CAUSED_BY",
+      "fact": "装载锂离子电池事件可能导致锂离子电池在特定条件下发生热失控并与山竹果释放的水汽混合后加剧火灾风险",
+      "source_node_uuid": "83a708d6-93c",
+      "target_node_uuid": "c17a6945-d23",
+      "source_node_name": "装载锂离子电池事件",
+      "target_node_name": "锂离子电池热失控风险事件",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.3"
+      },
+      "created_at": "2026-03-12T15:21:39.014479",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4ab628ca-316": {
+      "uuid": "4ab628ca-316",
+      "name": "CAUSED_BY",
+      "fact": "MH370的应答机被手动关闭导致了其应答机信号消失",
+      "source_node_uuid": "9d905477-445",
+      "target_node_uuid": "3615d55e-357",
+      "source_node_name": "MH370应答机手动关闭事件",
+      "target_node_name": "MH370应答机信号消失事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:22:49.705973",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "32e7f7df-fe3": {
+      "uuid": "32e7f7df-fe3",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370的应答机被手动关闭这一结论得到了调查证据的支持",
+      "source_node_uuid": "9d905477-445",
+      "target_node_uuid": "6b2b5877-14c",
+      "source_node_name": "MH370应答机手动关闭事件",
+      "target_node_name": "MH370应答机关闭调查证据",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:22:49.710971",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "20937fc8-c45": {
+      "uuid": "20937fc8-c45",
+      "name": "SUPPORTED_BY",
+      "fact": "应答机被手动关闭的结论得到了应答机关闭调查证据的支持",
+      "source_node_uuid": "e9afe292-83c",
+      "target_node_uuid": "a72c7bd9-343",
+      "source_node_name": "应答机关闭调查证据",
+      "target_node_name": "应答机被手动关闭",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:24:16.275592",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "15e0ff4f-155": {
+      "uuid": "15e0ff4f-155",
+      "name": "SUPPORTED_BY",
+      "fact": "ADS-B信号中断的结论得到了民航雷达监控记录的支持",
+      "source_node_uuid": "94314825-d27",
+      "target_node_uuid": "6fc25b30-daa",
+      "source_node_name": "民航雷达监控记录",
+      "target_node_name": "ADS-B信号中断",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:24:16.284696",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ee20fa82-f83": {
+      "uuid": "ee20fa82-f83",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机从民航雷达屏幕消失的结论得到了民航雷达监控记录的支持",
+      "source_node_uuid": "94314825-d27",
+      "target_node_uuid": "22edc8b9-319",
+      "source_node_name": "民航雷达监控记录",
+      "target_node_name": "飞机从民航雷达屏幕消失",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:24:16.289823",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2cfbe283-623": {
+      "uuid": "2cfbe283-623",
+      "name": "SUPPORTED_BY",
+      "fact": "ACARS系统未按计划发送定时数据报告的结论得到了ACARS系统异常分析报告的支持",
+      "source_node_uuid": "f280acd8-da9",
+      "target_node_uuid": "8499f7a2-852",
+      "source_node_name": "ACARS系统异常分析报告",
+      "target_node_name": "ACARS系统未按计划发送定时数据报告",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:24:16.295819",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "64c4e282-26c": {
+      "uuid": "64c4e282-26c",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机主电源总线被切断的结论得到了ACARS系统异常分析报告的支持",
+      "source_node_uuid": "f280acd8-da9",
+      "target_node_uuid": "32a3572e-d4b",
+      "source_node_name": "ACARS系统异常分析报告",
+      "target_node_name": "飞机主电源总线被切断",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:24:16.301815",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "fff149c9-8a8": {
+      "uuid": "fff149c9-8a8",
+      "name": "CAUSED_BY",
+      "fact": "ACARS系统未按计划发送定时数据报告是由飞机主电源总线被切断导致的",
+      "source_node_uuid": "32a3572e-d4b",
+      "target_node_uuid": "8499f7a2-852",
+      "source_node_name": "飞机主电源总线被切断",
+      "target_node_name": "ACARS系统未按计划发送定时数据报告",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:24:16.307858",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "25a45e18-20a": {
+      "uuid": "25a45e18-20a",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚皇家空军雷达捕捉到不明飞行目标的结论得到了马来西亚皇家空军军用雷达监控数据的支持",
+      "source_node_uuid": "1d0bc081-267",
+      "target_node_uuid": "d86f969b-eaf",
+      "source_node_name": "马来西亚皇家空军军用雷达监控数据",
+      "target_node_name": "马来西亚皇家空军雷达捕捉到不明飞行目标",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:24:16.313970",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "279ef696-de3": {
+      "uuid": "279ef696-de3",
+      "name": "SUPPORTED_BY",
+      "fact": "不明飞行目标高度与航向大幅变化的结论得到了马来西亚皇家空军军用雷达监控数据的支持",
+      "source_node_uuid": "1d0bc081-267",
+      "target_node_uuid": "b6fa9799-0d3",
+      "source_node_name": "马来西亚皇家空军军用雷达监控数据",
+      "target_node_name": "不明飞行目标高度与航向大幅变化",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:24:16.320965",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e9659c8e-b37": {
+      "uuid": "e9659c8e-b37",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机最后一次出现在军用雷达的结论得到了马来西亚皇家空军军用雷达监控数据的支持",
+      "source_node_uuid": "1d0bc081-267",
+      "target_node_uuid": "293969d3-298",
+      "source_node_name": "马来西亚皇家空军军用雷达监控数据",
+      "target_node_name": "飞机最后一次出现在军用雷达",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:24:16.327062",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "86e88958-502": {
+      "uuid": "86e88958-502",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机完全脱离所有雷达监控范围的结论得到了马来西亚皇家空军军用雷达监控数据的支持",
+      "source_node_uuid": "1d0bc081-267",
+      "target_node_uuid": "c0558e49-30d",
+      "source_node_name": "马来西亚皇家空军军用雷达监控数据",
+      "target_node_name": "飞机完全脱离所有雷达监控范围",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:24:16.333058",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "45e8287c-6e5": {
+      "uuid": "45e8287c-6e5",
+      "name": "SUPPORTED_BY",
+      "fact": "不明飞行目标飞行模式被解读为有意规避民用雷达的结论得到了马来西亚皇家空军军用雷达监控数据的支持",
+      "source_node_uuid": "1d0bc081-267",
+      "target_node_uuid": "e57b639a-4f7",
+      "source_node_name": "马来西亚皇家空军军用雷达监控数据",
+      "target_node_name": "不明飞行目标飞行模式被解读为有意规避民用雷达",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:24:16.339485",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "22436592-f7c": {
+      "uuid": "22436592-f7c",
+      "name": "SUPPORTED_BY",
+      "fact": "SDU重启为异常事件的结论得到SDU异常重启证据的支持",
+      "source_node_uuid": "08400f27-cb4",
+      "target_node_uuid": "66cf2475-0b7",
+      "source_node_name": "SDU重启为异常事件",
+      "target_node_name": "SDU异常重启证据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:25:26.699505",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c962e014-ee9": {
+      "uuid": "c962e014-ee9",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370最后飞行路径的追踪依据得到卫星握手信号证据的支持",
+      "source_node_uuid": "ad93cc3b-227",
+      "target_node_uuid": "103ff812-a4f",
+      "source_node_name": "MH370最后飞行路径追踪",
+      "target_node_name": "卫星握手信号证据",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:25:26.725487",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2d83273c-22b": {
+      "uuid": "2d83273c-22b",
+      "name": "CAUSED_BY",
+      "fact": "SDU重启事件是由飞机电源恢复导致的",
+      "source_node_uuid": "a9686040-10f",
+      "target_node_uuid": "d6acb33f-a6f",
+      "source_node_name": "SDU重启事件",
+      "target_node_name": "飞机电源恢复事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:25:26.737479",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5ff13178-3f4": {
+      "uuid": "5ff13178-3f4",
+      "name": "CAUSED_BY",
+      "fact": "SDU登录握手事件是由SDU重新上电导致的",
+      "source_node_uuid": "01bee7b3-a6f",
+      "target_node_uuid": "8ce841a3-080",
+      "source_node_name": "SDU登录握手事件",
+      "target_node_name": "SDU重新上电事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:25:26.744475",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d37c53ce-4b8": {
+      "uuid": "d37c53ce-4b8",
+      "name": "CAUSED_BY",
+      "fact": "SDU重启事件是由APU/主发动机供电恢复导致的",
+      "source_node_uuid": "a9686040-10f",
+      "target_node_uuid": "5cde64c3-f42",
+      "source_node_name": "SDU重启事件",
+      "target_node_name": "APU/主发动机供电恢复事件",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:25:26.752469",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "394f6352-a37": {
+      "uuid": "394f6352-a37",
+      "name": "CAUSED_BY",
+      "fact": "卫星握手通信事件是由SDU重启导致的",
+      "source_node_uuid": "c3ba4d7c-697",
+      "target_node_uuid": "a9686040-10f",
+      "source_node_name": "卫星握手通信事件",
+      "target_node_name": "SDU重启事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:25:26.760467",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e8f80e19-3ed": {
+      "uuid": "e8f80e19-3ed",
+      "name": "CAUSED_BY",
+      "fact": "08:19异常握手请求事件是由SDU短暂上电导致的",
+      "source_node_uuid": "930313f9-1d0",
+      "target_node_uuid": "df242b26-c30",
+      "source_node_name": "SDU短暂上电",
+      "target_node_name": "08:19异常握手请求",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:26:42.359097",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ff4fd868-880": {
+      "uuid": "ff4fd868-880",
+      "name": "CAUSED_BY",
+      "fact": "SDU短暂上电事件是由APU短暂启动导致的",
+      "source_node_uuid": "945ec8e4-f0e",
+      "target_node_uuid": "930313f9-1d0",
+      "source_node_name": "APU短暂启动",
+      "target_node_name": "SDU短暂上电",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:26:42.367192",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "28d767a6-504": {
+      "uuid": "28d767a6-504",
+      "name": "CAUSED_BY",
+      "fact": "APU短暂启动事件是由飞机燃油耗尽导致的",
+      "source_node_uuid": "fa84d20e-fc5",
+      "target_node_uuid": "945ec8e4-f0e",
+      "source_node_name": "飞机燃油耗尽",
+      "target_node_name": "APU短暂启动",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:26:42.376279",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e7b293d1-af3": {
+      "uuid": "e7b293d1-af3",
+      "name": "CAUSED_BY",
+      "fact": "08:11第6次握手信号产生了对应的BTO数据",
+      "source_node_uuid": "d285440d-111",
+      "target_node_uuid": "ae05d0ae-72e",
+      "source_node_name": "08:11第6次握手信号",
+      "target_node_name": "08:11第6次握手信号BTO数据",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:26:42.385372",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0faac884-fb4": {
+      "uuid": "0faac884-fb4",
+      "name": "CAUSED_BY",
+      "fact": "08:19异常握手请求产生了对应的BFO值",
+      "source_node_uuid": "df242b26-c30",
+      "target_node_uuid": "49d283be-e4b",
+      "source_node_name": "08:19异常握手请求",
+      "target_node_name": "08:19异常握手请求BFO值",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:26:42.394466",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "25beaf74-a58": {
+      "uuid": "25beaf74-a58",
+      "name": "SUPPORTED_BY",
+      "fact": "第七弧线（7th Arc）的存在被08:11第6次握手信号的BTO数据所支持",
+      "source_node_uuid": "c7d4cada-399",
+      "target_node_uuid": "ae05d0ae-72e",
+      "source_node_name": "第七弧线（7th Arc）",
+      "target_node_name": "08:11第6次握手信号BTO数据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:26:42.403610",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "535b4235-51b": {
+      "uuid": "535b4235-51b",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机当时正在高速下降的结论被08:19异常握手请求的BFO值所支持",
+      "source_node_uuid": "5ce509e4-bbe",
+      "target_node_uuid": "49d283be-e4b",
+      "source_node_name": "飞机当时正在高速下降",
+      "target_node_name": "08:19异常握手请求BFO值",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:26:42.421694",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "13a566ed-098": {
+      "uuid": "13a566ed-098",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370发出的最后信号的结论被08:19异常握手请求所支持",
+      "source_node_uuid": "fb6e1e02-8bb",
+      "target_node_uuid": "df242b26-c30",
+      "source_node_name": "MH370发出的最后信号",
+      "target_node_name": "08:19异常握手请求",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:26:42.440505",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f154acc1-92a": {
+      "uuid": "f154acc1-92a",
+      "name": "SUPPORTED_BY",
+      "fact": "2018年MH370失联事件最终调查报告严厉批评了MH370失联后的相关延误",
+      "source_node_uuid": "9192527c-481",
+      "target_node_uuid": "c3b03ba4-5fb",
+      "source_node_name": "2018年MH370失联事件最终调查报告",
+      "target_node_name": "MH370失联后存在相关延误",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:27:48.322538",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0b809fcc-176": {
+      "uuid": "0b809fcc-176",
+      "name": "SUPPORTED_BY",
+      "fact": "Inmarsat卫星BTO数据支持通过已知的地面站位置、卫星位置和信号传播速度计算飞机与卫星之间的斜距并绘制等距弧线",
+      "source_node_uuid": "4f65bbf6-7f3",
+      "target_node_uuid": "f337f63f-d45",
+      "source_node_name": "Inmarsat卫星BTO数据",
+      "target_node_name": "通过BTO数据计算飞机与卫星斜距及绘制等距弧线",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:27:48.333531",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "138e67e8-6bd": {
+      "uuid": "138e67e8-6bd",
+      "name": "SUPPORTED_BY",
+      "fact": "Inmarsat卫星BFO数据可以反映由于飞机运动和卫星运动导致的多普勒频移",
+      "source_node_uuid": "9d39407b-15e",
+      "target_node_uuid": "2ae66500-90f",
+      "source_node_name": "Inmarsat卫星BFO数据",
+      "target_node_name": "BFO数据反映飞机与卫星运动导致的多普勒频移",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:27:48.343525",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a3093745-672": {
+      "uuid": "a3093745-672",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机向南飞行的结论得到第2次握手开始的BFO数据的支持",
+      "source_node_uuid": "4c63fd86-efb",
+      "target_node_uuid": "011d73f7-f66",
+      "source_node_name": "飞机向南飞行",
+      "target_node_name": "第2次握手开始的BFO数据",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:28:52.273491",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2c267be4-54c": {
+      "uuid": "2c267be4-54c",
+      "name": "SUPPORTED_BY",
+      "fact": "排除北线飞行可能性的结论得到第2次握手开始的BFO数据的支持",
+      "source_node_uuid": "bfaf90a7-3c4",
+      "target_node_uuid": "011d73f7-f66",
+      "source_node_name": "排除北线飞行可能性",
+      "target_node_name": "第2次握手开始的BFO数据",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:28:52.285483",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "02567865-767": {
+      "uuid": "02567865-767",
+      "name": "SUPPORTED_BY",
+      "fact": "确定MH370最可能坠海区域的结论得到第七弧线的支持",
+      "source_node_uuid": "6b8430c5-7ba",
+      "target_node_uuid": "4aab7c24-d1f",
+      "source_node_name": "确定MH370最可能坠海区域",
+      "target_node_name": "第七弧线",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:28:52.297476",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c44e8791-521": {
+      "uuid": "c44e8791-521",
+      "name": "SUPPORTED_BY",
+      "fact": "确定MH370最可能坠海区域的结论得到BFO数据的支持",
+      "source_node_uuid": "6b8430c5-7ba",
+      "target_node_uuid": "816771f7-911",
+      "source_node_name": "确定MH370最可能坠海区域",
+      "target_node_name": "BFO（Burst Frequency Offset）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:28:52.308469",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "16886a16-b36": {
+      "uuid": "16886a16-b36",
+      "name": "SUPPORTED_BY",
+      "fact": "确定MH370最可能坠海区域的结论得到飞机性能参数的支持",
+      "source_node_uuid": "6b8430c5-7ba",
+      "target_node_uuid": "ee19a371-a0b",
+      "source_node_name": "确定MH370最可能坠海区域",
+      "target_node_name": "飞机性能参数",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:28:52.320462",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e9d4aec5-14a": {
+      "uuid": "e9d4aec5-14a",
+      "name": "SUPPORTED_BY",
+      "fact": "确定MH370最可能坠海区域的结论得到风场数据的支持",
+      "source_node_uuid": "6b8430c5-7ba",
+      "target_node_uuid": "0563acca-944",
+      "source_node_name": "确定MH370最可能坠海区域",
+      "target_node_name": "风场数据",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:28:52.332454",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d52b59b2-70c": {
+      "uuid": "d52b59b2-70c",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机以15000英尺/分钟速率下降的结论得到08:19的最后异常信号的BFO值的支持",
+      "source_node_uuid": "c2975a5f-e79",
+      "target_node_uuid": "6207d747-1ea",
+      "source_node_name": "飞机以15000英尺/分钟速率下降",
+      "target_node_name": "08:19的最后异常信号的BFO值",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:28:52.344455",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6ea603de-1e1": {
+      "uuid": "6ea603de-1e1",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机燃油耗尽后进入不受控俯冲或螺旋下降的结论得到08:19的最后异常信号的BFO值的支持",
+      "source_node_uuid": "553584ee-9f2",
+      "target_node_uuid": "6207d747-1ea",
+      "source_node_name": "飞机燃油耗尽后进入不受控俯冲或螺旋下降",
+      "target_node_name": "08:19的最后异常信号的BFO值",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:28:52.356447",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e541036d-624": {
+      "uuid": "e541036d-624",
+      "name": "CAUSED_BY",
+      "fact": "飞机向西北飞行至安达曼海上空的事件是由MH370脱离军用雷达监控导致的",
+      "source_node_uuid": "aa585318-61f",
+      "target_node_uuid": "5657bfa3-692",
+      "source_node_name": "飞机向西北飞行至安达曼海上空",
+      "target_node_name": "MH370脱离军用雷达监控",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:28:52.368439",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "38134c07-a21": {
+      "uuid": "38134c07-a21",
+      "name": "CAUSED_BY",
+      "fact": "飞机转向南方穿越印度洋的事件是由飞机向西北飞行至安达曼海上空导致的",
+      "source_node_uuid": "ff8ef73e-5e1",
+      "target_node_uuid": "aa585318-61f",
+      "source_node_name": "飞机转向南方穿越印度洋",
+      "target_node_name": "飞机向西北飞行至安达曼海上空",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:28:52.380432",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8dc8259c-51a": {
+      "uuid": "8dc8259c-51a",
+      "name": "SUPPORTED_BY",
+      "fact": "重建MH370脱离雷达后的飞行路径的工作得到卫星数据的支持",
+      "source_node_uuid": "fb7b7bea-9fa",
+      "target_node_uuid": "06dab7a8-bb3",
+      "source_node_name": "重建MH370脱离雷达后的飞行路径",
+      "target_node_name": "卫星数据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:28:52.393424",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3b1f0451-35a": {
+      "uuid": "3b1f0451-35a",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370前期海上搜索行动中发现疑似漂浮物的结论得到疑似漂浮物这一证据的支持",
+      "source_node_uuid": "a446e196-9c0",
+      "target_node_uuid": "5f16098c-a24",
+      "source_node_name": "MH370前期海上搜索行动",
+      "target_node_name": "疑似漂浮物",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:04.919013",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6de34799-46a": {
+      "uuid": "6de34799-46a",
+      "name": "CAUSED_BY",
+      "fact": "疑似漂浮物的发现是由MH370前期海上搜索行动导致的",
+      "source_node_uuid": "5f16098c-a24",
+      "target_node_uuid": "a446e196-9c0",
+      "source_node_name": "疑似漂浮物",
+      "target_node_name": "MH370前期海上搜索行动",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:30:04.932085",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1388b09d-f40": {
+      "uuid": "1388b09d-f40",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第三阶段海底搜索行动使用拖曳式声呐设备的结论得到该设备这一证据的支持",
+      "source_node_uuid": "c42df365-21d",
+      "target_node_uuid": "9c90074c-d72",
+      "source_node_name": "MH370第三阶段海底搜索行动",
+      "target_node_name": "拖曳式声呐设备",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:04.945202",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f0e4cab9-e82": {
+      "uuid": "f0e4cab9-e82",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第三阶段海底搜索行动使用自主水下航行器（AUV）的结论得到该设备这一证据的支持",
+      "source_node_uuid": "c42df365-21d",
+      "target_node_uuid": "3bfe9182-ddb",
+      "source_node_name": "MH370第三阶段海底搜索行动",
+      "target_node_name": "自主水下航行器（AUV）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:04.965173",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8c95cf0a-366": {
+      "uuid": "8c95cf0a-366",
+      "name": "CAUSED_BY",
+      "fact": "两艘19世纪沉船残骸的发现是由MH370第三阶段海底搜索行动导致的",
+      "source_node_uuid": "34682016-284",
+      "target_node_uuid": "c42df365-21d",
+      "source_node_name": "19世纪沉船残骸",
+      "target_node_name": "MH370第三阶段海底搜索行动",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:30:04.986160",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "db9c3770-dd3": {
+      "uuid": "db9c3770-dd3",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第三阶段海底搜索行动未找到MH370部件的结论得到该搜索结果这一证据的支持",
+      "source_node_uuid": "c42df365-21d",
+      "target_node_uuid": "25e5ed67-6f5",
+      "source_node_name": "MH370第三阶段海底搜索行动",
+      "target_node_name": "未找到MH370飞机残骸（第三阶段）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:05.000150",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ba403413-b82": {
+      "uuid": "ba403413-b82",
+      "name": "CAUSED_BY",
+      "fact": "MH370第三阶段搜索未找到MH370部件的结果是由该次搜索行动导致的",
+      "source_node_uuid": "25e5ed67-6f5",
+      "target_node_uuid": "c42df365-21d",
+      "source_node_name": "未找到MH370飞机残骸（第三阶段）",
+      "target_node_name": "MH370第三阶段海底搜索行动",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:30:05.013143",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c6078345-d8f": {
+      "uuid": "c6078345-d8f",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第四阶段Ocean Infinity搜索行动使用海底建造者号（Seabed Constructor）作为旗舰船的结论得到该船这一证据的支持",
+      "source_node_uuid": "b773e772-5a5",
+      "target_node_uuid": "b7ade7a0-f22",
+      "source_node_name": "MH370第四阶段Ocean Infinity搜索行动",
+      "target_node_name": "海底建造者号（Seabed Constructor）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:05.031451",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c2ee9725-bcf": {
+      "uuid": "c2ee9725-bcf",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第四阶段Ocean Infinity搜索行动使用自主水下航行器（AUV）的结论得到该设备这一证据的支持",
+      "source_node_uuid": "b773e772-5a5",
+      "target_node_uuid": "3bfe9182-ddb",
+      "source_node_name": "MH370第四阶段Ocean Infinity搜索行动",
+      "target_node_name": "自主水下航行器（AUV）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:05.053572",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5bfd8bdb-84c": {
+      "uuid": "5bfd8bdb-84c",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370第四阶段搜索未找到飞机残骸的结论得到该搜索结果这一证据的支持",
+      "source_node_uuid": "b773e772-5a5",
+      "target_node_uuid": "3c3b43a5-184",
+      "source_node_name": "MH370第四阶段Ocean Infinity搜索行动",
+      "target_node_name": "未找到MH370飞机残骸（第四阶段）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-12T15:30:05.074934",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "43304564-a5b": {
+      "uuid": "43304564-a5b",
+      "name": "CAUSED_BY",
+      "fact": "MH370第四阶段搜索未找到飞机残骸的结果是由该次搜索行动导致的",
+      "source_node_uuid": "3c3b43a5-184",
+      "target_node_uuid": "b773e772-5a5",
+      "source_node_name": "未找到MH370飞机残骸（第四阶段）",
+      "target_node_name": "MH370第四阶段Ocean Infinity搜索行动",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:30:05.089036",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "14089bc6-f9f": {
+      "uuid": "14089bc6-f9f",
+      "name": "CAUSED_BY",
+      "fact": "2025年底重启的MH370第五阶段搜寻事件是由2025年3月马来西亚内阁审批MH370搜寻协议事件所导致的",
+      "source_node_uuid": "4c668a45-a6c",
+      "target_node_uuid": "d40388ef-f7a",
+      "source_node_name": "2025年底MH370第五阶段搜寻重启",
+      "target_node_name": "2025年3月马来西亚内阁审批MH370搜寻协议",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:30:53.226698",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9c62bb54-80f": {
+      "uuid": "9c62bb54-80f",
+      "name": "SUPPORTED_BY",
+      "fact": "2025年底MH370第五阶段搜寻重启事件的相关情况得到了MH370第五阶段搜寻数据证据的支持",
+      "source_node_uuid": "4c668a45-a6c",
+      "target_node_uuid": "6a60ae89-9fc",
+      "source_node_name": "2025年底MH370第五阶段搜寻重启",
+      "target_node_name": "MH370第五阶段搜寻数据证据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:30:53.241689",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5b61bf01-d00": {
+      "uuid": "5b61bf01-d00",
+      "name": "SUPPORTED_BY",
+      "fact": "2026年初MH370碎片发现事件的相关情况得到了MH370碎片实物证据的支持",
+      "source_node_uuid": "06f72a8c-655",
+      "target_node_uuid": "0782a6ab-727",
+      "source_node_name": "2026年初MH370碎片发现事件",
+      "target_node_name": "MH370碎片实物证据",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:30:53.256317",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cef3d9d1-81a": {
+      "uuid": "cef3d9d1-81a",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370坠入印度洋的结论得到了36块MH370相关碎片的支持",
+      "source_node_uuid": "a9f467a3-86d",
+      "target_node_uuid": "c29769fe-ec1",
+      "source_node_name": "MH370坠入印度洋",
+      "target_node_name": "36块MH370相关碎片",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:32:04.004665",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4ef411e6-ed3": {
+      "uuid": "4ef411e6-ed3",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370坠入印度洋的结论得到了右翼襟副翼残骸的支持",
+      "source_node_uuid": "a9f467a3-86d",
+      "target_node_uuid": "4d41a03f-4b3",
+      "source_node_name": "MH370坠入印度洋",
+      "target_node_name": "右翼襟副翼（Flaperon）",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:32:04.019657",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "dab8cc5b-d12": {
+      "uuid": "dab8cc5b-d12",
+      "name": "SUPPORTED_BY",
+      "fact": "机长控制飞机水上迫降的结论未得到右翼外侧襟翼残骸的支持",
+      "source_node_uuid": "cdeb4a14-1ee",
+      "target_node_uuid": "17ebb2be-d40",
+      "source_node_name": "机长控制飞机水上迫降",
+      "target_node_name": "右翼外侧襟翼（Outboard Flap）",
+      "attributes": {
+        "confidence": "0.6",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:32:04.034647",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2b8e83d3-080": {
+      "uuid": "2b8e83d3-080",
+      "name": "SUPPORTED_BY",
+      "fact": "襟翼应处于放下状态的推论被机长控制飞机水上迫降的假说所支持",
+      "source_node_uuid": "9e710b33-766",
+      "target_node_uuid": "cdeb4a14-1ee",
+      "source_node_name": "襟翼应处于放下状态推论",
+      "target_node_name": "机长控制飞机水上迫降",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:33:54.055149",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "19c889f9-501": {
+      "uuid": "19c889f9-501",
+      "name": "SUPPORTED_BY",
+      "fact": "起落架放下状态的证据被MH370左起落架耳轴门部件的发现所支持",
+      "source_node_uuid": "07c99354-06c",
+      "target_node_uuid": "18a55b1e-3ac",
+      "source_node_name": "起落架放下状态证据",
+      "target_node_name": "MH370左起落架耳轴门部件（残骸6）",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:33:54.076136",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ad4f35cb-0b1": {
+      "uuid": "ad4f35cb-0b1",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370飞机坠海的事件被其水平安定面碎片的发现所支持",
+      "source_node_uuid": "f86a8c71-1ca",
+      "target_node_uuid": "59c2871b-d36",
+      "source_node_name": "飞机坠海",
+      "target_node_name": "MH370水平安定面碎片（残骸3）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:33:54.092126",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6e6df690-81e": {
+      "uuid": "6e6df690-81e",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370飞机坠海的事件被其发动机整流罩碎片的发现所支持",
+      "source_node_uuid": "f86a8c71-1ca",
+      "target_node_uuid": "9193c0d3-143",
+      "source_node_name": "飞机坠海",
+      "target_node_name": "MH370发动机整流罩碎片（残骸4）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:33:54.108116",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "358f3f99-536": {
+      "uuid": "358f3f99-536",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370飞机坠海的事件被其内饰面板碎片的发现所支持",
+      "source_node_uuid": "f86a8c71-1ca",
+      "target_node_uuid": "ea0daa01-e03",
+      "source_node_name": "飞机坠海",
+      "target_node_name": "MH370内饰面板碎片（残骸5）",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:33:54.126105",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d0325409-5c9": {
+      "uuid": "d0325409-5c9",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370飞机坠海的事件被其左起落架耳轴门部件的发现所支持",
+      "source_node_uuid": "f86a8c71-1ca",
+      "target_node_uuid": "18a55b1e-3ac",
+      "source_node_name": "飞机坠海",
+      "target_node_name": "MH370左起落架耳轴门部件（残骸6）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.85"
+      },
+      "created_at": "2026-03-12T15:33:54.142096",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "33c3d7f9-0bf": {
+      "uuid": "33c3d7f9-0bf",
+      "name": "SUPPORTED_BY",
+      "fact": "飞机可能经历结构性解体的推论被起落架与襟翼状态的矛盾证据所支持",
+      "source_node_uuid": "de73b108-90b",
+      "target_node_uuid": "a0b15985-2f9",
+      "source_node_name": "飞机结构性解体",
+      "target_node_name": "起落架与襟翼状态矛盾证据",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:33:54.158085",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "543a05a8-67c": {
+      "uuid": "543a05a8-67c",
+      "name": "SUPPORTED_BY",
+      "fact": "机长控制飞机水上迫降的假说被起落架与襟翼状态的矛盾证据所挑战",
+      "source_node_uuid": "cdeb4a14-1ee",
+      "target_node_uuid": "a0b15985-2f9",
+      "source_node_name": "机长控制飞机水上迫降",
+      "target_node_name": "起落架与襟翼状态矛盾证据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:33:54.175075",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f8659e69-ef7": {
+      "uuid": "f8659e69-ef7",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370残骸分布区域的证据被水平安定面碎片的发现所支持",
+      "source_node_uuid": "813ddf37-285",
+      "target_node_uuid": "59c2871b-d36",
+      "source_node_name": "MH370残骸分布区域证据",
+      "target_node_name": "MH370水平安定面碎片（残骸3）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:33:54.197104",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c9a6489a-301": {
+      "uuid": "c9a6489a-301",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370残骸分布区域的证据被发动机整流罩碎片的发现所支持",
+      "source_node_uuid": "813ddf37-285",
+      "target_node_uuid": "9193c0d3-143",
+      "source_node_name": "MH370残骸分布区域证据",
+      "target_node_name": "MH370发动机整流罩碎片（残骸4）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:33:54.214094",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4edf2602-c35": {
+      "uuid": "4edf2602-c35",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370残骸分布区域的证据被内饰面板碎片的发现所支持",
+      "source_node_uuid": "813ddf37-285",
+      "target_node_uuid": "ea0daa01-e03",
+      "source_node_name": "MH370残骸分布区域证据",
+      "target_node_name": "MH370内饰面板碎片（残骸5）",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:33:54.230083",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b6b3f632-c41": {
+      "uuid": "b6b3f632-c41",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370残骸分布区域的证据被左起落架耳轴门部件的发现所支持",
+      "source_node_uuid": "813ddf37-285",
+      "target_node_uuid": "18a55b1e-3ac",
+      "source_node_name": "MH370残骸分布区域证据",
+      "target_node_name": "MH370左起落架耳轴门部件（残骸6）",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:33:54.249074",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f2d3bdad-d89": {
+      "uuid": "f2d3bdad-d89",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370坠毁在第七弧线南纬32度至36度之间的结论得到了CSIRO洋流推算结果的支持",
+      "source_node_uuid": "9f17a388-dba",
+      "target_node_uuid": "a0c7f59d-d84",
+      "source_node_name": "CSIRO洋流推算结果",
+      "target_node_name": "MH370坠毁事件",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.75"
+      },
+      "created_at": "2026-03-12T15:35:00.540097",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "55921086-6a6": {
+      "uuid": "55921086-6a6",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370残骸的发现模式得到了格里芬漂流实验结果的支持",
+      "source_node_uuid": "f1aab8f7-1ff",
+      "target_node_uuid": "2141d51a-90f",
+      "source_node_name": "格里芬漂流实验结果",
+      "target_node_name": "MH370残骸分布数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:35:00.554089",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4a1a9cf2-c9d": {
+      "uuid": "4a1a9cf2-c9d",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370航班的掉头和偏航是人为控制的结论得到了MH3702018最终调查报告的支持",
+      "source_node_uuid": "ccb1a6d3-658",
+      "target_node_uuid": "5b4d7b00-976",
+      "source_node_name": "MH3702018最终调查报告",
+      "target_node_name": "MH370人为偏航事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:35:00.569081",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1d30a802-970": {
+      "uuid": "1d30a802-970",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370航班机长和副驾驶无异常的结论得到了MH3702018最终调查报告的支持",
+      "source_node_uuid": "ccb1a6d3-658",
+      "target_node_uuid": "f50ad23a-a30",
+      "source_node_name": "MH3702018最终调查报告",
+      "target_node_name": "MH370飞行员状态事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:35:00.583071",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "076119fd-0e3": {
+      "uuid": "076119fd-0e3",
+      "name": "CAUSED_BY",
+      "fact": "MH370残骸分布数据所对应的残骸是由MH370坠毁事件造成的",
+      "source_node_uuid": "2141d51a-90f",
+      "target_node_uuid": "a0c7f59d-d84",
+      "source_node_name": "MH370残骸分布数据",
+      "target_node_name": "MH370坠毁事件",
+      "attributes": {
+        "confidence": "0.95",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-12T15:35:00.598062",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b5aa9db5-547": {
+      "uuid": "b5aa9db5-547",
+      "name": "CAUSED_BY",
+      "fact": "MH370残骸的分布模式是由南印度洋洋流系统造成的",
+      "source_node_uuid": "2141d51a-90f",
+      "target_node_uuid": "02a81af2-f1b",
+      "source_node_name": "MH370残骸分布数据",
+      "target_node_name": "南印度洋洋流系统",
+      "attributes": {
+        "confidence": "0.85",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-12T15:35:00.612053",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8b2d9132-dad": {
+      "uuid": "8b2d9132-dad",
+      "name": "SUPPORTED_BY",
+      "fact": "飞行员无异常结论得到了飞行员无异常证据的支持",
+      "source_node_uuid": "16e715e1-6c0",
+      "target_node_uuid": "7b8d1f6b-76f",
+      "source_node_name": "飞行员无异常结论",
+      "target_node_name": "飞行员无异常证据",
+      "attributes": {
+        "confidence": "未明确",
+        "causal_strength": "未明确"
+      },
+      "created_at": "2026-03-12T15:36:08.434234",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7ea9a2e8-c9a": {
+      "uuid": "7ea9a2e8-c9a",
+      "name": "SUPPORTED_BY",
+      "fact": "排除机械故障结论得到了排除机械故障的证据的支持",
+      "source_node_uuid": "1e438f05-ded",
+      "target_node_uuid": "dc2dafb6-306",
+      "source_node_name": "排除机械故障结论",
+      "target_node_name": "排除机械故障的证据",
+      "attributes": {
+        "confidence": "未明确",
+        "causal_strength": "未明确"
+      },
+      "created_at": "2026-03-12T15:36:08.452224",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cd290706-0a6": {
+      "uuid": "cd290706-0a6",
+      "name": "SUPPORTED_BY",
+      "fact": "模拟航线与MH370实际飞行路径高度吻合的结论得到了FBI飞行模拟器硬盘取证证据的支持",
+      "source_node_uuid": "8ac3a689-07d",
+      "target_node_uuid": "b54a46be-d0a",
+      "source_node_name": "模拟航线与MH370实际飞行路径吻合结论",
+      "target_node_name": "FBI飞行模拟器硬盘取证证据",
+      "attributes": {
+        "confidence": "未明确",
+        "causal_strength": "未明确"
+      },
+      "created_at": "2026-03-12T15:36:08.472211",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d193a678-ea8": {
+      "uuid": "d193a678-ea8",
+      "name": "SUPPORTED_BY",
+      "fact": "调查组无法确认MH370失联真正原因的结论得到了受害人及飞机均未找到证据的支持",
+      "source_node_uuid": "926754be-fad",
+      "target_node_uuid": "aca2786a-c53",
+      "source_node_name": "调查组无法确认MH370失联原因事件",
+      "target_node_name": "受害人及飞机均未找到证据",
+      "attributes": {
+        "confidence": "未明确",
+        "causal_strength": "未明确"
+      },
+      "created_at": "2026-03-12T15:36:08.491199",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9ae24c06-a3e": {
+      "uuid": "9ae24c06-a3e",
+      "name": "CAUSED_BY",
+      "fact": "MH370失联后的搜救行动启动被推迟是由空中交通管制员未及时启动紧急措施导致的",
+      "source_node_uuid": "ca45cab8-55b",
+      "target_node_uuid": "8f563862-318",
+      "source_node_name": "推迟MH370搜救行动启动事件",
+      "target_node_name": "空管未及时启动紧急措施事件",
+      "attributes": {
+        "confidence": "未明确",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:36:08.511187",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ae0748ea-1a4": {
+      "uuid": "ae0748ea-1a4",
+      "name": "SUPPORTED_BY",
+      "fact": "假说A机长蓄意行为的结论得到飞行模拟器中的南印度洋航线数据的支持",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "f681eed1-8f1",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "飞行模拟器南印度洋航线数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.123059",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "20e3337d-a18": {
+      "uuid": "20e3337d-a18",
+      "name": "SUPPORTED_BY",
+      "fact": "假说A机长蓄意行为的结论得到通信系统被系统性逐一关闭这一证据的支持",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "285dac05-462",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "通信系统被系统性逐一关闭",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.143047",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b7b239a9-fd1": {
+      "uuid": "b7b239a9-fd1",
+      "name": "SUPPORTED_BY",
+      "fact": "假说A机长蓄意行为的结论得到飞行路径显示有意规避雷达覆盖这一证据的支持",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "85a113ae-bd4",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "飞行路径规避雷达覆盖",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.164034",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6523eba3-ce4": {
+      "uuid": "6523eba3-ce4",
+      "name": "SUPPORTED_BY",
+      "fact": "假说A机长蓄意行为的结论得到飞机在人为控制下偏航这一证据的支持",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "7c991f83-f14",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "飞机人为控制偏航",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.184022",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e64dce43-c38": {
+      "uuid": "e64dce43-c38",
+      "name": "SUPPORTED_BY",
+      "fact": "未发现机长有心理问题或异常行为这一证据被用于反对假说A机长蓄意行为的结论",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "b3680b98-415",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "未发现机长心理问题",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:37:27.205012",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "20b599f2-222": {
+      "uuid": "20b599f2-222",
+      "name": "SUPPORTED_BY",
+      "fact": "亲友描述机长为友善、热爱生活的人这一证据被用于反对假说A机长蓄意行为的结论",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "f2cf16be-dae",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "亲友描述机长友善",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:37:27.225003",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "78707880-fb9": {
+      "uuid": "78707880-fb9",
+      "name": "SUPPORTED_BY",
+      "fact": "襟翼收起状态与\"控制迫降\"不符这一证据被用于反对假说A机长蓄意行为的结论",
+      "source_node_uuid": "ac547452-c55",
+      "target_node_uuid": "4a4b3747-fb4",
+      "source_node_name": "假说A：机长蓄意行为",
+      "target_node_name": "襟翼收起状态不符迫降",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:37:27.245992",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "fb1d5596-4ff": {
+      "uuid": "fb1d5596-4ff",
+      "name": "SUPPORTED_BY",
+      "fact": "假说B劫机事件的结论得到官方报告不排除第三方干涉这一证据的支持",
+      "source_node_uuid": "a1dc51d7-d43",
+      "target_node_uuid": "d1f750b6-8c2",
+      "source_node_name": "假说B：劫机事件",
+      "target_node_name": "官方报告不排除第三方干涉",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:37:27.266977",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "92e5280e-521": {
+      "uuid": "92e5280e-521",
+      "name": "SUPPORTED_BY",
+      "fact": "假说B劫机事件的结论得到通信系统被关闭的方式暗示有预谋这一证据的支持",
+      "source_node_uuid": "a1dc51d7-d43",
+      "target_node_uuid": "74dc7420-d75",
+      "source_node_name": "假说B：劫机事件",
+      "target_node_name": "通信系统关闭有预谋",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:37:27.295961",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "05447b3d-2c6": {
+      "uuid": "05447b3d-2c6",
+      "name": "SUPPORTED_BY",
+      "fact": "假说B劫机事件的结论得到两名持假护照乘客这一证据的支持",
+      "source_node_uuid": "a1dc51d7-d43",
+      "target_node_uuid": "c1548949-c22",
+      "source_node_name": "假说B：劫机事件",
+      "target_node_name": "两名持假护照乘客",
+      "attributes": {
+        "confidence": "0.6",
+        "causal_strength": "0.5"
+      },
+      "created_at": "2026-03-12T15:37:27.319944",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "16fdc3d2-06f": {
+      "uuid": "16fdc3d2-06f",
+      "name": "SUPPORTED_BY",
+      "fact": "澳美官员倾向怀疑机长这一事件支持假说A机长蓄意行为的结论",
+      "source_node_uuid": "2faf01d0-731",
+      "target_node_uuid": "ac547452-c55",
+      "source_node_name": "澳美官员怀疑机长事件",
+      "target_node_name": "假说A：机长蓄意行为",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-12T15:37:27.340932",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9a94f19a-99c": {
+      "uuid": "9a94f19a-99c",
+      "name": "SUPPORTED_BY",
+      "fact": "拟航线与MH370实际飞行路径高度吻合这一发现支持MH370航班失事事件的相关分析",
+      "source_node_uuid": "57b68b4d-fd1",
+      "target_node_uuid": "cc321f72-bbf",
+      "source_node_name": "拟航线与MH370实际飞行路径吻合",
+      "target_node_name": "MH370航班失事事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.361919",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b87b356e-066": {
+      "uuid": "b87b356e-066",
+      "name": "CAUSED_BY",
+      "fact": "MH370的飞机偏航事件是由人为控制行为导致的",
+      "source_node_uuid": "7c991f83-f14",
+      "target_node_uuid": "23806864-2cc",
+      "source_node_name": "飞机人为控制偏航",
+      "target_node_name": "人为控制行为",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.411581",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "76f8ebc0-345": {
+      "uuid": "76f8ebc0-345",
+      "name": "CAUSED_BY",
+      "fact": "通信系统被系统性逐一关闭这一事件是由具备专业知识的人员操作导致的",
+      "source_node_uuid": "285dac05-462",
+      "target_node_uuid": "64561f51-1c4",
+      "source_node_name": "通信系统被系统性逐一关闭",
+      "target_node_name": "具备专业知识的人员操作",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-12T15:37:27.462547",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

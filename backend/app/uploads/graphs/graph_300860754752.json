@@ -1,0 +1,498 @@
+{
+  "nodes": {
+    "bc93bf4f-4ac": {
+      "uuid": "bc93bf4f-4ac",
+      "name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "关于MH370失踪事件的综合研究资料",
+      "attributes": {
+        "timestamp": "2026年3月",
+        "credibility_score": "0.8",
+        "source": "公开信息汇集",
+        "description": "版本为V3.0的综合研究资料，编制于2026年3月，汇集截至2026年1月的全部公开信息，涵盖事件时间线、技术数据等内容"
+      },
+      "created_at": "2026-03-11T22:38:00.568365",
+      "updated_at": "2026-03-11T22:38:00.568365"
+    },
+    "1215faba-c16": {
+      "uuid": "1215faba-c16",
+      "name": "马来西亚航空公司MH370航班失踪事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "2014年失踪的民航客机事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "涉及马来西亚航空公司MH370航班的失踪事件"
+      },
+      "created_at": "2026-03-11T22:38:00.571332",
+      "updated_at": "2026-03-11T22:38:00.571332"
+    },
+    "10a93f9c-19c": {
+      "uuid": "10a93f9c-19c",
+      "name": "马来西亚航空公司MH370航班",
+      "labels": [
+        "Event"
+      ],
+      "summary": "涉事民航航班",
+      "attributes": {
+        "timestamp": "2014年3月8日",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "马来西亚航空公司执行吉隆坡至北京飞行任务的航班"
+      },
+      "created_at": "2026-03-11T22:38:00.574840",
+      "updated_at": "2026-03-11T22:38:00.574840"
+    },
+    "196e3c37-d65": {
+      "uuid": "196e3c37-d65",
+      "name": "波音777-200ER型客机（注册编号9M-MRO）",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班使用的客机",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "型号为波音777-200ER，注册编号为9M-MRO的客机，为MH370航班所用"
+      },
+      "created_at": "2026-03-11T22:38:00.577389",
+      "updated_at": "2026-03-11T22:38:00.577389"
+    },
+    "660327de-46d": {
+      "uuid": "660327de-46d",
+      "name": "吉隆坡国际机场（KLIA）",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班的起飞机场",
+      "attributes": {
+        "timestamp": "2014年3月8日0时41分",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "马来西亚航空公司MH370航班的起飞地点"
+      },
+      "created_at": "2026-03-11T22:38:00.581121",
+      "updated_at": "2026-03-11T22:38:00.581121"
+    },
+    "1c7802b8-24b": {
+      "uuid": "1c7802b8-24b",
+      "name": "北京首都国际机场",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班原定抵达机场",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "马来西亚航空公司MH370航班原定于抵达的机场"
+      },
+      "created_at": "2026-03-11T22:38:00.583829",
+      "updated_at": "2026-03-11T22:38:00.583829"
+    },
+    "c2f30605-921": {
+      "uuid": "c2f30605-921",
+      "name": "MH370航班起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班的起飞事件",
+      "attributes": {
+        "timestamp": "2014年3月8日0时41分（马来西亚时间，UTC+8）",
+        "credibility_score": "0.9",
+        "source": "该回溯分析文档",
+        "description": "马来西亚航空公司MH370航班从吉隆坡国际机场起飞的事件"
+      },
+      "created_at": "2026-03-11T22:38:00.587338",
+      "updated_at": "2026-03-11T22:38:00.587338"
+    },
+    "a4df57c0-c36": {
+      "uuid": "a4df57c0-c36",
+      "name": "9M-MRO号波音777-200ER客机",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "马来西亚航空公司的波音777-200ER客机",
+      "attributes": {
+        "timestamp": "2002年5月31日交付至失联日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "机型为波音777-200ER（Extended Range），双发宽体客机，注册编号9M-MRO，2002年5月31日交付马航，累计飞行时间约53465.21小时，搭载两台罗尔斯·罗伊斯Trent 892B-17发动机，机龄11年9个月（截至失联日），最大航程14685公里，最大燃油量约171160升（约49100公斤起飞燃油）"
+      },
+      "created_at": "2026-03-11T22:38:25.841831",
+      "updated_at": "2026-03-11T22:38:25.841831"
+    },
+    "1301bc44-ce6": {
+      "uuid": "1301bc44-ce6",
+      "name": "吉隆坡国际机场起飞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "9M-MRO号客机从吉隆坡国际机场起飞的事件",
+      "attributes": {
+        "timestamp": "亚时间，UTC+8",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "9M-MRO号波音777-200ER客机从吉隆坡国际机场（KLIA）起飞，原定于北京时间6时30分抵达北京首都国际机场"
+      },
+      "created_at": "2026-03-11T22:38:25.845343",
+      "updated_at": "2026-03-11T22:38:25.845343"
+    },
+    "6f766382-590": {
+      "uuid": "6f766382-590",
+      "name": "马航航班机上人员搭载事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "该航班搭载机上人员的事件",
+      "attributes": {
+        "timestamp": "失联日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "机上共239人，包括227名乘客和12名机组人员；乘客国籍分布为中国大陆153人（含1名婴儿）、马来西亚38人、印度尼西亚7人、澳大利亚6人、印度5人、法国4人、美国3人、伊朗2人（持假护照）、乌克兰2人、加拿大2人、新西兰2人、荷兰1人、俄罗斯1人、中国台湾1人"
+      },
+      "created_at": "2026-03-11T22:38:25.848853",
+      "updated_at": "2026-03-11T22:38:25.848853"
+    },
+    "41c137cb-531": {
+      "uuid": "41c137cb-531",
+      "name": "客机交付马航事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "9M-MRO号客机交付马来西亚航空公司的事件",
+      "attributes": {
+        "timestamp": "2002年5月31日",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "注册编号9M-MRO的波音777-200ER客机于2002年5月31日交付马来西亚航空公司"
+      },
+      "created_at": "2026-03-11T22:38:25.851010",
+      "updated_at": "2026-03-11T22:38:25.851010"
+    },
+    "45d48a56-eb5": {
+      "uuid": "45d48a56-eb5",
+      "name": "两名伊朗乘客持被盗护照登机事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "两名伊朗籍乘客使用被盗护照登机的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "普里亚·努尔·穆罕默德·迈赫达德（19岁）和德拉瓦尔·赛义德·穆罕默德·雷扎（29岁）使用被盗的奥地利和意大利护照登机"
+      },
+      "created_at": "2026-03-11T22:39:20.495955",
+      "updated_at": "2026-03-11T22:39:20.495955"
+    },
+    "29214815-c2a": {
+      "uuid": "29214815-c2a",
+      "name": "国际刑警组织调查持假护照乘客事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "国际刑警组织对持假护照登机的伊朗乘客进行调查的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "国际刑警组织调查后确认两名伊朗乘客为非法移民，意图经北京转机前往欧洲，与恐怖主义无关"
+      },
+      "created_at": "2026-03-11T22:39:20.500462",
+      "updated_at": "2026-03-11T22:39:20.500462"
+    },
+    "c06d31e6-9c7": {
+      "uuid": "c06d31e6-9c7",
+      "name": "马来西亚机场安检系统漏洞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚机场安检系统存在未与国际刑警组织SLTD数据库实时比对的漏洞的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "马来西亚机场安检系统未能与国际刑警组织被盗和遗失旅行证件数据库（SLTD）进行实时比对"
+      },
+      "created_at": "2026-03-11T22:39:20.505894",
+      "updated_at": "2026-03-11T22:39:20.505894"
+    },
+    "e85a7177-df9": {
+      "uuid": "e85a7177-df9",
+      "name": "MH370货舱装载货物事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370货舱装载货物的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "货舱前部装载约4566公斤新鲜山竹果，同时装载由飞达物流公司托运的221公斤摩托罗拉品牌锂离子电池"
+      },
+      "created_at": "2026-03-11T22:39:20.511156",
+      "updated_at": "2026-03-11T22:39:20.511156"
+    },
+    "a02202a3-455": {
+      "uuid": "a02202a3-455",
+      "name": "MH370机组人员配备事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班机组人员配备情况的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "配备机长扎哈里·艾哈迈德·沙阿（53岁，总飞行时间18365小时，其中波音777机型8659小时）、副驾驶法里克·阿卜杜勒·哈米德（27岁，总飞行时间2763小时，正在进行波音777机型过渡训练）及10名客舱乘务员"
+      },
+      "created_at": "2026-03-11T22:39:20.515387",
+      "updated_at": "2026-03-11T22:39:20.515387"
+    },
+    "997e0384-6f5": {
+      "uuid": "997e0384-6f5",
+      "name": "MH370乘客搭载事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班搭载乘客的事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "搭载3名伊朗（其中2人持假护照）、2名乌克兰、2名加拿大、2名新西兰、1名荷兰、1名俄罗斯、1名中国台湾乘客"
+      },
+      "created_at": "2026-03-11T22:39:20.518531",
+      "updated_at": "2026-03-11T22:39:20.518531"
+    },
+    "4b12edb9-73a": {
+      "uuid": "4b12edb9-73a",
+      "name": "持假护照乘客相关信息",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "关于两名持假护照登机的伊朗乘客的相关信息",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "包括两名乘客的姓名、年龄、使用的被盗护照信息、行程意图及国际刑警组织的调查结果"
+      },
+      "created_at": "2026-03-11T22:39:20.521058",
+      "updated_at": "2026-03-11T22:39:20.521058"
+    },
+    "35f4a792-98b": {
+      "uuid": "35f4a792-98b",
+      "name": "MH370货物清单信息",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370货舱装载货物的相关信息",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "包括约4566公斤新鲜山竹果和221公斤摩托罗拉品牌锂离子电池的托运信息"
+      },
+      "created_at": "2026-03-11T22:39:20.524323",
+      "updated_at": "2026-03-11T22:39:20.524323"
+    },
+    "d9f261ca-8c0": {
+      "uuid": "d9f261ca-8c0",
+      "name": "MH370机组人员信息",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "MH370航班机组人员的相关信息",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.9",
+        "source": "给定文本",
+        "description": "包括机长、副驾驶的年龄、总飞行时长等信息及客舱乘务员数量"
+      },
+      "created_at": "2026-03-11T22:39:20.527849",
+      "updated_at": "2026-03-11T22:39:20.527849"
+    },
+    "156e58e1-d7d": {
+      "uuid": "156e58e1-d7d",
+      "name": "两名伊朗乘客与恐怖主义无关结论",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-11T22:39:20.542572",
+      "updated_at": "2026-03-11T22:39:20.542572"
+    }
+  },
+  "edges": {
+    "06570676-5f2": {
+      "uuid": "06570676-5f2",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚航空公司MH370航班失踪事件的相关事实被该回溯分析文档作为证据支持",
+      "source_node_uuid": "1215faba-c16",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "马来西亚航空公司MH370航班失踪事件",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.590651",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "53c9b498-85a": {
+      "uuid": "53c9b498-85a",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚航空公司MH370航班的相关信息被该回溯分析文档作为证据支持",
+      "source_node_uuid": "10a93f9c-19c",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "马来西亚航空公司MH370航班",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.594158",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "dfb9bed6-293": {
+      "uuid": "dfb9bed6-293",
+      "name": "SUPPORTED_BY",
+      "fact": "波音777-200ER型客机（注册编号9M-MRO）的相关信息被该回溯分析文档作为证据支持",
+      "source_node_uuid": "196e3c37-d65",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "波音777-200ER型客机（注册编号9M-MRO）",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.597156",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9aab008d-470": {
+      "uuid": "9aab008d-470",
+      "name": "SUPPORTED_BY",
+      "fact": "吉隆坡国际机场（KLIA）的相关信息被该回溯分析文档作为证据支持",
+      "source_node_uuid": "660327de-46d",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "吉隆坡国际机场（KLIA）",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.599155",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1a1a597a-df2": {
+      "uuid": "1a1a597a-df2",
+      "name": "SUPPORTED_BY",
+      "fact": "北京首都国际机场的相关信息被该回溯分析文档作为证据支持",
+      "source_node_uuid": "1c7802b8-24b",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "北京首都国际机场",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.602153",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7a8a1312-c40": {
+      "uuid": "7a8a1312-c40",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370航班起飞事件的相关信息被该回溯分析文档作为证据支持",
+      "source_node_uuid": "c2f30605-921",
+      "target_node_uuid": "bc93bf4f-4ac",
+      "source_node_name": "MH370航班起飞事件",
+      "target_node_name": "马来西亚航空公司MH370航班失踪事件全维度回溯分析文档",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:38:00.604151",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f64cd5b2-901": {
+      "uuid": "f64cd5b2-901",
+      "name": "CAUSED_BY",
+      "fact": "国际刑警组织对持假护照乘客的调查事件是由两名伊朗乘客持被盗护照登机的事件所引发的",
+      "source_node_uuid": "29214815-c2a",
+      "target_node_uuid": "45d48a56-eb5",
+      "source_node_name": "国际刑警组织调查持假护照乘客事件",
+      "target_node_name": "两名伊朗乘客持被盗护照登机事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-11T22:39:20.531818",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d37e85b6-36a": {
+      "uuid": "d37e85b6-36a",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚机场安检系统存在未与国际刑警组织被盗和遗失旅行证件数据库实时比对的严重漏洞这一事件被两名伊朗乘客持被盗护照登机的事件所支持",
+      "source_node_uuid": "c06d31e6-9c7",
+      "target_node_uuid": "45d48a56-eb5",
+      "source_node_name": "马来西亚机场安检系统漏洞事件",
+      "target_node_name": "两名伊朗乘客持被盗护照登机事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:39:20.535082",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b703f261-dcd": {
+      "uuid": "b703f261-dcd",
+      "name": "SUPPORTED_BY",
+      "fact": "马来西亚机场安检系统存在未与国际刑警组织被盗和遗失旅行证件数据库实时比对的严重漏洞这一事件被持假护照乘客的相关信息所支持",
+      "source_node_uuid": "c06d31e6-9c7",
+      "target_node_uuid": "4b12edb9-73a",
+      "source_node_name": "马来西亚机场安检系统漏洞事件",
+      "target_node_name": "持假护照乘客相关信息",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-11T22:39:20.538587",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "383f0b5b-600": {
+      "uuid": "383f0b5b-600",
+      "name": "SUPPORTED_BY",
+      "fact": "两名伊朗乘客与恐怖主义无关这一结论被国际刑警组织对持假护照乘客的调查事件所支持",
+      "source_node_uuid": "156e58e1-d7d",
+      "target_node_uuid": "29214815-c2a",
+      "source_node_name": "两名伊朗乘客与恐怖主义无关结论",
+      "target_node_name": "国际刑警组织调查持假护照乘客事件",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.9"
+      },
+      "created_at": "2026-03-11T22:39:20.546078",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

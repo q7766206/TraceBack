@@ -1,0 +1,2292 @@
+{
+  "nodes": {
+    "8d93ace4-546": {
+      "uuid": "8d93ace4-546",
+      "name": "切尔诺贝利核事故",
+      "labels": [
+        "Event"
+      ],
+      "summary": "1986年发生的严重核泄漏事故",
+      "attributes": {
+        "timestamp": "1986-04-26T01:23:47",
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "苏联切尔诺贝利核电站4号机组发生的严重核泄漏事故，被列为国际核事件分级最高级别7级"
+      },
+      "created_at": "2026-03-10T04:50:54.258983",
+      "updated_at": "2026-03-10T04:50:54.258983"
+    },
+    "fb0839c3-131": {
+      "uuid": "fb0839c3-131",
+      "name": "切尔诺贝利核电站",
+      "labels": [
+        "Location"
+      ],
+      "summary": "核电站所在地",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "位于乌克兰北部普里皮亚季市附近，距基辅约130公里"
+      },
+      "created_at": "2026-03-10T04:50:54.261981",
+      "updated_at": "2026-03-10T04:50:54.261981"
+    },
+    "0ae31490-4f0": {
+      "uuid": "0ae31490-4f0",
+      "name": "4号机组",
+      "labels": [
+        "Reactor"
+      ],
+      "summary": "RBMK-1000型反应堆",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "采用RBMK-1000型石墨慢化沸水堆，额定热功率3200MW，电功率1000MW，存在正空泡系数设计缺陷"
+      },
+      "created_at": "2026-03-10T04:50:54.265981",
+      "updated_at": "2026-03-10T04:50:54.265981"
+    },
+    "85744845-74d": {
+      "uuid": "85744845-74d",
+      "name": "安全测试",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "计划中的安全验证程序",
+      "attributes": {
+        "timestamp": "1986-04-25",
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "验证在外部电源中断后，汽轮机惯性转动能否为冷却水泵提供足够电力，以维持反应堆冷却直到备用柴油发电机启动"
+      },
+      "created_at": "2026-03-10T04:50:54.268981",
+      "updated_at": "2026-03-10T04:50:54.268981"
+    },
+    "dceffe70-121": {
+      "uuid": "dceffe70-121",
+      "name": "苏联",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "核电站管理方",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "切尔诺贝利核电站所属国家"
+      },
+      "created_at": "2026-03-10T04:50:54.271977",
+      "updated_at": "2026-03-10T04:50:54.271977"
+    },
+    "260de623-d9f": {
+      "uuid": "260de623-d9f",
+      "name": "RBMK-1000反应堆",
+      "labels": [
+        "Reactor"
+      ],
+      "summary": "存在设计缺陷的反应堆类型",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "石墨慢化沸水堆，具有正空泡系数缺陷（冷却水汽化时反应堆功率不降反升）"
+      },
+      "created_at": "2026-03-10T04:50:54.274976",
+      "updated_at": "2026-03-10T04:50:54.274976"
+    },
+    "ee5f1fd7-223": {
+      "uuid": "ee5f1fd7-223",
+      "name": "普里皮亚季市",
+      "labels": [
+        "Location"
+      ],
+      "summary": "核电站附近城市",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": null,
+        "source": "chernobyl.txt",
+        "description": "乌克兰北部城市，切尔诺贝利核电站所在地"
+      },
+      "created_at": "2026-03-10T04:50:54.278154",
+      "updated_at": "2026-03-10T04:50:54.278154"
+    },
+    "9e3b6eef-763": {
+      "uuid": "9e3b6eef-763",
+      "name": "Power Reduction Start",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Planned reduction of reactor power from 3200MW thermal power",
+      "attributes": {
+        "timestamp": "4月25日13:00",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where reactor power reduction began as scheduled from the rated 3200MW thermal power."
+      },
+      "created_at": "2026-03-10T04:54:37.061076",
+      "updated_at": "2026-03-10T04:54:37.061076"
+    },
+    "bc624adb-c07": {
+      "uuid": "bc624adb-c07",
+      "name": "Test Delay",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Delay of the safety test requested by Kyiv Grid Dispatch Center",
+      "attributes": {
+        "timestamp": "4月25日14:00",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where the test was delayed, and reactor power was maintained at 1600MW."
+      },
+      "created_at": "2026-03-10T04:54:37.064073",
+      "updated_at": "2026-03-10T04:54:37.064073"
+    },
+    "43557ba3-89b": {
+      "uuid": "43557ba3-89b",
+      "name": "Power Reduction Resume",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Resumption of power reduction operation",
+      "attributes": {
+        "timestamp": "4月25日23:10",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where power reduction operations were restarted after the delay."
+      },
+      "created_at": "2026-03-10T04:54:37.066073",
+      "updated_at": "2026-03-10T04:54:37.066073"
+    },
+    "ba4b3f25-01d": {
+      "uuid": "ba4b3f25-01d",
+      "name": "Power Plunge",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Sudden drop in reactor power to 30MW due to operator error",
+      "attributes": {
+        "timestamp": "4月26日00:28",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where reactor power plummeted to 30MW, far below the planned 700MW, leading to xenon poisoning."
+      },
+      "created_at": "2026-03-10T04:54:37.069070",
+      "updated_at": "2026-03-10T04:54:37.069070"
+    },
+    "a88cd870-02d": {
+      "uuid": "a88cd870-02d",
+      "name": "Xenon Poisoning",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Operational state caused by low reactor power",
+      "attributes": {
+        "timestamp": "4月26日00:28",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Environmental or operational state where xenon buildup occurred as a result of the power plunge."
+      },
+      "created_at": "2026-03-10T04:54:37.072069",
+      "updated_at": "2026-03-10T04:54:37.072069"
+    },
+    "076754bf-42b": {
+      "uuid": "076754bf-42b",
+      "name": "Control Rod Withdrawal",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Withdrawal of control rods by operators, violating safety regulations",
+      "attributes": {
+        "timestamp": "4月26日00:30-01:00",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where operators withdrew most control rods, leaving only 6-8 rods, which breached the safety regulation requiring a minimum of 30 rods."
+      },
+      "created_at": "2026-03-10T04:54:37.075067",
+      "updated_at": "2026-03-10T04:54:37.075067"
+    },
+    "4cbfc22b-321": {
+      "uuid": "4cbfc22b-321",
+      "name": "Power Recovery",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Recovery of reactor power to 200MW",
+      "attributes": {
+        "timestamp": "4月26日01:00",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where reactor power was restored to 200MW, but the reactor entered an unstable state."
+      },
+      "created_at": "2026-03-10T04:54:37.078065",
+      "updated_at": "2026-03-10T04:54:37.078065"
+    },
+    "b1d4de77-574": {
+      "uuid": "b1d4de77-574",
+      "name": "Reactor Instability",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Unstable operational state of the reactor",
+      "attributes": {
+        "timestamp": "4月26日01:00",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Environmental or operational state where the reactor became highly unstable after power recovery."
+      },
+      "created_at": "2026-03-10T04:54:37.081063",
+      "updated_at": "2026-03-10T04:54:37.081063"
+    },
+    "d050d889-dd5": {
+      "uuid": "d050d889-dd5",
+      "name": "Safety Test Start",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "Initiation of the planned safety verification procedure",
+      "attributes": {
+        "timestamp": "4月26日01:23:04",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Planned safety verification procedure to test if turbine coastdown could provide sufficient power to cooling water pumps until backup diesel generators started; involved closing turbine steam supply."
+      },
+      "created_at": "2026-03-10T04:54:37.084060",
+      "updated_at": "2026-03-10T04:54:37.084060"
+    },
+    "7a0ab1c0-2b7": {
+      "uuid": "7a0ab1c0-2b7",
+      "name": "AZ-5 Button Press",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Pressing of the AZ-5 emergency shutdown button by Akimov",
+      "attributes": {
+        "timestamp": "4月26日01:23:40",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where shift supervisor Akimov pressed the AZ-5 emergency shutdown button."
+      },
+      "created_at": "2026-03-10T04:54:37.087058",
+      "updated_at": "2026-03-10T04:54:37.087058"
+    },
+    "9170c458-eb7": {
+      "uuid": "9170c458-eb7",
+      "name": "Power Surge",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Rapid increase in reactor power to over 100 times nominal value",
+      "attributes": {
+        "timestamp": "4月26日01:23:44",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where reactor power surged to approximately 33000MW (over 100 times nominal) within 4 seconds, with core temperature exceeding 2000°C."
+      },
+      "created_at": "2026-03-10T04:54:37.090057",
+      "updated_at": "2026-03-10T04:54:37.090057"
+    },
+    "f45a80ab-9ca": {
+      "uuid": "f45a80ab-9ca",
+      "name": "Steam Explosion",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Explosion caused by steam pressure",
+      "attributes": {
+        "timestamp": "4月26日01:23:45",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where a steam explosion blew off the reactor lid."
+      },
+      "created_at": "2026-03-10T04:54:37.094055",
+      "updated_at": "2026-03-10T04:54:37.094055"
+    },
+    "20fe9bd1-b98": {
+      "uuid": "20fe9bd1-b98",
+      "name": "Reactor Lid Blown Off",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Dislodging of the reactor lid due to explosion",
+      "attributes": {
+        "timestamp": "4月26日01:23:45",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific occurrence where the reactor lid, weighing 1000 tons, was blown off by the steam explosion."
+      },
+      "created_at": "2026-03-10T04:54:37.098052",
+      "updated_at": "2026-03-10T04:54:37.098052"
+    },
+    "ff6dc28e-e15": {
+      "uuid": "ff6dc28e-e15",
+      "name": "Akimov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Shift supervisor involved in pressing the AZ-5 button",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual who ordered and pressed the AZ-5 emergency shutdown button."
+      },
+      "created_at": "2026-03-10T04:54:37.101428",
+      "updated_at": "2026-03-10T04:54:37.101428"
+    },
+    "de67114f-f71": {
+      "uuid": "de67114f-f71",
+      "name": "Kyiv Grid Dispatch Center",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Institution that requested the test delay",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Institution or group that influenced events by requesting a delay in the safety test."
+      },
+      "created_at": "2026-03-10T04:54:37.105082",
+      "updated_at": "2026-03-10T04:54:37.105082"
+    },
+    "6d8b4212-b2c": {
+      "uuid": "6d8b4212-b2c",
+      "name": "Reactor",
+      "labels": [
+        "Reactor"
+      ],
+      "summary": "Nuclear reactor unit involved in the events",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Nuclear reactor unit with specific design characteristics, subject to power changes and instability."
+      },
+      "created_at": "2026-03-10T04:54:37.108793",
+      "updated_at": "2026-03-10T04:54:37.108793"
+    },
+    "6afb7e52-fbf": {
+      "uuid": "6afb7e52-fbf",
+      "name": "Safety Regulation on Control Rods",
+      "labels": [
+        "Regulation"
+      ],
+      "summary": "Formal rule requiring minimum control rods for safety",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Formal safety rule specifying that a minimum of 30 control rods must be inserted to maintain reactor safety."
+      },
+      "created_at": "2026-03-10T04:54:37.111828",
+      "updated_at": "2026-03-10T04:54:37.111828"
+    },
+    "78731065-013": {
+      "uuid": "78731065-013",
+      "name": "AZ-5 Emergency Shutdown Button",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "Engineered safety mechanism for emergency reactor shutdown",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Safety mechanism designed to initiate an emergency shutdown of the reactor when pressed."
+      },
+      "created_at": "2026-03-10T04:54:37.115825",
+      "updated_at": "2026-03-10T04:54:37.115825"
+    },
+    "8f5ac1e3-ac8": {
+      "uuid": "8f5ac1e3-ac8",
+      "name": "Cooling Water Pumps",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "Safety components for maintaining reactor cooling",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Engineered safety components that require power to maintain reactor cooling, as referenced in the safety test purpose."
+      },
+      "created_at": "2026-03-10T04:54:37.119822",
+      "updated_at": "2026-03-10T04:54:37.119822"
+    },
+    "ff16ab12-62a": {
+      "uuid": "ff16ab12-62a",
+      "name": "Backup Diesel Generators",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "Backup power source intended to start after external power loss",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Engineered safety mechanisms designed to provide backup power after an external power interruption, as referenced in the safety test purpose."
+      },
+      "created_at": "2026-03-10T04:54:37.123819",
+      "updated_at": "2026-03-10T04:54:37.123819"
+    },
+    "0f37bd2e-5d6": {
+      "uuid": "0f37bd2e-5d6",
+      "name": "蒸汽爆炸",
+      "labels": [
+        "Event"
+      ],
+      "summary": "蒸汽爆炸事件导致反应堆顶盖被掀飞",
+      "attributes": {
+        "timestamp": "01:23:45",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "在01:23:45发生的蒸汽爆炸，导致重达1000吨的反应堆顶盖被掀飞"
+      },
+      "created_at": "2026-03-10T04:57:37.520905",
+      "updated_at": "2026-03-10T04:57:37.520905"
+    },
+    "dfe21414-2fd": {
+      "uuid": "dfe21414-2fd",
+      "name": "氢爆",
+      "labels": [
+        "Event"
+      ],
+      "summary": "氢爆事件导致石墨慢化剂起火和放射性物质抛射",
+      "attributes": {
+        "timestamp": "4月26日01:23:47",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "在01:23:47发生的第二次爆炸（氢爆），导致石墨慢化剂起火燃烧，放射性物质被抛射至1200米高空"
+      },
+      "created_at": "2026-03-10T04:57:37.530170",
+      "updated_at": "2026-03-10T04:57:37.530170"
+    },
+    "7716d532-448": {
+      "uuid": "7716d532-448",
+      "name": "RBMK反应堆",
+      "labels": [
+        "Reactor"
+      ],
+      "summary": "RBMK型核反应堆",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "具有设计缺陷的核反应堆，包括正空泡系数缺陷、AZ-5系统缺陷和缺乏安全壳"
+      },
+      "created_at": "2026-03-10T04:57:37.539165",
+      "updated_at": "2026-03-10T04:57:37.539165"
+    },
+    "26124d09-7b6": {
+      "uuid": "26124d09-7b6",
+      "name": "正空泡系数缺陷",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "冷却水减少时功率反而增加的设计缺陷",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "RBMK反应堆的设计缺陷，当冷却水减少时，反应堆功率反而增加"
+      },
+      "created_at": "2026-03-10T04:57:37.548160",
+      "updated_at": "2026-03-10T04:57:37.548160"
+    },
+    "042fd9a3-36f": {
+      "uuid": "042fd9a3-36f",
+      "name": "AZ-5紧急停堆系统",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "紧急停堆系统但有致命缺陷",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "控制棒底部装有石墨段，插入初期会先排出冷却水、引入石墨，短暂增加反应性而非降低"
+      },
+      "created_at": "2026-03-10T04:57:37.557149",
+      "updated_at": "2026-03-10T04:57:37.557149"
+    },
+    "0155d508-f86": {
+      "uuid": "0155d508-f86",
+      "name": "安全壳缺乏",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "缺乏混凝土安全壳的状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "RBMK反应堆没有西方核电站标配的混凝土安全壳"
+      },
+      "created_at": "2026-03-10T04:57:37.566143",
+      "updated_at": "2026-03-10T04:57:37.566143"
+    },
+    "131e2bee-105": {
+      "uuid": "131e2bee-105",
+      "name": "测试方案",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "安全测试方案",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "计划的安全测试，但未经核安全部门审批"
+      },
+      "created_at": "2026-03-10T04:57:37.576137",
+      "updated_at": "2026-03-10T04:57:37.576137"
+    },
+    "90243351-ea1": {
+      "uuid": "90243351-ea1",
+      "name": "安全保护系统",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "核电站安全保护系统",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "被操作员切断的多个安全保护系统"
+      },
+      "created_at": "2026-03-10T04:57:37.585132",
+      "updated_at": "2026-03-10T04:57:37.585132"
+    },
+    "321201dd-741": {
+      "uuid": "321201dd-741",
+      "name": "控制棒",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "反应堆控制棒",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "操作员违规抽出过多控制棒，远低于安全下限"
+      },
+      "created_at": "2026-03-10T04:57:37.593125",
+      "updated_at": "2026-03-10T04:57:37.593125"
+    },
+    "abc4130d-7aa": {
+      "uuid": "abc4130d-7aa",
+      "name": "反应堆不稳定状态",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "反应堆处于不稳定操作状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "反应堆在不稳定状态下，操作员强行进行测试"
+      },
+      "created_at": "2026-03-10T04:57:37.598122",
+      "updated_at": "2026-03-10T04:57:37.598122"
+    },
+    "67bb8776-12a": {
+      "uuid": "67bb8776-12a",
+      "name": "强行测试",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "强行进行的安全测试",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "在反应堆不稳定状态下强行进行的测试"
+      },
+      "created_at": "2026-03-10T04:57:37.604118",
+      "updated_at": "2026-03-10T04:57:37.604118"
+    },
+    "7e552767-1f4": {
+      "uuid": "7e552767-1f4",
+      "name": "值班人员",
+      "labels": [
+        "Person"
+      ],
+      "summary": "核电站值班操作人员",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "缺乏对RBMK反应堆特性充分了解的值班人员"
+      },
+      "created_at": "2026-03-10T04:57:37.609115",
+      "updated_at": "2026-03-10T04:57:37.609115"
+    },
+    "d4969a1f-8ea": {
+      "uuid": "d4969a1f-8ea",
+      "name": "核安全部门",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "核安全审批部门",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "测试方案未经其审批的核安全部门"
+      },
+      "created_at": "2026-03-10T04:57:37.615112",
+      "updated_at": "2026-03-10T04:57:37.615112"
+    },
+    "3da8c4e1-dd5": {
+      "uuid": "3da8c4e1-dd5",
+      "name": "操作员",
+      "labels": [
+        "Person"
+      ],
+      "summary": "核电站操作员",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "切断安全保护系统和违规操作控制棒的操作员"
+      },
+      "created_at": "2026-03-10T04:57:37.621107",
+      "updated_at": "2026-03-10T04:57:37.621107"
+    },
+    "e18a1d7f-6f5": {
+      "uuid": "e18a1d7f-6f5",
+      "name": "苏联核工业体系",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "苏联核工业体系",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "具有保密文化，导致设计缺陷未被公开讨论"
+      },
+      "created_at": "2026-03-10T04:57:37.627103",
+      "updated_at": "2026-03-10T04:57:37.627103"
+    },
+    "91276acd-7ac": {
+      "uuid": "91276acd-7ac",
+      "name": "核电站管理层",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "核电站管理层",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "忽视安全规程、组织测试计划混乱的管理层"
+      },
+      "created_at": "2026-03-10T04:57:37.633099",
+      "updated_at": "2026-03-10T04:57:37.633099"
+    },
+    "5a20bf31-aef": {
+      "uuid": "5a20bf31-aef",
+      "name": "安全规程",
+      "labels": [
+        "Regulation"
+      ],
+      "summary": "核安全规程",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "被管理层忽视和操作员违反的安全规程"
+      },
+      "created_at": "2026-03-10T04:57:37.639096",
+      "updated_at": "2026-03-10T04:57:37.639096"
+    },
+    "06315a71-67e": {
+      "uuid": "06315a71-67e",
+      "name": "测试计划",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "原定测试计划",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "组织混乱，原定白班进行但被推迟到夜班的测试计划"
+      },
+      "created_at": "2026-03-10T04:57:37.645092",
+      "updated_at": "2026-03-10T04:57:37.645092"
+    },
+    "46035f89-062": {
+      "uuid": "46035f89-062",
+      "name": "培训不足",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "操作人员培训不足的状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "操作人员不了解反应堆在低功率下的危险特性"
+      },
+      "created_at": "2026-03-10T04:57:37.651089",
+      "updated_at": "2026-03-10T04:57:37.651089"
+    },
+    "b5d83e30-579": {
+      "uuid": "b5d83e30-579",
+      "name": "保密文化",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "保密文化状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "苏联核工业体系的保密文化，导致设计缺陷未被公开讨论"
+      },
+      "created_at": "2026-03-10T04:57:37.657084",
+      "updated_at": "2026-03-10T04:57:37.657084"
+    },
+    "f09785df-66a": {
+      "uuid": "f09785df-66a",
+      "name": "安全规程忽视",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:57:37.743029",
+      "updated_at": "2026-03-10T04:57:37.743029"
+    },
+    "7668a285-9d8": {
+      "uuid": "7668a285-9d8",
+      "name": "测试计划混乱",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:57:37.757021",
+      "updated_at": "2026-03-10T04:57:37.757021"
+    },
+    "01036b4e-41e": {
+      "uuid": "01036b4e-41e",
+      "name": "安全测试推迟",
+      "labels": [
+        "Event"
+      ],
+      "summary": "核安全测试被延迟到夜班进行",
+      "attributes": {
+        "timestamp": "1986年4月25日夜班",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "计划中的安全测试被推迟至夜班时段执行"
+      },
+      "created_at": "2026-03-10T04:59:03.509808",
+      "updated_at": "2026-03-10T04:59:03.509808"
+    },
+    "0f0ec552-80a": {
+      "uuid": "0f0ec552-80a",
+      "name": "操作人员培训不足",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "操作员缺乏低功率反应堆风险知识",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "操作人员未接受充分培训，不了解反应堆在低功率下的危险特性"
+      },
+      "created_at": "2026-03-10T04:59:03.522978",
+      "updated_at": "2026-03-10T04:59:03.522978"
+    },
+    "d4a7cf90-228": {
+      "uuid": "d4a7cf90-228",
+      "name": "2名工人死亡",
+      "labels": [
+        "Event"
+      ],
+      "summary": "爆炸导致两名工人当场死亡",
+      "attributes": {
+        "timestamp": "事故发生时",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "两名工人在核事故爆炸中当场死亡"
+      },
+      "created_at": "2026-03-10T04:59:03.536270",
+      "updated_at": "2026-03-10T04:59:03.536270"
+    },
+    "38f3bbc5-27d": {
+      "uuid": "38f3bbc5-27d",
+      "name": "28名消防员死亡",
+      "labels": [
+        "Event"
+      ],
+      "summary": "消防员和工作人员因辐射死亡",
+      "attributes": {
+        "timestamp": "事故后数周内",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "28名消防员和核电站工作人员因急性辐射综合征死亡"
+      },
+      "created_at": "2026-03-10T04:59:03.544594",
+      "updated_at": "2026-03-10T04:59:03.544594"
+    },
+    "27bf0dad-495": {
+      "uuid": "27bf0dad-495",
+      "name": "放射性物质释放",
+      "labels": [
+        "Event"
+      ],
+      "summary": "大量放射性物质泄漏",
+      "attributes": {
+        "timestamp": "事故期间",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "释放的放射性物质相当于400枚广岛原子弹"
+      },
+      "created_at": "2026-03-10T04:59:03.554295",
+      "updated_at": "2026-03-10T04:59:03.554295"
+    },
+    "f441e78e-2cf": {
+      "uuid": "f441e78e-2cf",
+      "name": "放射性尘埃扩散",
+      "labels": [
+        "Event"
+      ],
+      "summary": "放射性污染覆盖大面积区域",
+      "attributes": {
+        "timestamp": "事故后",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "放射性尘埃覆盖15.5万平方公里，波及欧洲23个国家"
+      },
+      "created_at": "2026-03-10T04:59:03.567626",
+      "updated_at": "2026-03-10T04:59:03.567626"
+    },
+    "935df45b-b71": {
+      "uuid": "935df45b-b71",
+      "name": "世卫组织癌症预估",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "辐射致癌人数的官方估计",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "世界卫生组织预估4000-9000人因辐射患癌"
+      },
+      "created_at": "2026-03-10T04:59:03.576540",
+      "updated_at": "2026-03-10T04:59:03.576540"
+    },
+    "62b0831d-173": {
+      "uuid": "62b0831d-173",
+      "name": "隔离区疏散",
+      "labels": [
+        "Event"
+      ],
+      "summary": "永久性居民撤离",
+      "attributes": {
+        "timestamp": "事故后",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "30公里隔离区内约35万人被永久疏散"
+      },
+      "created_at": "2026-03-10T04:59:03.584539",
+      "updated_at": "2026-03-10T04:59:03.584539"
+    },
+    "e5edba32-cc5": {
+      "uuid": "e5edba32-cc5",
+      "name": "2000亿美元损失",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "事故造成的经济损失",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "总经济损失超过2000亿美元"
+      },
+      "created_at": "2026-03-10T04:59:03.593533",
+      "updated_at": "2026-03-10T04:59:03.593533"
+    },
+    "e62fc5f9-8fd": {
+      "uuid": "e62fc5f9-8fd",
+      "name": "苏联形象受损",
+      "labels": [
+        "Event"
+      ],
+      "summary": "国际声誉严重下降",
+      "attributes": {
+        "timestamp": "事故后",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "苏联国际形象严重受损"
+      },
+      "created_at": "2026-03-10T04:59:03.602530",
+      "updated_at": "2026-03-10T04:59:03.602530"
+    },
+    "f3604557-057": {
+      "uuid": "f3604557-057",
+      "name": "全球核安全改革",
+      "labels": [
+        "Event"
+      ],
+      "summary": "国际安全标准升级",
+      "attributes": {
+        "timestamp": "事故后",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "推动了全球核安全标准的根本性改革"
+      },
+      "created_at": "2026-03-10T04:59:03.617520",
+      "updated_at": "2026-03-10T04:59:03.617520"
+    },
+    "ccca6ad6-619": {
+      "uuid": "ccca6ad6-619",
+      "name": "米哈伊尔·戈尔巴乔夫",
+      "labels": [
+        "Person"
+      ],
+      "summary": "苏联领导人",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "苏联领导人，称事故为'苏联解体的真正原因'"
+      },
+      "created_at": "2026-03-10T04:59:03.632790",
+      "updated_at": "2026-03-10T04:59:03.632790"
+    },
+    "7bdeaf0b-14e": {
+      "uuid": "7bdeaf0b-14e",
+      "name": "爆炸",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:59:03.661463",
+      "updated_at": "2026-03-10T04:59:03.661463"
+    },
+    "106a414a-bc3": {
+      "uuid": "106a414a-bc3",
+      "name": "急性辐射综合征",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:59:03.679452",
+      "updated_at": "2026-03-10T04:59:03.679452"
+    },
+    "223cd269-7dc": {
+      "uuid": "223cd269-7dc",
+      "name": "400枚广岛原子弹当量",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:59:03.700438",
+      "updated_at": "2026-03-10T04:59:03.700438"
+    },
+    "b0874e29-97c": {
+      "uuid": "b0874e29-97c",
+      "name": "30公里隔离区",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:59:03.721424",
+      "updated_at": "2026-03-10T04:59:03.721424"
+    },
+    "23a54096-721": {
+      "uuid": "23a54096-721",
+      "name": "苏联解体原因声明",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T04:59:03.750406",
+      "updated_at": "2026-03-10T04:59:03.750406"
+    },
+    "5c96544b-0a3": {
+      "uuid": "5c96544b-0a3",
+      "name": "Chernobyl Nuclear Accident",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Nuclear accident at Chernobyl Nuclear Power Plant",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The catastrophic nuclear accident that occurred at the Chernobyl Nuclear Power Plant, referred to as a key event in the text."
+      },
+      "created_at": "2026-03-10T05:02:41.513908",
+      "updated_at": "2026-03-10T05:02:41.513908"
+    },
+    "d4e13b92-429": {
+      "uuid": "d4e13b92-429",
+      "name": "Dissolution of the Soviet Union",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Breakup of the Soviet Union",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "The event where the Soviet Union dissolved, claimed by Mikhail Gorbachev to be caused by the Chernobyl Nuclear Accident."
+      },
+      "created_at": "2026-03-10T05:02:41.524804",
+      "updated_at": "2026-03-10T05:02:41.524804"
+    },
+    "e051a2e3-8ab": {
+      "uuid": "e051a2e3-8ab",
+      "name": "Reform of Global Nuclear Safety Standards",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Reforms in nuclear safety standards worldwide",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Fundamental reforms in global nuclear safety standards pushed by the Chernobyl Nuclear Accident."
+      },
+      "created_at": "2026-03-10T05:02:41.535022",
+      "updated_at": "2026-03-10T05:02:41.535022"
+    },
+    "af98c6b5-552": {
+      "uuid": "af98c6b5-552",
+      "name": "Viktor Bryukhanov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Director of Chernobyl Nuclear Power Plant",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual involved in the Chernobyl Nuclear Accident; sentenced to 10 years in prison after the accident."
+      },
+      "created_at": "2026-03-10T05:02:41.545528",
+      "updated_at": "2026-03-10T05:02:41.545528"
+    },
+    "874e0c50-b59": {
+      "uuid": "874e0c50-b59",
+      "name": "Anatoly Dyatlov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Deputy Chief Engineer",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual directly responsible for the Safety Test; sentenced to 10 years in prison after the accident."
+      },
+      "created_at": "2026-03-10T05:02:41.555942",
+      "updated_at": "2026-03-10T05:02:41.555942"
+    },
+    "29d610a2-899": {
+      "uuid": "29d610a2-899",
+      "name": "Alexander Akimov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Shift supervisor of Reactor Unit 4",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual who ordered the pressing of the AZ-5 Button; died from radiation after the accident."
+      },
+      "created_at": "2026-03-10T05:02:41.567186",
+      "updated_at": "2026-03-10T05:02:41.567186"
+    },
+    "91955ad2-ae5": {
+      "uuid": "91955ad2-ae5",
+      "name": "Leonid Toptunov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Reactor operator",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual who executed the power reduction and control rod withdrawal operations; died from radiation after the accident."
+      },
+      "created_at": "2026-03-10T05:02:41.577053",
+      "updated_at": "2026-03-10T05:02:41.577053"
+    },
+    "e4afbc64-3ca": {
+      "uuid": "e4afbc64-3ca",
+      "name": "Valery Legasov",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Academician of Soviet Academy of Sciences",
+      "attributes": {
+        "timestamp": "1988",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual who was a member of the Accident Investigation Committee; committed suicide in 1988."
+      },
+      "created_at": "2026-03-10T05:02:41.591349",
+      "updated_at": "2026-03-10T05:02:41.591349"
+    },
+    "af5348d8-842": {
+      "uuid": "af5348d8-842",
+      "name": "Boris Shcherbina",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Deputy Chairman of Soviet Council of Ministers",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual responsible for the aftermath work of the Chernobyl Nuclear Accident."
+      },
+      "created_at": "2026-03-10T05:02:41.602257",
+      "updated_at": "2026-03-10T05:02:41.602257"
+    },
+    "48ee3c84-989": {
+      "uuid": "48ee3c84-989",
+      "name": "Mikhail Gorbachev",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Soviet leader",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Key individual who claimed the Chernobyl Nuclear Accident was the real cause of the Dissolution of the Soviet Union."
+      },
+      "created_at": "2026-03-10T05:02:41.612381",
+      "updated_at": "2026-03-10T05:02:41.612381"
+    },
+    "24c59bf0-60d": {
+      "uuid": "24c59bf0-60d",
+      "name": "Chernobyl Nuclear Power Plant",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Nuclear power plant at Chernobyl",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Institution where the Chernobyl Nuclear Accident occurred; managed by Viktor Bryukhanov."
+      },
+      "created_at": "2026-03-10T05:02:41.622417",
+      "updated_at": "2026-03-10T05:02:41.622417"
+    },
+    "1b8f4e92-a2a": {
+      "uuid": "1b8f4e92-a2a",
+      "name": "Soviet Academy of Sciences",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Scientific academy of the Soviet Union",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Institution where Valery Legasov was an academician."
+      },
+      "created_at": "2026-03-10T05:02:41.633410",
+      "updated_at": "2026-03-10T05:02:41.633410"
+    },
+    "6bd7468d-0a2": {
+      "uuid": "6bd7468d-0a2",
+      "name": "Accident Investigation Committee",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Committee for investigating the accident",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Group formed to investigate the Chernobyl Nuclear Accident; Valery Legasov was a member."
+      },
+      "created_at": "2026-03-10T05:02:41.644298",
+      "updated_at": "2026-03-10T05:02:41.644298"
+    },
+    "1680eaf5-ab5": {
+      "uuid": "1680eaf5-ab5",
+      "name": "Soviet Council of Ministers",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Government body of the Soviet Union",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Institution where Boris Shcherbina served as deputy chairman; involved in the aftermath work."
+      },
+      "created_at": "2026-03-10T05:02:41.655230",
+      "updated_at": "2026-03-10T05:02:41.655230"
+    },
+    "54fc3815-48d": {
+      "uuid": "54fc3815-48d",
+      "name": "Reactor Unit 4",
+      "labels": [
+        "Reactor"
+      ],
+      "summary": "Nuclear reactor unit at Chernobyl",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific reactor unit where the Chernobyl Nuclear Accident occurred; supervised by Alexander Akimov."
+      },
+      "created_at": "2026-03-10T05:02:41.665225",
+      "updated_at": "2026-03-10T05:02:41.665225"
+    },
+    "50bf2048-617": {
+      "uuid": "50bf2048-617",
+      "name": "Safety Test",
+      "labels": [
+        "SafetyTest"
+      ],
+      "summary": "Planned safety verification procedure",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Safety test for which Anatoly Dyatlov was directly responsible; conducted at Chernobyl Nuclear Power Plant."
+      },
+      "created_at": "2026-03-10T05:02:41.676217",
+      "updated_at": "2026-03-10T05:02:41.676217"
+    },
+    "9f2d259f-f27": {
+      "uuid": "9f2d259f-f27",
+      "name": "AZ-5 Button",
+      "labels": [
+        "SafetySystem"
+      ],
+      "summary": "Engineered safety mechanism button",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Safety component pressed during the Chernobyl Nuclear Accident; ordered by Alexander Akimov."
+      },
+      "created_at": "2026-03-10T05:02:41.689713",
+      "updated_at": "2026-03-10T05:02:41.689713"
+    },
+    "b688d6c0-9ff": {
+      "uuid": "b688d6c0-9ff",
+      "name": "Chernobyl",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographical site in Ukraine",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Site where the Chernobyl Nuclear Power Plant is located and the accident occurred."
+      },
+      "created_at": "2026-03-10T05:02:41.702988",
+      "updated_at": "2026-03-10T05:02:41.702988"
+    },
+    "8c7fba99-4aa": {
+      "uuid": "8c7fba99-4aa",
+      "name": "Power Reduction and Control Rod Withdrawal",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Operations executed in the reactor",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Specific actions involving reducing power and withdrawing control rods, executed by Leonid Toptunov during the accident."
+      },
+      "created_at": "2026-03-10T05:02:41.714188",
+      "updated_at": "2026-03-10T05:02:41.714188"
+    },
+    "798f29e3-d8f": {
+      "uuid": "798f29e3-d8f",
+      "name": "Investigation of Chernobyl Accident",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Investigation into accident causes",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Event involving the investigation of the Chernobyl Nuclear Accident; Valery Legasov participated as a committee member."
+      },
+      "created_at": "2026-03-10T05:02:41.725318",
+      "updated_at": "2026-03-10T05:02:41.725318"
+    },
+    "067acdd4-ce2": {
+      "uuid": "067acdd4-ce2",
+      "name": "Aftermath Work of Chernobyl Accident",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Handling of accident consequences",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Event involving managing the consequences of the Chernobyl Nuclear Accident; Boris Shcherbina was responsible."
+      },
+      "created_at": "2026-03-10T05:02:41.735824",
+      "updated_at": "2026-03-10T05:02:41.735824"
+    }
+  },
+  "edges": {
+    "e47d4a3a-9a0": {
+      "uuid": "e47d4a3a-9a0",
+      "name": "LOCATED_AT",
+      "fact": "切尔诺贝利核事故发生于切尔诺贝利核电站",
+      "source_node_uuid": "8d93ace4-546",
+      "target_node_uuid": "fb0839c3-131",
+      "source_node_name": "切尔诺贝利核事故",
+      "target_node_name": "切尔诺贝利核电站",
+      "attributes": {
+        "confidence": 0.9,
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T04:50:54.281910",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "23c9da4e-542": {
+      "uuid": "23c9da4e-542",
+      "name": "CAUSED_BY",
+      "fact": "切尔诺贝利核事故的根本原因是RBMK-1000反应堆的设计缺陷",
+      "source_node_uuid": "8d93ace4-546",
+      "target_node_uuid": "260de623-d9f",
+      "source_node_name": "切尔诺贝利核事故",
+      "target_node_name": "RBMK-1000反应堆",
+      "attributes": {
+        "confidence": 0.8,
+        "causal_strength": 0.7
+      },
+      "created_at": "2026-03-10T04:50:54.285687",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b17d01d8-de9": {
+      "uuid": "b17d01d8-de9",
+      "name": "PRECEDED_BY",
+      "fact": "切尔诺贝利核事故前计划进行安全测试",
+      "source_node_uuid": "8d93ace4-546",
+      "target_node_uuid": "85744845-74d",
+      "source_node_name": "切尔诺贝利核事故",
+      "target_node_name": "安全测试",
+      "attributes": {
+        "confidence": 0.9,
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T04:50:54.289435",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6749296b-b23": {
+      "uuid": "6749296b-b23",
+      "name": "OWNED_BY",
+      "fact": "4号机组由苏联管理",
+      "source_node_uuid": "0ae31490-4f0",
+      "target_node_uuid": "dceffe70-121",
+      "source_node_name": "4号机组",
+      "target_node_name": "苏联",
+      "attributes": {
+        "confidence": 0.9,
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T04:50:54.293418",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b7de5206-153": {
+      "uuid": "b7de5206-153",
+      "name": "DESIGNED_BY",
+      "fact": "RBMK-1000反应堆由苏联设计",
+      "source_node_uuid": "260de623-d9f",
+      "target_node_uuid": "dceffe70-121",
+      "source_node_name": "RBMK-1000反应堆",
+      "target_node_name": "苏联",
+      "attributes": {
+        "confidence": 0.8,
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T04:50:54.298411",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "db0a74ff-715": {
+      "uuid": "db0a74ff-715",
+      "name": "LOCATED_AT",
+      "fact": "切尔诺贝利核电站位于普里皮亚季市附近",
+      "source_node_uuid": "fb0839c3-131",
+      "target_node_uuid": "ee5f1fd7-223",
+      "source_node_name": "切尔诺贝利核电站",
+      "target_node_name": "普里皮亚季市",
+      "attributes": {
+        "confidence": 0.9,
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T04:50:54.302408",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0cd8f29b-8a4": {
+      "uuid": "0cd8f29b-8a4",
+      "name": "PRECEDED_BY",
+      "fact": "The test delay was preceded by the power reduction start event in the sequence.",
+      "source_node_uuid": "bc624adb-c07",
+      "target_node_uuid": "9e3b6eef-763",
+      "source_node_name": "Test Delay",
+      "target_node_name": "Power Reduction Start",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.127817",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6a0f1dd4-68c": {
+      "uuid": "6a0f1dd4-68c",
+      "name": "PRECEDED_BY",
+      "fact": "The power reduction resume event was preceded by the test delay event in the sequence.",
+      "source_node_uuid": "43557ba3-89b",
+      "target_node_uuid": "bc624adb-c07",
+      "source_node_name": "Power Reduction Resume",
+      "target_node_name": "Test Delay",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.131814",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "57b3842e-9e8": {
+      "uuid": "57b3842e-9e8",
+      "name": "PRECEDED_BY",
+      "fact": "The power plunge event was preceded by the power reduction resume event in the sequence.",
+      "source_node_uuid": "ba4b3f25-01d",
+      "target_node_uuid": "43557ba3-89b",
+      "source_node_name": "Power Plunge",
+      "target_node_name": "Power Reduction Resume",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.135812",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "34adb21d-677": {
+      "uuid": "34adb21d-677",
+      "name": "CAUSED_BY",
+      "fact": "Xenon poisoning was caused by the power plunge event.",
+      "source_node_uuid": "a88cd870-02d",
+      "target_node_uuid": "ba4b3f25-01d",
+      "source_node_name": "Xenon Poisoning",
+      "target_node_name": "Power Plunge",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.139809",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "070f8392-0f1": {
+      "uuid": "070f8392-0f1",
+      "name": "PRECEDED_BY",
+      "fact": "The control rod withdrawal event was preceded by the power plunge event in the sequence.",
+      "source_node_uuid": "076754bf-42b",
+      "target_node_uuid": "ba4b3f25-01d",
+      "source_node_name": "Control Rod Withdrawal",
+      "target_node_name": "Power Plunge",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.143807",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f48bed4e-c89": {
+      "uuid": "f48bed4e-c89",
+      "name": "VIOLATED",
+      "fact": "The control rod withdrawal event violated the safety regulation on control rods.",
+      "source_node_uuid": "076754bf-42b",
+      "target_node_uuid": "6afb7e52-fbf",
+      "source_node_name": "Control Rod Withdrawal",
+      "target_node_name": "Safety Regulation on Control Rods",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.148803",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5a22145b-07c": {
+      "uuid": "5a22145b-07c",
+      "name": "PRECEDED_BY",
+      "fact": "The power recovery event was preceded by the control rod withdrawal event in the sequence.",
+      "source_node_uuid": "4cbfc22b-321",
+      "target_node_uuid": "076754bf-42b",
+      "source_node_name": "Power Recovery",
+      "target_node_name": "Control Rod Withdrawal",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.152801",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "186e8fb9-e22": {
+      "uuid": "186e8fb9-e22",
+      "name": "CAUSED_BY",
+      "fact": "Reactor instability was caused by the power recovery event.",
+      "source_node_uuid": "b1d4de77-574",
+      "target_node_uuid": "4cbfc22b-321",
+      "source_node_name": "Reactor Instability",
+      "target_node_name": "Power Recovery",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.156799",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0c58ef16-8b5": {
+      "uuid": "0c58ef16-8b5",
+      "name": "PRECEDED_BY",
+      "fact": "The safety test start event was preceded by the power recovery event in the sequence.",
+      "source_node_uuid": "d050d889-dd5",
+      "target_node_uuid": "4cbfc22b-321",
+      "source_node_name": "Safety Test Start",
+      "target_node_name": "Power Recovery",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.161795",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5fc262ed-679": {
+      "uuid": "5fc262ed-679",
+      "name": "PRECEDED_BY",
+      "fact": "The AZ-5 button press event was preceded by the safety test start event in the sequence.",
+      "source_node_uuid": "7a0ab1c0-2b7",
+      "target_node_uuid": "d050d889-dd5",
+      "source_node_name": "AZ-5 Button Press",
+      "target_node_name": "Safety Test Start",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.166793",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6c146221-660": {
+      "uuid": "6c146221-660",
+      "name": "PARTICIPATED_IN",
+      "fact": "Akimov participated in the AZ-5 button press event.",
+      "source_node_uuid": "7a0ab1c0-2b7",
+      "target_node_uuid": "ff6dc28e-e15",
+      "source_node_name": "AZ-5 Button Press",
+      "target_node_name": "Akimov",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.170790",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ba053320-dbf": {
+      "uuid": "ba053320-dbf",
+      "name": "TRIGGERED_BY",
+      "fact": "The power surge event was triggered by the AZ-5 button press event.",
+      "source_node_uuid": "9170c458-eb7",
+      "target_node_uuid": "7a0ab1c0-2b7",
+      "source_node_name": "Power Surge",
+      "target_node_name": "AZ-5 Button Press",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.175786",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "49350b08-208": {
+      "uuid": "49350b08-208",
+      "name": "CAUSED_BY",
+      "fact": "The steam explosion event was caused by the power surge event.",
+      "source_node_uuid": "f45a80ab-9ca",
+      "target_node_uuid": "9170c458-eb7",
+      "source_node_name": "Steam Explosion",
+      "target_node_name": "Power Surge",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.180783",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bad32a7d-9a8": {
+      "uuid": "bad32a7d-9a8",
+      "name": "CAUSED_BY",
+      "fact": "The reactor lid blown off event was caused by the steam explosion event.",
+      "source_node_uuid": "20fe9bd1-b98",
+      "target_node_uuid": "f45a80ab-9ca",
+      "source_node_name": "Reactor Lid Blown Off",
+      "target_node_name": "Steam Explosion",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.185781",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "12dc9a5e-483": {
+      "uuid": "12dc9a5e-483",
+      "name": "PARTICIPATED_IN",
+      "fact": "Kyiv Grid Dispatch Center participated in the test delay event by requesting the delay.",
+      "source_node_uuid": "bc624adb-c07",
+      "target_node_uuid": "de67114f-f71",
+      "source_node_name": "Test Delay",
+      "target_node_name": "Kyiv Grid Dispatch Center",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:54:37.190777",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8dd5ea6c-f96": {
+      "uuid": "8dd5ea6c-f96",
+      "name": "PRECEDED_BY",
+      "fact": "氢爆发生在蒸汽爆炸之后",
+      "source_node_uuid": "dfe21414-2fd",
+      "target_node_uuid": "0f37bd2e-5d6",
+      "source_node_name": "氢爆",
+      "target_node_name": "蒸汽爆炸",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.663080",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5eb61bab-9f2": {
+      "uuid": "5eb61bab-9f2",
+      "name": "CAUSED_BY",
+      "fact": "蒸汽爆炸由正空泡系数设计缺陷导致",
+      "source_node_uuid": "0f37bd2e-5d6",
+      "target_node_uuid": "26124d09-7b6",
+      "source_node_name": "蒸汽爆炸",
+      "target_node_name": "正空泡系数缺陷",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.670076",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3ca481bb-d3a": {
+      "uuid": "3ca481bb-d3a",
+      "name": "CAUSED_BY",
+      "fact": "蒸汽爆炸由AZ-5紧急停堆系统的致命缺陷导致",
+      "source_node_uuid": "0f37bd2e-5d6",
+      "target_node_uuid": "042fd9a3-36f",
+      "source_node_name": "蒸汽爆炸",
+      "target_node_name": "AZ-5紧急停堆系统",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.676072",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cbdee272-df8": {
+      "uuid": "cbdee272-df8",
+      "name": "CAUSED_BY",
+      "fact": "蒸汽爆炸由缺乏安全壳导致",
+      "source_node_uuid": "0f37bd2e-5d6",
+      "target_node_uuid": "0155d508-f86",
+      "source_node_name": "蒸汽爆炸",
+      "target_node_name": "安全壳缺乏",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.683067",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5016360d-5e9": {
+      "uuid": "5016360d-5e9",
+      "name": "VIOLATED",
+      "fact": "测试方案未经核安全部门审批，违反了安全规程",
+      "source_node_uuid": "131e2bee-105",
+      "target_node_uuid": "5a20bf31-aef",
+      "source_node_name": "测试方案",
+      "target_node_name": "安全规程",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.689064",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9cb70d43-462": {
+      "uuid": "9cb70d43-462",
+      "name": "PARTICIPATED_IN",
+      "fact": "操作员切断了多个安全保护系统",
+      "source_node_uuid": "3da8c4e1-dd5",
+      "target_node_uuid": "90243351-ea1",
+      "source_node_name": "操作员",
+      "target_node_name": "安全保护系统",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.696059",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e7e769b3-7ab": {
+      "uuid": "e7e769b3-7ab",
+      "name": "PARTICIPATED_IN",
+      "fact": "操作员违规抽出过多控制棒",
+      "source_node_uuid": "3da8c4e1-dd5",
+      "target_node_uuid": "321201dd-741",
+      "source_node_name": "操作员",
+      "target_node_name": "控制棒",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.702056",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9c565a46-009": {
+      "uuid": "9c565a46-009",
+      "name": "TRIGGERED_BY",
+      "fact": "强行测试由反应堆不稳定状态触发",
+      "source_node_uuid": "67bb8776-12a",
+      "target_node_uuid": "abc4130d-7aa",
+      "source_node_name": "强行测试",
+      "target_node_name": "反应堆不稳定状态",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.709051",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bd0ced87-b33": {
+      "uuid": "bd0ced87-b33",
+      "name": "PARTICIPATED_IN",
+      "fact": "值班人员参与了强行测试",
+      "source_node_uuid": "7e552767-1f4",
+      "target_node_uuid": "67bb8776-12a",
+      "source_node_name": "值班人员",
+      "target_node_name": "强行测试",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.721046",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "30c08db5-44e": {
+      "uuid": "30c08db5-44e",
+      "name": "CAUSED_BY",
+      "fact": "保密文化由苏联核工业体系导致",
+      "source_node_uuid": "b5d83e30-579",
+      "target_node_uuid": "e18a1d7f-6f5",
+      "source_node_name": "保密文化",
+      "target_node_name": "苏联核工业体系",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.733036",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "69eeef06-1ea": {
+      "uuid": "69eeef06-1ea",
+      "name": "CAUSED_BY",
+      "fact": "安全规程忽视由核电站管理层导致",
+      "source_node_uuid": "f09785df-66a",
+      "target_node_uuid": "91276acd-7ac",
+      "source_node_name": "安全规程忽视",
+      "target_node_name": "核电站管理层",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.750025",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3f90a047-c47": {
+      "uuid": "3f90a047-c47",
+      "name": "CAUSED_BY",
+      "fact": "测试计划混乱由核电站管理层导致",
+      "source_node_uuid": "7668a285-9d8",
+      "target_node_uuid": "91276acd-7ac",
+      "source_node_name": "测试计划混乱",
+      "target_node_name": "核电站管理层",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.764016",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0c698371-bb0": {
+      "uuid": "0c698371-bb0",
+      "name": "CAUSED_BY",
+      "fact": "培训不足由核电站管理层导致",
+      "source_node_uuid": "46035f89-062",
+      "target_node_uuid": "91276acd-7ac",
+      "source_node_name": "培训不足",
+      "target_node_name": "核电站管理层",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:57:37.771011",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5aecd341-32f": {
+      "uuid": "5aecd341-32f",
+      "name": "PRECEDED_BY",
+      "fact": "安全测试推迟事件发生在操作人员培训不足的条件之后",
+      "source_node_uuid": "01036b4e-41e",
+      "target_node_uuid": "0f0ec552-80a",
+      "source_node_name": "安全测试推迟",
+      "target_node_name": "操作人员培训不足",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.647474",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "84538402-0d6": {
+      "uuid": "84538402-0d6",
+      "name": "CAUSED_BY",
+      "fact": "2名工人死亡事件由爆炸直接导致",
+      "source_node_uuid": "d4a7cf90-228",
+      "target_node_uuid": "7bdeaf0b-14e",
+      "source_node_name": "2名工人死亡",
+      "target_node_name": "爆炸",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.670457",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a882985a-30a": {
+      "uuid": "a882985a-30a",
+      "name": "CAUSED_BY",
+      "fact": "28名消防员死亡事件由急性辐射综合征直接导致",
+      "source_node_uuid": "38f3bbc5-27d",
+      "target_node_uuid": "106a414a-bc3",
+      "source_node_name": "28名消防员死亡",
+      "target_node_name": "急性辐射综合征",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.690445",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "908f3e11-471": {
+      "uuid": "908f3e11-471",
+      "name": "SUPPORTED_BY",
+      "fact": "放射性物质释放事件的规模由相当于400枚广岛原子弹的证据支持",
+      "source_node_uuid": "27bf0dad-495",
+      "target_node_uuid": "223cd269-7dc",
+      "source_node_name": "放射性物质释放",
+      "target_node_name": "400枚广岛原子弹当量",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.712430",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "af7f655f-1b9": {
+      "uuid": "af7f655f-1b9",
+      "name": "LOCATED_AT",
+      "fact": "隔离区疏散事件发生在30公里隔离区位置",
+      "source_node_uuid": "62b0831d-173",
+      "target_node_uuid": "b0874e29-97c",
+      "source_node_name": "隔离区疏散",
+      "target_node_name": "30公里隔离区",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.731417",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "33c56334-683": {
+      "uuid": "33c56334-683",
+      "name": "PARTICIPATED_IN",
+      "fact": "米哈伊尔·戈尔巴乔夫参与了苏联形象受损事件",
+      "source_node_uuid": "e62fc5f9-8fd",
+      "target_node_uuid": "ccca6ad6-619",
+      "source_node_name": "苏联形象受损",
+      "target_node_name": "米哈伊尔·戈尔巴乔夫",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.740412",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5b713a5d-3a1": {
+      "uuid": "5b713a5d-3a1",
+      "name": "SUPPORTED_BY",
+      "fact": "苏联形象受损事件由戈尔巴乔夫的'苏联解体的真正原因'声明证据支持",
+      "source_node_uuid": "e62fc5f9-8fd",
+      "target_node_uuid": "23a54096-721",
+      "source_node_name": "苏联形象受损",
+      "target_node_name": "苏联解体原因声明",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.759400",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "86dd6c82-ea0": {
+      "uuid": "86dd6c82-ea0",
+      "name": "TRIGGERED_BY",
+      "fact": "全球核安全改革事件由切尔诺贝利核事故直接触发",
+      "source_node_uuid": "f3604557-057",
+      "target_node_uuid": "8d93ace4-546",
+      "source_node_name": "全球核安全改革",
+      "target_node_name": "切尔诺贝利核事故",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T04:59:03.768394",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3943d16d-4ec": {
+      "uuid": "3943d16d-4ec",
+      "name": "CAUSED_BY",
+      "fact": "The dissolution of the Soviet Union was caused by the Chernobyl Nuclear Accident, as claimed by Mikhail Gorbachev.",
+      "source_node_uuid": "d4e13b92-429",
+      "target_node_uuid": "5c96544b-0a3",
+      "source_node_name": "Dissolution of the Soviet Union",
+      "target_node_name": "Chernobyl Nuclear Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.748467",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6e58edf2-f5d": {
+      "uuid": "6e58edf2-f5d",
+      "name": "CAUSED_BY",
+      "fact": "The reform of global nuclear safety standards was caused by the Chernobyl Nuclear Accident.",
+      "source_node_uuid": "e051a2e3-8ab",
+      "target_node_uuid": "5c96544b-0a3",
+      "source_node_name": "Reform of Global Nuclear Safety Standards",
+      "target_node_name": "Chernobyl Nuclear Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.759627",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e05f3b84-ea8": {
+      "uuid": "e05f3b84-ea8",
+      "name": "PARTICIPATED_IN",
+      "fact": "Viktor Bryukhanov participated in the Chernobyl Nuclear Accident as the director of Chernobyl Nuclear Power Plant.",
+      "source_node_uuid": "af98c6b5-552",
+      "target_node_uuid": "5c96544b-0a3",
+      "source_node_name": "Viktor Bryukhanov",
+      "target_node_name": "Chernobyl Nuclear Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.771233",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2d34b632-b7d": {
+      "uuid": "2d34b632-b7d",
+      "name": "PARTICIPATED_IN",
+      "fact": "Anatoly Dyatlov participated in the Safety Test as the directly responsible person.",
+      "source_node_uuid": "874e0c50-b59",
+      "target_node_uuid": "50bf2048-617",
+      "source_node_name": "Anatoly Dyatlov",
+      "target_node_name": "Safety Test",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.782677",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "82ea05d8-bf3": {
+      "uuid": "82ea05d8-bf3",
+      "name": "PARTICIPATED_IN",
+      "fact": "Alexander Akimov participated in the event involving the AZ-5 Button by ordering its pressing.",
+      "source_node_uuid": "29d610a2-899",
+      "target_node_uuid": "9f2d259f-f27",
+      "source_node_name": "Alexander Akimov",
+      "target_node_name": "AZ-5 Button",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.793561",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6de5601f-502": {
+      "uuid": "6de5601f-502",
+      "name": "PARTICIPATED_IN",
+      "fact": "Leonid Toptunov participated in the Power Reduction and Control Rod Withdrawal operations by executing them.",
+      "source_node_uuid": "91955ad2-ae5",
+      "target_node_uuid": "8c7fba99-4aa",
+      "source_node_name": "Leonid Toptunov",
+      "target_node_name": "Power Reduction and Control Rod Withdrawal",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.806864",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2678d128-b12": {
+      "uuid": "2678d128-b12",
+      "name": "PARTICIPATED_IN",
+      "fact": "Valery Legasov participated in the Investigation of Chernobyl Accident as a member of the Accident Investigation Committee.",
+      "source_node_uuid": "e4afbc64-3ca",
+      "target_node_uuid": "798f29e3-d8f",
+      "source_node_name": "Valery Legasov",
+      "target_node_name": "Investigation of Chernobyl Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.818723",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f840332f-e50": {
+      "uuid": "f840332f-e50",
+      "name": "PARTICIPATED_IN",
+      "fact": "Boris Shcherbina participated in the Aftermath Work of Chernobyl Accident as the responsible person from the Soviet Council of Ministers.",
+      "source_node_uuid": "af5348d8-842",
+      "target_node_uuid": "067acdd4-ce2",
+      "source_node_name": "Boris Shcherbina",
+      "target_node_name": "Aftermath Work of Chernobyl Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.830013",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ba8647c2-7fb": {
+      "uuid": "ba8647c2-7fb",
+      "name": "LOCATED_AT",
+      "fact": "The Chernobyl Nuclear Accident occurred at the location Chernobyl.",
+      "source_node_uuid": "5c96544b-0a3",
+      "target_node_uuid": "b688d6c0-9ff",
+      "source_node_name": "Chernobyl Nuclear Accident",
+      "target_node_name": "Chernobyl",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.842004",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6dd7879c-7f5": {
+      "uuid": "6dd7879c-7f5",
+      "name": "LOCATED_AT",
+      "fact": "Reactor Unit 4 is located at the Chernobyl Nuclear Power Plant, as it was supervised by Alexander Akimov.",
+      "source_node_uuid": "54fc3815-48d",
+      "target_node_uuid": "24c59bf0-60d",
+      "source_node_name": "Reactor Unit 4",
+      "target_node_name": "Chernobyl Nuclear Power Plant",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:41.854600",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2b20453a-822": {
+      "uuid": "2b20453a-822",
+      "name": "LOCATED_AT",
+      "fact": "The AZ-5 Button is part of Reactor Unit 4, as it was pressed during operations in that unit.",
+      "source_node_uuid": "9f2d259f-f27",
+      "target_node_uuid": "54fc3815-48d",
+      "source_node_name": "AZ-5 Button",
+      "target_node_name": "Reactor Unit 4",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.173016",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b5be7e91-0e0": {
+      "uuid": "b5be7e91-0e0",
+      "name": "PARTICIPATED_IN",
+      "fact": "Valery Legasov participated in the Soviet Academy of Sciences as an academician.",
+      "source_node_uuid": "e4afbc64-3ca",
+      "target_node_uuid": "1b8f4e92-a2a",
+      "source_node_name": "Valery Legasov",
+      "target_node_name": "Soviet Academy of Sciences",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.186622",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a7dd11d9-a9b": {
+      "uuid": "a7dd11d9-a9b",
+      "name": "PARTICIPATED_IN",
+      "fact": "Valery Legasov participated in the Accident Investigation Committee as a member.",
+      "source_node_uuid": "e4afbc64-3ca",
+      "target_node_uuid": "6bd7468d-0a2",
+      "source_node_name": "Valery Legasov",
+      "target_node_name": "Accident Investigation Committee",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.201453",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "73224d59-44a": {
+      "uuid": "73224d59-44a",
+      "name": "PARTICIPATED_IN",
+      "fact": "Boris Shcherbina participated in the Soviet Council of Ministers as deputy chairman.",
+      "source_node_uuid": "af5348d8-842",
+      "target_node_uuid": "1680eaf5-ab5",
+      "source_node_name": "Boris Shcherbina",
+      "target_node_name": "Soviet Council of Ministers",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.212905",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "21b6dee0-505": {
+      "uuid": "21b6dee0-505",
+      "name": "PARTICIPATED_IN",
+      "fact": "The Accident Investigation Committee participated in the Investigation of Chernobyl Accident by conducting the inquiry.",
+      "source_node_uuid": "6bd7468d-0a2",
+      "target_node_uuid": "798f29e3-d8f",
+      "source_node_name": "Accident Investigation Committee",
+      "target_node_name": "Investigation of Chernobyl Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.224840",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8dc77a0f-e06": {
+      "uuid": "8dc77a0f-e06",
+      "name": "PARTICIPATED_IN",
+      "fact": "The Soviet Council of Ministers participated in the Aftermath Work of Chernobyl Accident through Boris Shcherbina.",
+      "source_node_uuid": "1680eaf5-ab5",
+      "target_node_uuid": "067acdd4-ce2",
+      "source_node_name": "Soviet Council of Ministers",
+      "target_node_name": "Aftermath Work of Chernobyl Accident",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T05:02:42.241626",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

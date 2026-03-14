@@ -1,0 +1,488 @@
+{
+  "nodes": {
+    "f34107db-cb5": {
+      "uuid": "f34107db-cb5",
+      "name": "泰坦尼克号处女航",
+      "labels": [
+        "Event"
+      ],
+      "summary": "泰坦尼克号从南安普顿港出发的首次航行",
+      "attributes": {
+        "timestamp": "1912-04-10",
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "1912年4月10日，泰坦尼克号从英国南安普顿港出发"
+      },
+      "created_at": "2026-03-10T17:40:22.802170",
+      "updated_at": "2026-03-10T17:40:22.802170"
+    },
+    "240e80f1-4d4": {
+      "uuid": "240e80f1-4d4",
+      "name": "冰山发现事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "瞭望员发现冰山",
+      "attributes": {
+        "timestamp": "1912-04-14 23:40",
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "4月14日晚11时40分，瞭望员弗雷德里克·弗利特发现正前方有冰山"
+      },
+      "created_at": "2026-03-10T17:40:22.803695",
+      "updated_at": "2026-03-10T17:40:22.803695"
+    },
+    "23d300ab-dc1": {
+      "uuid": "23d300ab-dc1",
+      "name": "碰撞事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "泰坦尼克号与冰山碰撞",
+      "attributes": {
+        "timestamp": "1912-04-14 23:40后",
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "泰坦尼克号右舷与冰山发生碰撞，船体下方被划开约90米的裂缝"
+      },
+      "created_at": "2026-03-10T17:40:22.805677",
+      "updated_at": "2026-03-10T17:40:22.805677"
+    },
+    "49762de9-a24": {
+      "uuid": "49762de9-a24",
+      "name": "损伤检查事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "造船师检查船体损伤",
+      "attributes": {
+        "timestamp": "1912-04-14 23:40后",
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "造船师托马斯·安德鲁斯检查损伤后告知史密斯船长，船最多只能维持一到两个小时"
+      },
+      "created_at": "2026-03-10T17:40:22.807200",
+      "updated_at": "2026-03-10T17:40:22.807200"
+    },
+    "5a7176aa-0c0": {
+      "uuid": "5a7176aa-0c0",
+      "name": "沉没事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "泰坦尼克号沉没",
+      "attributes": {
+        "timestamp": "1912-04-15 02:20",
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "4月15日凌晨2时20分，泰坦尼克号断裂沉没，1502人遇难，710人获救"
+      },
+      "created_at": "2026-03-10T17:40:22.810181",
+      "updated_at": "2026-03-10T17:40:22.810181"
+    },
+    "5e61252b-6d2": {
+      "uuid": "5e61252b-6d2",
+      "name": "事后调查",
+      "labels": [
+        "Event"
+      ],
+      "summary": "对沉没事件的调查",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "事后调查发现多个关键因素"
+      },
+      "created_at": "2026-03-10T17:40:22.811690",
+      "updated_at": "2026-03-10T17:40:22.811690"
+    },
+    "be09ab47-6dc": {
+      "uuid": "be09ab47-6dc",
+      "name": "冰山警告电报",
+      "labels": [
+        "IcebergWarning"
+      ],
+      "summary": "当天收到的多份冰山警告电报",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "当天收到多份冰山警告电报，但未引起足够重视"
+      },
+      "created_at": "2026-03-10T17:40:22.814219",
+      "updated_at": "2026-03-10T17:40:22.814219"
+    },
+    "52a50f0a-e14": {
+      "uuid": "52a50f0a-e14",
+      "name": "救生艇",
+      "labels": [
+        "SafetyEquipment"
+      ],
+      "summary": "泰坦尼克号上的救生艇",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "仅配备20艘救生艇，只够容纳1178人"
+      },
+      "created_at": "2026-03-10T17:40:22.816197",
+      "updated_at": "2026-03-10T17:40:22.816197"
+    },
+    "f796c84b-cb3": {
+      "uuid": "f796c84b-cb3",
+      "name": "无线电通信问题",
+      "labels": [
+        "CommunicationFailure"
+      ],
+      "summary": "通信系统故障",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "无线电通信问题，附近的加利福尼亚号未能及时响应求救信号"
+      },
+      "created_at": "2026-03-10T17:40:22.817711",
+      "updated_at": "2026-03-10T17:40:22.817711"
+    },
+    "7e97492d-1bb": {
+      "uuid": "7e97492d-1bb",
+      "name": "爱德华·史密斯",
+      "labels": [
+        "Person"
+      ],
+      "summary": "泰坦尼克号船长",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "船长爱德华·史密斯是白星航运公司最有经验的船长之一"
+      },
+      "created_at": "2026-03-10T17:40:22.819724",
+      "updated_at": "2026-03-10T17:40:22.819724"
+    },
+    "3d914537-b86": {
+      "uuid": "3d914537-b86",
+      "name": "弗雷德里克·弗利特",
+      "labels": [
+        "Person"
+      ],
+      "summary": "瞭望员",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "瞭望员弗雷德里克·弗利特发现正前方有冰山"
+      },
+      "created_at": "2026-03-10T17:40:22.822720",
+      "updated_at": "2026-03-10T17:40:22.822720"
+    },
+    "0e98cd74-11b": {
+      "uuid": "0e98cd74-11b",
+      "name": "威廉·默多克",
+      "labels": [
+        "Person"
+      ],
+      "summary": "一副",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "一副威廉·默多克下令'右满舵'并命令机舱'全速倒车'"
+      },
+      "created_at": "2026-03-10T17:40:22.825225",
+      "updated_at": "2026-03-10T17:40:22.825225"
+    },
+    "98516cec-e57": {
+      "uuid": "98516cec-e57",
+      "name": "托马斯·安德鲁斯",
+      "labels": [
+        "Person"
+      ],
+      "summary": "造船师",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "造船师托马斯·安德鲁斯检查损伤后告知史密斯船长，船最多只能维持一到两个小时"
+      },
+      "created_at": "2026-03-10T17:40:22.828297",
+      "updated_at": "2026-03-10T17:40:22.828297"
+    },
+    "b780364f-fbb": {
+      "uuid": "b780364f-fbb",
+      "name": "白星航运公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "泰坦尼克号的运营公司",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "白星航运公司"
+      },
+      "created_at": "2026-03-10T17:40:22.830275",
+      "updated_at": "2026-03-10T17:40:22.830275"
+    },
+    "4156ecb7-e71": {
+      "uuid": "4156ecb7-e71",
+      "name": "泰坦尼克号",
+      "labels": [
+        "Ship"
+      ],
+      "summary": "沉没的船只",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "泰坦尼克号"
+      },
+      "created_at": "2026-03-10T17:40:22.832788",
+      "updated_at": "2026-03-10T17:40:22.832788"
+    },
+    "a1caefe1-3d6": {
+      "uuid": "a1caefe1-3d6",
+      "name": "加利福尼亚号",
+      "labels": [
+        "Ship"
+      ],
+      "summary": "附近的船只",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "附近的加利福尼亚号未能及时响应求救信号"
+      },
+      "created_at": "2026-03-10T17:40:22.834965",
+      "updated_at": "2026-03-10T17:40:22.834965"
+    },
+    "b342dbeb-0d1": {
+      "uuid": "b342dbeb-0d1",
+      "name": "英国南安普顿港",
+      "labels": [
+        "Location"
+      ],
+      "summary": "出发港口",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "英国南安普顿港"
+      },
+      "created_at": "2026-03-10T17:40:22.838459",
+      "updated_at": "2026-03-10T17:40:22.838459"
+    },
+    "d4beaf75-2e0": {
+      "uuid": "d4beaf75-2e0",
+      "name": "冰山区域",
+      "labels": [
+        "Location"
+      ],
+      "summary": "有冰山的海域",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "尽管知道前方有冰山区域"
+      },
+      "created_at": "2026-03-10T17:40:22.840447",
+      "updated_at": "2026-03-10T17:40:22.840447"
+    },
+    "695780a1-495": {
+      "uuid": "695780a1-495",
+      "name": "航速过快",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "船速保持在22.5节",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "航速过快 - 尽管知道前方有冰山区域，船速仍保持在22.5节"
+      },
+      "created_at": "2026-03-10T17:40:22.843987",
+      "updated_at": "2026-03-10T17:40:22.843987"
+    },
+    "6bfb3aea-530": {
+      "uuid": "6bfb3aea-530",
+      "name": "救生艇不足",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "救生艇数量不足",
+      "attributes": {
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "救生艇不足 - 仅配备20艘救生艇，只够容纳1178人"
+      },
+      "created_at": "2026-03-10T17:40:22.846956",
+      "updated_at": "2026-03-10T17:40:22.846956"
+    }
+  },
+  "edges": {
+    "fad2a737-083": {
+      "uuid": "fad2a737-083",
+      "name": "LOCATED_AT",
+      "fact": "泰坦尼克号处女航发生在英国南安普顿港",
+      "source_node_uuid": "f34107db-cb5",
+      "target_node_uuid": "b342dbeb-0d1",
+      "source_node_name": "泰坦尼克号处女航",
+      "target_node_name": "英国南安普顿港",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.849467",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e721c817-4f8": {
+      "uuid": "e721c817-4f8",
+      "name": "PARTICIPATED_IN",
+      "fact": "弗雷德里克·弗利特参与了冰山发现事件",
+      "source_node_uuid": "3d914537-b86",
+      "target_node_uuid": "240e80f1-4d4",
+      "source_node_name": "弗雷德里克·弗利特",
+      "target_node_name": "冰山发现事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.852983",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f44de176-20b": {
+      "uuid": "f44de176-20b",
+      "name": "PARTICIPATED_IN",
+      "fact": "威廉·默多克在碰撞事件中下令操作",
+      "source_node_uuid": "0e98cd74-11b",
+      "target_node_uuid": "23d300ab-dc1",
+      "source_node_name": "威廉·默多克",
+      "target_node_name": "碰撞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.855498",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4aa4266a-9a8": {
+      "uuid": "4aa4266a-9a8",
+      "name": "PRECEDED_BY",
+      "fact": "碰撞事件发生在冰山发现事件之后",
+      "source_node_uuid": "23d300ab-dc1",
+      "target_node_uuid": "240e80f1-4d4",
+      "source_node_name": "碰撞事件",
+      "target_node_name": "冰山发现事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.858841",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e06a48fc-43c": {
+      "uuid": "e06a48fc-43c",
+      "name": "PARTICIPATED_IN",
+      "fact": "托马斯·安德鲁斯参与了损伤检查事件",
+      "source_node_uuid": "98516cec-e57",
+      "target_node_uuid": "49762de9-a24",
+      "source_node_name": "托马斯·安德鲁斯",
+      "target_node_name": "损伤检查事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.862349",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cbea9bcb-468": {
+      "uuid": "cbea9bcb-468",
+      "name": "CAUSED_BY",
+      "fact": "泰坦尼克号沉没由与冰山的碰撞直接引起",
+      "source_node_uuid": "5a7176aa-0c0",
+      "target_node_uuid": "23d300ab-dc1",
+      "source_node_name": "沉没事件",
+      "target_node_name": "碰撞事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.865347",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f02d7990-d79": {
+      "uuid": "f02d7990-d79",
+      "name": "SUPPORTED_BY",
+      "fact": "事后调查的结论由冰山警告电报证据支持",
+      "source_node_uuid": "5e61252b-6d2",
+      "target_node_uuid": "be09ab47-6dc",
+      "source_node_name": "事后调查",
+      "target_node_name": "冰山警告电报",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.868884",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9f915d33-dd6": {
+      "uuid": "9f915d33-dd6",
+      "name": "PARTICIPATED_IN",
+      "fact": "加利福尼亚号参与了无线电通信问题事件",
+      "source_node_uuid": "a1caefe1-3d6",
+      "target_node_uuid": "f796c84b-cb3",
+      "source_node_name": "加利福尼亚号",
+      "target_node_name": "无线电通信问题",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.872860",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "faf9ded4-f6f": {
+      "uuid": "faf9ded4-f6f",
+      "name": "OWNED_BY",
+      "fact": "泰坦尼克号由白星航运公司管理",
+      "source_node_uuid": "4156ecb7-e71",
+      "target_node_uuid": "b780364f-fbb",
+      "source_node_name": "泰坦尼克号",
+      "target_node_name": "白星航运公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.876372",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "68b1c4ba-139": {
+      "uuid": "68b1c4ba-139",
+      "name": "OWNED_BY",
+      "fact": "救生艇由白星航运公司管理",
+      "source_node_uuid": "52a50f0a-e14",
+      "target_node_uuid": "b780364f-fbb",
+      "source_node_name": "救生艇",
+      "target_node_name": "白星航运公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.879884",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ee201ccf-37b": {
+      "uuid": "ee201ccf-37b",
+      "name": "IGNORED_BY",
+      "fact": "冰山警告电报被白星航运公司忽视",
+      "source_node_uuid": "be09ab47-6dc",
+      "target_node_uuid": "b780364f-fbb",
+      "source_node_name": "冰山警告电报",
+      "target_node_name": "白星航运公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T17:40:22.884057",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

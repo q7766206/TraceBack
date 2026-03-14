@@ -1,0 +1,4614 @@
+{
+  "nodes": {
+    "37217c89-185": {
+      "uuid": "37217c89-185",
+      "name": "MH370航班失踪事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚航空公司MH370航班的失踪事件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "新建文本文档 (11).txt",
+        "description": "MH370航班失踪事件，涵盖事件时间线、技术数据、残骸发现记录、调查结论、争议假说及最新搜寻进展"
+      },
+      "created_at": "2026-03-10T21:02:52.303018",
+      "updated_at": "2026-03-10T21:02:52.303018"
+    },
+    "38ecf188-cdb": {
+      "uuid": "38ecf188-cdb",
+      "name": "马来西亚航空公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "马来西亚的航空公司，运营MH370航班",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "新建文本文档 (11).txt",
+        "description": "马来西亚航空公司，拥有并运营MH370航班"
+      },
+      "created_at": "2026-03-10T21:02:52.307016",
+      "updated_at": "2026-03-10T21:02:52.307016"
+    },
+    "cca1745d-83a": {
+      "uuid": "cca1745d-83a",
+      "name": "MH370航班",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "从吉隆坡到北京的航班; 马来西亚航空MH370航班，波音777飞机。",
+      "attributes": {
+        "timestamp": "2014-03-08T00:41:00+08:00",
+        "credibility_score": "0.7",
+        "source": "新建文本文档 (11).txt",
+        "description": "波音777-200ER型客机，注册编号9M-MRO，于2014年3月8日凌晨0时41分从吉隆坡国际机场起飞，原定于北京时间6时30分抵达北京首都国际机场"
+      },
+      "created_at": "2026-03-10T21:02:52.310013",
+      "updated_at": "2026-03-10T21:10:13.491627"
+    },
+    "a1fffed1-4f9": {
+      "uuid": "a1fffed1-4f9",
+      "name": "吉隆坡国际机场",
+      "labels": [
+        "Location"
+      ],
+      "summary": "吉隆坡国际机场（KLIA）; MH370起飞的机场。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "新建文本文档 (11).txt",
+        "description": "MH370航班的起飞地点"
+      },
+      "created_at": "2026-03-10T21:02:52.313012",
+      "updated_at": "2026-03-10T21:10:13.551587"
+    },
+    "c6ee54d4-227": {
+      "uuid": "c6ee54d4-227",
+      "name": "北京首都国际机场",
+      "labels": [
+        "Location"
+      ],
+      "summary": "北京首都国际机场",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "新建文本文档 (11).txt",
+        "description": "MH370航班的预定抵达地点"
+      },
+      "created_at": "2026-03-10T21:02:52.318566",
+      "updated_at": "2026-03-10T21:02:52.318566"
+    },
+    "5f3c1325-8fa": {
+      "uuid": "5f3c1325-8fa",
+      "name": "MH370 Flight",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "Malaysia Airlines Flight MH370 from Kuala Lumpur to Beijing, involving a Boeing 777-200ER aircraft.; Malaysia Airlines Flight MH370 from Kuala Lumpur to Beijing.; The flight event of Malaysia Airlines Flight MH370, including its path and disappearance.; Malaysia Airlines Flight 370 involved in the events.; Malaysia Airlines Flight 370 that disappeared.",
+      "attributes": {
+        "timestamp": "Scheduled arrival at 06:30 Beijing time",
+        "credibility_score": "1.0",
+        "source": "Provided text",
+        "description": "Aircraft registration 9M-MRO, delivered to Malaysia Airlines on 2002-05-31, with 53,465.21 cumulative flight hours. Age 11 years 9 months as of disappearance. Max range 14,685 km, max fuel capacity 171,160 liters (49,100 kg). Carried 239 people: 227 passengers and 12 crew members."
+      },
+      "created_at": "2026-03-10T21:04:40.812962",
+      "updated_at": "2026-03-10T21:27:48.710499"
+    },
+    "dc006c3b-ab0": {
+      "uuid": "dc006c3b-ab0",
+      "name": "Kuala Lumpur International Airport",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Departure airport for MH370 flight, also known as KLIA.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "Provided text",
+        "description": "Located in Kuala Lumpur, where MH370 flight took off."
+      },
+      "created_at": "2026-03-10T21:04:40.816960",
+      "updated_at": "2026-03-10T21:04:40.816960"
+    },
+    "21e9ed96-d99": {
+      "uuid": "21e9ed96-d99",
+      "name": "Beijing Capital International Airport",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Scheduled arrival airport for MH370 flight.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "Provided text",
+        "description": "Located in Beijing, where MH370 flight was scheduled to arrive at 06:30 Beijing time."
+      },
+      "created_at": "2026-03-10T21:04:40.820957",
+      "updated_at": "2026-03-10T21:04:40.820957"
+    },
+    "5b5af923-0f5": {
+      "uuid": "5b5af923-0f5",
+      "name": "Malaysia Airlines",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Airline operating the MH370 flight and owning the aircraft.; The airline operating MH370",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "Provided text",
+        "description": "Received delivery of the aircraft (registration 9M-MRO) on 2002-05-31."
+      },
+      "created_at": "2026-03-10T21:04:40.824954",
+      "updated_at": "2026-03-10T21:22:33.372653"
+    },
+    "a9760123-9f7": {
+      "uuid": "a9760123-9f7",
+      "name": "Zaharie Ahmad Shah",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Captain of MH370",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "53 years old, total flight time 18,365 hours, including 8,659 hours on Boeing 777."
+      },
+      "created_at": "2026-03-10T21:07:20.830572",
+      "updated_at": "2026-03-10T21:07:20.830572"
+    },
+    "7efcd21e-ed5": {
+      "uuid": "7efcd21e-ed5",
+      "name": "Fariq Abdul Hamid",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Co-pilot of MH370",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "27 years old, total flight time 2,763 hours, undergoing Boeing 777 transition training."
+      },
+      "created_at": "2026-03-10T21:07:20.835568",
+      "updated_at": "2026-03-10T21:07:20.835568"
+    },
+    "c9978f3c-f27": {
+      "uuid": "c9978f3c-f27",
+      "name": "Pria Nour Mohammad Mehrad",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Iranian passenger who used a fake passport",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "19 years old, used a stolen Austrian passport to board MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.840564",
+      "updated_at": "2026-03-10T21:07:20.840564"
+    },
+    "6fbdf5fc-88e": {
+      "uuid": "6fbdf5fc-88e",
+      "name": "Delavar Seyed Mohammad Reza",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Iranian passenger who used a fake passport",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "29 years old, used a stolen Italian passport to board MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.847291",
+      "updated_at": "2026-03-10T21:07:20.847291"
+    },
+    "87957a9b-127": {
+      "uuid": "87957a9b-127",
+      "name": "Interpol",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "International Criminal Police Organization",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Investigated the fake passport incident and confirmed the passengers were illegal immigrants."
+      },
+      "created_at": "2026-03-10T21:07:20.852511",
+      "updated_at": "2026-03-10T21:07:20.852511"
+    },
+    "9ff325bb-816": {
+      "uuid": "9ff325bb-816",
+      "name": "FedEx Logistics",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Logistics company",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Shipped the lithium-ion batteries on MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.858201",
+      "updated_at": "2026-03-10T21:07:20.858201"
+    },
+    "e28e52d8-8ed": {
+      "uuid": "e28e52d8-8ed",
+      "name": "Motorola",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Electronics company",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Brand of the lithium-ion batteries loaded on MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.864195",
+      "updated_at": "2026-03-10T21:07:20.864195"
+    },
+    "a4d78ccc-860": {
+      "uuid": "a4d78ccc-860",
+      "name": "MH370",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "Malaysia Airlines Flight 370; 涉及事件的特定航班; Malaysia Airlines Flight 370.; 马来西亚航空MH370航班",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Specific flight event involving the aircraft and journey details mentioned in the text."
+      },
+      "created_at": "2026-03-10T21:07:20.870191",
+      "updated_at": "2026-03-10T21:33:15.196778"
+    },
+    "4a612eb1-914": {
+      "uuid": "4a612eb1-914",
+      "name": "Stolen Austrian Passport",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Physical evidence used for boarding",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Stolen passport used by Pria Nour Mohammad Mehrad to board MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.877188",
+      "updated_at": "2026-03-10T21:07:20.877188"
+    },
+    "11bb38e5-0a4": {
+      "uuid": "11bb38e5-0a4",
+      "name": "Stolen Italian Passport",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Physical evidence used for boarding",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Stolen passport used by Delavar Seyed Mohammad Reza to board MH370."
+      },
+      "created_at": "2026-03-10T21:07:20.883186",
+      "updated_at": "2026-03-10T21:07:20.883186"
+    },
+    "872d0d57-8c9": {
+      "uuid": "872d0d57-8c9",
+      "name": "SLTD Database",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Digital evidence database",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Interpol's Stolen and Lost Travel Documents database, used for tracking stolen passports."
+      },
+      "created_at": "2026-03-10T21:07:20.889182",
+      "updated_at": "2026-03-10T21:07:20.889182"
+    },
+    "0470a853-539": {
+      "uuid": "0470a853-539",
+      "name": "Lithium-ion Batteries",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Physical cargo evidence",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "221 kg of Motorola brand batteries, shipped by FedEx Logistics and loaded on MH370, which caused controversy."
+      },
+      "created_at": "2026-03-10T21:07:20.896176",
+      "updated_at": "2026-03-10T21:07:20.896176"
+    },
+    "54bbea9d-b00": {
+      "uuid": "54bbea9d-b00",
+      "name": "Mangosteens",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Physical cargo evidence",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "4,566 kg of fresh mangosteens loaded in the front cargo hold of MH370, which caused controversy."
+      },
+      "created_at": "2026-03-10T21:07:20.901171",
+      "updated_at": "2026-03-10T21:07:20.901171"
+    },
+    "c712814e-e23": {
+      "uuid": "c712814e-e23",
+      "name": "Fake Passport Boarding Event",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Event involving boarding with fake passports",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Event where two Iranian passengers used stolen passports to board MH370, later confirmed as illegal immigration by Interpol."
+      },
+      "created_at": "2026-03-10T21:07:20.907169",
+      "updated_at": "2026-03-10T21:07:20.907169"
+    },
+    "b8b7951e-32a": {
+      "uuid": "b8b7951e-32a",
+      "name": "Security Vulnerability Exposure Event",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Event exposing a security flaw",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Event that exposed the failure of Malaysian airport security to conduct real-time checks with the SLTD database."
+      },
+      "created_at": "2026-03-10T21:07:20.912164",
+      "updated_at": "2026-03-10T21:07:20.912164"
+    },
+    "c6965286-737": {
+      "uuid": "c6965286-737",
+      "name": "Beijing",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Intended transit point for the passengers traveling to Europe."
+      },
+      "created_at": "2026-03-10T21:07:20.916163",
+      "updated_at": "2026-03-10T21:07:20.916163"
+    },
+    "cc2c091b-6ae": {
+      "uuid": "cc2c091b-6ae",
+      "name": "Malaysian Airport",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.8",
+        "source": "provided text",
+        "description": "Location where the fake passport boarding occurred and the security vulnerability was exposed."
+      },
+      "created_at": "2026-03-10T21:07:20.920159",
+      "updated_at": "2026-03-10T21:07:20.920159"
+    },
+    "45dec963-5c3": {
+      "uuid": "45dec963-5c3",
+      "name": "机长模拟飞行",
+      "labels": [
+        "Event"
+      ],
+      "summary": "机长扎哈里在2014年3月7日进行的飞行模拟。",
+      "attributes": {
+        "timestamp": "2014-03-07",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "在家中的飞行模拟器上进行，模拟航线后来被FBI恢复。"
+      },
+      "created_at": "2026-03-10T21:10:13.499621",
+      "updated_at": "2026-03-10T21:10:13.499621"
+    },
+    "6b9eb8d1-b63": {
+      "uuid": "6b9eb8d1-b63",
+      "name": "山竹果货物",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "5吨新鲜山竹果装在MH370货舱前部。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "可能释放水汽加剧火灾风险。"
+      },
+      "created_at": "2026-03-10T21:10:13.507617",
+      "updated_at": "2026-03-10T21:10:13.507617"
+    },
+    "a45fa8f8-d7b": {
+      "uuid": "a45fa8f8-d7b",
+      "name": "锂离子电池货物",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "221公斤摩托罗拉品牌锂离子电池。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "托运由飞达物流公司，可能发生热失控。"
+      },
+      "created_at": "2026-03-10T21:10:13.515611",
+      "updated_at": "2026-03-10T21:10:13.515611"
+    },
+    "a84d6b4e-170": {
+      "uuid": "a84d6b4e-170",
+      "name": "神秘货物",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "89公斤货物，货运单描述模糊。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "马来西亚当局未公开详细说明。"
+      },
+      "created_at": "2026-03-10T21:10:13.520608",
+      "updated_at": "2026-03-10T21:10:13.520608"
+    },
+    "dbb038cc-a13": {
+      "uuid": "dbb038cc-a13",
+      "name": "飞达物流公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "托运锂离子电池的公司。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": ""
+      },
+      "created_at": "2026-03-10T21:10:13.525605",
+      "updated_at": "2026-03-10T21:10:13.525605"
+    },
+    "a0971d48-9cb": {
+      "uuid": "a0971d48-9cb",
+      "name": "机长扎哈里",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370航班的机长。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "进行了模拟飞行。"
+      },
+      "created_at": "2026-03-10T21:10:13.530601",
+      "updated_at": "2026-03-10T21:10:13.530601"
+    },
+    "52a97533-7af": {
+      "uuid": "52a97533-7af",
+      "name": "副驾驶法里克",
+      "labels": [
+        "Person"
+      ],
+      "summary": "MH370航班的副驾驶。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "在波音777机型上的第5次飞行。"
+      },
+      "created_at": "2026-03-10T21:10:13.535598",
+      "updated_at": "2026-03-10T21:10:13.535598"
+    },
+    "746323e4-480": {
+      "uuid": "746323e4-480",
+      "name": "模拟航线数据",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "从机长硬盘恢复的模拟飞行数据。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "显示从吉隆坡起飞、飞越马六甲海峡、转向南印度洋的航线，与MH370实际路径吻合。"
+      },
+      "created_at": "2026-03-10T21:10:13.540595",
+      "updated_at": "2026-03-10T21:10:13.540595"
+    },
+    "e32f0278-ac9": {
+      "uuid": "e32f0278-ac9",
+      "name": "FBI",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "美国联邦调查局。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "恢复了机长硬盘中的模拟数据。"
+      },
+      "created_at": "2026-03-10T21:10:13.545591",
+      "updated_at": "2026-03-10T21:10:13.545591"
+    },
+    "d9a03666-eab": {
+      "uuid": "d9a03666-eab",
+      "name": "锂离子电池热失控风险",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "锂离子电池可能发生热失控的风险。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "在特定条件下，可能加剧火灾风险。"
+      },
+      "created_at": "2026-03-10T21:10:13.556587",
+      "updated_at": "2026-03-10T21:10:13.556587"
+    },
+    "87713cbb-af4": {
+      "uuid": "87713cbb-af4",
+      "name": "山竹果水汽释放",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "山竹果释放的水汽。",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "与锂离子电池热失控混合可能加剧火灾风险。"
+      },
+      "created_at": "2026-03-10T21:10:13.561581",
+      "updated_at": "2026-03-10T21:10:13.561581"
+    },
+    "bbe0c06d-d71": {
+      "uuid": "bbe0c06d-d71",
+      "name": "ACARS Report",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Last automatic data report from MH370 at 01:07 MYT.",
+      "attributes": {
+        "timestamp": "01:07 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Contained normal engine performance and fuel consumption data."
+      },
+      "created_at": "2026-03-10T21:11:02.269502",
+      "updated_at": "2026-03-10T21:11:02.269502"
+    },
+    "27f2c4be-664": {
+      "uuid": "27f2c4be-664",
+      "name": "Transponder Disabling",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Manual shutdown of MH370's transponder at 01:20:36 MYT.",
+      "attributes": {
+        "timestamp": "01:20:36 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Conscious cockpit operation causing signal loss at IGARI waypoint."
+      },
+      "created_at": "2026-03-10T21:11:02.279496",
+      "updated_at": "2026-03-10T21:11:02.279496"
+    },
+    "6d710bf3-f3f": {
+      "uuid": "6d710bf3-f3f",
+      "name": "Final Radio Communication",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Last radio message from MH370 at 01:19:24 MYT.",
+      "attributes": {
+        "timestamp": "01:19:24 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Co-pilot Fariq replied 'Good night, Malaysian Three Seven Zero' to air traffic control."
+      },
+      "created_at": "2026-03-10T21:11:02.288492",
+      "updated_at": "2026-03-10T21:11:02.288492"
+    },
+    "befe815d-c02": {
+      "uuid": "befe815d-c02",
+      "name": "Co-pilot Fariq",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Co-pilot of MH370.",
+      "attributes": {
+        "timestamp": "01:19:24 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Sent the final radio communication."
+      },
+      "created_at": "2026-03-10T21:11:02.297484",
+      "updated_at": "2026-03-10T21:11:02.297484"
+    },
+    "999c8b10-265": {
+      "uuid": "999c8b10-265",
+      "name": "Kuala Lumpur ATC",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Air Traffic Control center in Kuala Lumpur.; Air traffic control organization in Kuala Lumpur responsible for MH370 handover.; Air traffic control in Kuala Lumpur",
+      "attributes": {
+        "timestamp": "01:19:24 MYT",
+        "source": "Text description",
+        "credibility_score": "0.9",
+        "description": "Instructed MH370 to contact Ho Chi Minh ATC."
+      },
+      "created_at": "2026-03-10T21:11:02.303480",
+      "updated_at": "2026-03-10T21:22:33.335678"
+    },
+    "64796ff6-37f": {
+      "uuid": "64796ff6-37f",
+      "name": "Ho Chi Minh ATC",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Air Traffic Control center in Ho Chi Minh.; Air traffic control organization in Ho Chi Minh that should have been contacted.; Air traffic control in Ho Chi Minh City",
+      "attributes": {
+        "timestamp": "01:19:24 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Designated next contact point for MH370."
+      },
+      "created_at": "2026-03-10T21:11:02.309477",
+      "updated_at": "2026-03-10T21:22:33.348670"
+    },
+    "9dd7d23c-77b": {
+      "uuid": "9dd7d23c-77b",
+      "name": "IGARI Waypoint",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Boundary between Malaysian and Vietnamese flight information regions.; Navigation waypoint where aircraft turn occurred.",
+      "attributes": {
+        "timestamp": "01:20:36 MYT",
+        "credibility_score": "0.9",
+        "source": "Text description",
+        "description": "Location where transponder was disabled."
+      },
+      "created_at": "2026-03-10T21:11:02.316472",
+      "updated_at": "2026-03-10T21:14:23.704743"
+    },
+    "06a8791d-e38": {
+      "uuid": "06a8791d-e38",
+      "name": "Transponder Manual Shutdown",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Manual shutdown of the aircraft's transponder requiring conscious cockpit action.",
+      "attributes": {
+        "timestamp": "Not specified (implied before 01:21)",
+        "credibility_score": "0.7",
+        "source": "Investigation findings",
+        "description": "The transponder was manually shut down, not due to equipment failure, as determined by investigation."
+      },
+      "created_at": "2026-03-10T21:14:23.586818",
+      "updated_at": "2026-03-10T21:14:23.586818"
+    },
+    "70470d21-43e": {
+      "uuid": "70470d21-43e",
+      "name": "ADS-B Signal Loss",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Interruption of ADS-B signal causing the aircraft to disappear from civilian radar.",
+      "attributes": {
+        "timestamp": "01:21",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "ADS-B signal was interrupted simultaneously, leading to loss from civilian radar screens."
+      },
+      "created_at": "2026-03-10T21:14:23.595811",
+      "updated_at": "2026-03-10T21:14:23.595811"
+    },
+    "f628a7fc-cff": {
+      "uuid": "f628a7fc-cff",
+      "name": "ACARS Report Failure",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Failure of the ACARS system to send scheduled data reports.",
+      "attributes": {
+        "timestamp": "01:37",
+        "credibility_score": "0.7",
+        "source": "Analysis",
+        "description": "ACARS did not send the next scheduled 30-minute data report as planned."
+      },
+      "created_at": "2026-03-10T21:14:23.602806",
+      "updated_at": "2026-03-10T21:14:23.602806"
+    },
+    "edabee4c-3c8": {
+      "uuid": "edabee4c-3c8",
+      "name": "Main Power Bus Cutoff",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Cutting off the main power bus leading to multiple system failures.",
+      "attributes": {
+        "timestamp": "01:37",
+        "credibility_score": "0.7",
+        "source": "Analysis",
+        "description": "The main power bus was cut off, causing ACARS and other systems to lose power simultaneously, requiring knowledge of Boeing 777 electrical systems."
+      },
+      "created_at": "2026-03-10T21:14:23.609802",
+      "updated_at": "2026-03-10T21:14:23.609802"
+    },
+    "1f758761-ed5": {
+      "uuid": "1f758761-ed5",
+      "name": "Aircraft Sharp Turn",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Sharp left turn of nearly 180 degrees by the aircraft.",
+      "attributes": {
+        "timestamp": "01:30 - 02:22",
+        "credibility_score": "0.7",
+        "source": "Military radar data",
+        "description": "Aircraft made a sharp left turn near IGARI waypoint, changing direction to southwest and then northwest."
+      },
+      "created_at": "2026-03-10T21:14:23.616797",
+      "updated_at": "2026-03-10T21:14:23.616797"
+    },
+    "c30779a2-ed4": {
+      "uuid": "c30779a2-ed4",
+      "name": "Altitude Fluctuation",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Significant altitude changes during the flight.",
+      "attributes": {
+        "timestamp": "01:30 - 02:22",
+        "credibility_score": "0.7",
+        "source": "Military radar data",
+        "description": "Aircraft climbed to 45,000 feet (exceeding normal limit) and descended to 23,000 feet, indicating large altitude variations."
+      },
+      "created_at": "2026-03-10T21:14:23.629794",
+      "updated_at": "2026-03-10T21:14:23.629794"
+    },
+    "a765caf1-e04": {
+      "uuid": "a765caf1-e04",
+      "name": "Aircraft Disappearance",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Final disappearance from all radar monitoring.",
+      "attributes": {
+        "timestamp": "02:22",
+        "credibility_score": "0.7",
+        "source": "Military radar",
+        "description": "Aircraft last appeared on radar over the Andaman Sea, northwest of Penang Island, before complete loss of contact."
+      },
+      "created_at": "2026-03-10T21:14:23.641783",
+      "updated_at": "2026-03-10T21:14:23.641783"
+    },
+    "7e9f4e33-ed6": {
+      "uuid": "7e9f4e33-ed6",
+      "name": "Investigation Findings",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Findings from the investigation into transponder shutdown.",
+      "attributes": {
+        "timestamp": "Not specified",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Evidence from investigation indicating transponder was manually shut down through conscious action."
+      },
+      "created_at": "2026-03-10T21:14:23.654775",
+      "updated_at": "2026-03-10T21:14:23.654775"
+    },
+    "3f7ce820-e28": {
+      "uuid": "3f7ce820-e28",
+      "name": "ACARS Analysis",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Analysis indicating main power bus cutoff as cause of ACARS failure.",
+      "attributes": {
+        "timestamp": "Not specified",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Analysis showed ACARS failure was due to main power bus cutoff, not isolated shutdown."
+      },
+      "created_at": "2026-03-10T21:14:23.666767",
+      "updated_at": "2026-03-10T21:14:23.666767"
+    },
+    "f6940684-a4a": {
+      "uuid": "f6940684-a4a",
+      "name": "Military Radar Data",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Data from military radar tracking the aircraft's path.",
+      "attributes": {
+        "timestamp": "01:30 - 02:22",
+        "credibility_score": "0.7",
+        "source": "Royal Malaysian Air Force",
+        "description": "Radar data captured flight trajectory, turn, and altitude changes, used to interpret events."
+      },
+      "created_at": "2026-03-10T21:14:23.679758",
+      "updated_at": "2026-03-10T21:14:23.679758"
+    },
+    "ffccdde9-fcc": {
+      "uuid": "ffccdde9-fcc",
+      "name": "Royal Malaysian Air Force",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Organization operating military radar stations.",
+      "attributes": {
+        "timestamp": "N/A",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Malaysia's air force, responsible for radar tracking at Kota Bharu and West Malaysia stations."
+      },
+      "created_at": "2026-03-10T21:14:23.689753",
+      "updated_at": "2026-03-10T21:14:23.689753"
+    },
+    "15702eba-605": {
+      "uuid": "15702eba-605",
+      "name": "Malay Peninsula",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic area flown over by aircraft.",
+      "attributes": {
+        "timestamp": "N/A",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Peninsula over which aircraft flew southwest after the turn."
+      },
+      "created_at": "2026-03-10T21:14:23.715735",
+      "updated_at": "2026-03-10T21:14:23.715735"
+    },
+    "40cb6db7-496": {
+      "uuid": "40cb6db7-496",
+      "name": "Strait of Malacca",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Body of water along which aircraft flew northwest.; Strait between Malay Peninsula and Sumatra.",
+      "attributes": {
+        "timestamp": "N/A",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Strait where aircraft flew after crossing Malay Peninsula."
+      },
+      "created_at": "2026-03-10T21:14:23.723730",
+      "updated_at": "2026-03-10T21:27:48.821429"
+    },
+    "73417b9e-e29": {
+      "uuid": "73417b9e-e29",
+      "name": "Penang Island",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Island near last radar position.",
+      "attributes": {
+        "timestamp": "N/A",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Island approximately 200 nautical miles northwest of the final radar contact."
+      },
+      "created_at": "2026-03-10T21:14:23.730725",
+      "updated_at": "2026-03-10T21:14:23.730725"
+    },
+    "92a13f1a-51a": {
+      "uuid": "92a13f1a-51a",
+      "name": "Andaman Sea",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Sea where aircraft last appeared on radar.; Location over which MH370 flew northwest after radar loss.",
+      "attributes": {
+        "timestamp": "N/A",
+        "credibility_score": "0.7",
+        "source": "Text",
+        "description": "Location of final radar contact before aircraft disappearance."
+      },
+      "created_at": "2026-03-10T21:14:23.741719",
+      "updated_at": "2026-03-10T21:25:38.992612"
+    },
+    "6bc70ceb-9b5": {
+      "uuid": "6bc70ceb-9b5",
+      "name": "卫星握手信号阶段",
+      "labels": [
+        "Event"
+      ],
+      "summary": "MH370航班通过Inmarsat卫星数据单元进行的自动通信事件序列",
+      "attributes": {
+        "timestamp": "02:25 - 08:19 MYT",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "飞机在02:25至08:19 MYT期间与Inmarsat-3 F1卫星进行的一系列自动握手通信，成为追踪飞行路径的唯一线索。"
+      },
+      "created_at": "2026-03-10T21:15:17.687951",
+      "updated_at": "2026-03-10T21:15:17.687951"
+    },
+    "660823f6-7f6": {
+      "uuid": "660823f6-7f6",
+      "name": "SDU重启事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "飞机卫星数据单元在02:25的异常重启事件",
+      "attributes": {
+        "timestamp": "02:25 MYT",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "机载Inmarsat卫星数据单元(SDU)在02:25重新上电并与卫星完成登录握手，表明辅助动力装置或主发动机恢复供电，这在正常飞行中不会发生。"
+      },
+      "created_at": "2026-03-10T21:15:17.702942",
+      "updated_at": "2026-03-10T21:15:17.702942"
+    },
+    "9b4b087b-4e3": {
+      "uuid": "9b4b087b-4e3",
+      "name": "Inmarsat SDU",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "飞机上的卫星数据单元硬件",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "机载Inmarsat卫星数据单元(SDU)，用于自动生成握手信号。"
+      },
+      "created_at": "2026-03-10T21:15:17.715931",
+      "updated_at": "2026-03-10T21:15:17.715931"
+    },
+    "ebe6fd30-116": {
+      "uuid": "ebe6fd30-116",
+      "name": "Inmarsat-3 F1卫星数据",
+      "labels": [
+        "SatelliteData"
+      ],
+      "summary": "印度洋上空的卫星记录的通信数据",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "由位于东经64.5度地球静止轨道的Inmarsat-3 F1卫星记录的6次整点握手信号（时间：02:25, 03:41, 04:41, 05:41, 06:41, 08:11 MYT）。"
+      },
+      "created_at": "2026-03-10T21:15:17.724925",
+      "updated_at": "2026-03-10T21:15:17.724925"
+    },
+    "f5130afb-046": {
+      "uuid": "f5130afb-046",
+      "name": "安达曼海上空",
+      "labels": [
+        "Location"
+      ],
+      "summary": "飞机最后出现在军用雷达的位置",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "槟城岛西北约200海里处的空域，飞机在此脱离雷达监控。"
+      },
+      "created_at": "2026-03-10T21:15:17.733920",
+      "updated_at": "2026-03-10T21:15:17.733920"
+    },
+    "933d8825-e4d": {
+      "uuid": "933d8825-e4d",
+      "name": "印度洋上空",
+      "labels": [
+        "Location"
+      ],
+      "summary": "卫星握手信号发生的地理位置",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "Inmarsat-3 F1卫星所在轨道的覆盖区域，握手信号在此记录。"
+      },
+      "created_at": "2026-03-10T21:15:17.741915",
+      "updated_at": "2026-03-10T21:15:17.741915"
+    },
+    "3d69056d-5b6": {
+      "uuid": "3d69056d-5b6",
+      "name": "APU",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "飞机的辅助动力装置状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "辅助动力装置，可能在02:25恢复对SDU的供电。"
+      },
+      "created_at": "2026-03-10T21:15:17.750909",
+      "updated_at": "2026-03-10T21:15:17.750909"
+    },
+    "e093fd8c-25b": {
+      "uuid": "e093fd8c-25b",
+      "name": "主发动机",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "飞机主发动机的供电状态",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "主发动机，可能在02:25恢复对SDU的供电。"
+      },
+      "created_at": "2026-03-10T21:15:17.759904",
+      "updated_at": "2026-03-10T21:15:17.759904"
+    },
+    "1dabb41c-1c6": {
+      "uuid": "1dabb41c-1c6",
+      "name": "Inmarsat",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "卫星通信服务提供商",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "运营Inmarsat-3 F1卫星的组织，提供数据单元服务。"
+      },
+      "created_at": "2026-03-10T21:15:17.779891",
+      "updated_at": "2026-03-10T21:15:17.779891"
+    },
+    "8ded0c64-35b": {
+      "uuid": "8ded0c64-35b",
+      "name": "Sixth Handshake Signal",
+      "labels": [
+        "Event"
+      ],
+      "summary": "The sixth handshake signal at 08:11 that defined the Seventh Arc.",
+      "attributes": {
+        "timestamp": "08:11",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Handshake signal recorded by satellite, producing BTO data used to define the Seventh Arc for MH370 Flight."
+      },
+      "created_at": "2026-03-10T21:18:39.522858",
+      "updated_at": "2026-03-10T21:18:39.522858"
+    },
+    "1f78ad2a-bfb": {
+      "uuid": "1f78ad2a-bfb",
+      "name": "BTO Data",
+      "labels": [
+        "SatelliteData"
+      ],
+      "summary": "Burst Timing Offset data from handshake signals, used to calculate distance from satellite.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Data derived from handshake signals indicating the distance between the aircraft and satellite, enabling the definition of geographic arcs like the Seventh Arc."
+      },
+      "created_at": "2026-03-10T21:18:39.539848",
+      "updated_at": "2026-03-10T21:22:33.499574"
+    },
+    "85f1736f-705": {
+      "uuid": "85f1736f-705",
+      "name": "BFO Data",
+      "labels": [
+        "SatelliteData"
+      ],
+      "summary": "Burst Frequency Offset data from handshake signals, indicating aircraft velocity and direction.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Data derived from handshake signals using Doppler effect to reflect the aircraft's movement, such as speed and descent direction."
+      },
+      "created_at": "2026-03-10T21:18:39.553838",
+      "updated_at": "2026-03-10T21:22:33.513564"
+    },
+    "9a1767c4-5c2": {
+      "uuid": "9a1767c4-5c2",
+      "name": "Seventh Arc",
+      "labels": [
+        "Location"
+      ],
+      "summary": "The equal distance arc defined by the last normal communication BTO data.; Geographic arc at the time of the last normal handshake, spanning southern Indian Ocean.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Geographic arc centered on the satellite's sub-point, representing the location of MH370 Flight during its last normal communication at 08:11."
+      },
+      "created_at": "2026-03-10T21:18:39.563831",
+      "updated_at": "2026-03-10T21:25:38.660025"
+    },
+    "f87beeaa-2ca": {
+      "uuid": "f87beeaa-2ca",
+      "name": "Abnormal Handshake Request",
+      "labels": [
+        "Event"
+      ],
+      "summary": "An incomplete handshake request at 08:19, indicating fuel exhaustion and descent.",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Abnormal satellite signal suggesting brief power-on of systems due to fuel exhaustion, with BFO data indicating high-speed descent; considered the final signal from MH370 Flight."
+      },
+      "created_at": "2026-03-10T21:18:39.573825",
+      "updated_at": "2026-03-10T21:18:39.573825"
+    },
+    "9c001388-80a": {
+      "uuid": "9c001388-80a",
+      "name": "Fuel Exhaustion",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Condition where aircraft fuel is depleted, leading to auxiliary systems activation.; Condition where aircraft fuel is depleted.; The condition of fuel running out.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Analysis indicates that fuel exhaustion caused the APU to start briefly, triggering the abnormal handshake signal."
+      },
+      "created_at": "2026-03-10T21:18:39.583819",
+      "updated_at": "2026-03-10T21:27:48.745478"
+    },
+    "965acdca-0b7": {
+      "uuid": "965acdca-0b7",
+      "name": "APU Brief Start",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Brief activation of the Auxiliary Power Unit due to residual fuel.",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Temporary start of the APU using residual or gravity-fed fuel, which led to the Satellite Data Unit powering on and the abnormal handshake signal."
+      },
+      "created_at": "2026-03-10T21:18:39.593814",
+      "updated_at": "2026-03-10T21:18:39.593814"
+    },
+    "4bf8a68c-7b6": {
+      "uuid": "4bf8a68c-7b6",
+      "name": "SDU Power On",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Satellite Data Unit briefly powering on.",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Event where the SDU received power from the APU start, resulting in the abnormal handshake request being recorded."
+      },
+      "created_at": "2026-03-10T21:18:39.604805",
+      "updated_at": "2026-03-10T21:18:39.604805"
+    },
+    "e85136fa-a11": {
+      "uuid": "e85136fa-a11",
+      "name": "High-Speed Descent",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Aircraft descending at high speed, indicated by BFO data.",
+      "attributes": {
+        "timestamp": "08:19",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Condition reflected by BFO data from the abnormal handshake, showing the aircraft was in a rapid descent phase."
+      },
+      "created_at": "2026-03-10T21:18:39.614799",
+      "updated_at": "2026-03-10T21:18:39.614799"
+    },
+    "ee168859-2d1": {
+      "uuid": "ee168859-2d1",
+      "name": "Air Traffic Control Failure",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Failure by Kuala Lumpur ATC to confirm handover completion.",
+      "attributes": {
+        "timestamp": "01:19-01:38",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Serious lapse where Kuala Lumpur ATC instructed MH370 Flight to contact Ho Chi Minh ATC but did not verify if the handover was completed as per procedure."
+      },
+      "created_at": "2026-03-10T21:18:39.625792",
+      "updated_at": "2026-03-10T21:18:39.625792"
+    },
+    "02f0b9c3-819": {
+      "uuid": "02f0b9c3-819",
+      "name": "Malaysia Airlines Operations Center",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Operations center of Malaysia Airlines",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Attempted to contact MH370 via ACARS."
+      },
+      "created_at": "2026-03-10T21:22:33.359661",
+      "updated_at": "2026-03-10T21:22:33.359661"
+    },
+    "26cb483d-c71": {
+      "uuid": "26cb483d-c71",
+      "name": "Handover Failure",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Failure to confirm handover completion",
+      "attributes": {
+        "timestamp": "01:19 - 01:38",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Kuala Lumpur ATC did not confirm if handover to Ho Chi Minh ATC was completed after instructing MH370."
+      },
+      "created_at": "2026-03-10T21:22:33.383646",
+      "updated_at": "2026-03-10T21:22:33.383646"
+    },
+    "095cf426-efa": {
+      "uuid": "095cf426-efa",
+      "name": "Emergency Not Activated",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Failure to activate emergency procedures",
+      "attributes": {
+        "timestamp": "01:38",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Ho Chi Minh ATC noticed MH370 did not report but only inquired internally without activating emergency procedures."
+      },
+      "created_at": "2026-03-10T21:22:33.394640",
+      "updated_at": "2026-03-10T21:22:33.394640"
+    },
+    "a5baf727-111": {
+      "uuid": "a5baf727-111",
+      "name": "ACARS Contact Attempt",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Attempt to contact MH370 via ACARS",
+      "attributes": {
+        "timestamp": "02:03",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Malaysia Airlines Operations Center tried to contact MH370 with no response."
+      },
+      "created_at": "2026-03-10T21:22:33.410629",
+      "updated_at": "2026-03-10T21:22:33.410629"
+    },
+    "f6b4c97f-916": {
+      "uuid": "f6b4c97f-916",
+      "name": "Notification of No Contact",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Formal notification of no contact",
+      "attributes": {
+        "timestamp": "02:15",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Ho Chi Minh ATC formally notified Kuala Lumpur ATC that MH370 had not made contact."
+      },
+      "created_at": "2026-03-10T21:22:33.426619",
+      "updated_at": "2026-03-10T21:22:33.426619"
+    },
+    "52ef1013-7a8": {
+      "uuid": "52ef1013-7a8",
+      "name": "Disappearance Announcement",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Official announcement of flight disappearance",
+      "attributes": {
+        "timestamp": "05:30",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Malaysia Airlines announced MH370 was missing more than 4 hours after last communication."
+      },
+      "created_at": "2026-03-10T21:22:33.443608",
+      "updated_at": "2026-03-10T21:22:33.443608"
+    },
+    "c90e59a6-161": {
+      "uuid": "c90e59a6-161",
+      "name": "Search Operation Launch",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "Commencement of search and rescue operations",
+      "attributes": {
+        "timestamp": "06:32",
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Search operation started nearly 5 hours after disappearance."
+      },
+      "created_at": "2026-03-10T21:22:33.463597",
+      "updated_at": "2026-03-10T21:22:33.463597"
+    },
+    "e6a3ace8-6e1": {
+      "uuid": "e6a3ace8-6e1",
+      "name": "2018 Final Report",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Final investigation report from 2018",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Report that criticized the delay in search operation."
+      },
+      "created_at": "2026-03-10T21:22:33.474588",
+      "updated_at": "2026-03-10T21:22:33.474588"
+    },
+    "6a6f7b54-31f": {
+      "uuid": "6a6f7b54-31f",
+      "name": "Inmarsat Satellite Data",
+      "labels": [
+        "SatelliteData"
+      ],
+      "summary": "Satellite communication data from Inmarsat; Satellite communication data used for analysis.",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Data used for tracking and analysis of MH370 flight path, including BTO and BFO."
+      },
+      "created_at": "2026-03-10T21:22:33.486581",
+      "updated_at": "2026-03-10T21:27:48.897381"
+    },
+    "2c2340ce-50b": {
+      "uuid": "2c2340ce-50b",
+      "name": "Search Delay",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Delay in initiating search operation",
+      "attributes": {
+        "credibility_score": "0.7",
+        "source": "text",
+        "description": "Delay of nearly 5 hours in launching search operations after disappearance, criticized in the report."
+      },
+      "created_at": "2026-03-10T21:22:33.524558",
+      "updated_at": "2026-03-10T21:22:33.524558"
+    },
+    "31ce262f-4f6": {
+      "uuid": "31ce262f-4f6",
+      "name": "BFO",
+      "labels": [
+        "SatelliteData"
+      ],
+      "summary": "Burst Frequency Offset data used for tracking aircraft movement based on Doppler shift.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Data reflecting Doppler shift caused by aircraft and satellite motion; used to determine flight direction (north or south)."
+      },
+      "created_at": "2026-03-10T21:25:38.585072",
+      "updated_at": "2026-03-10T21:25:38.585072"
+    },
+    "f05ae0c2-bfd": {
+      "uuid": "f05ae0c2-bfd",
+      "name": "Second Handshake",
+      "labels": [
+        "Event"
+      ],
+      "summary": "The second handshake event in satellite communication.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Starting point from which BFO values consistently indicated southward flight."
+      },
+      "created_at": "2026-03-10T21:25:38.605059",
+      "updated_at": "2026-03-10T21:25:38.605059"
+    },
+    "c197b146-47c": {
+      "uuid": "c197b146-47c",
+      "name": "Aircraft Flying South",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Condition of the aircraft flying in a southerly direction.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Flight direction inferred from BFO data analysis, excluding northern routes."
+      },
+      "created_at": "2026-03-10T21:25:38.624048",
+      "updated_at": "2026-03-10T21:25:38.624048"
+    },
+    "78b1b104-c10": {
+      "uuid": "78b1b104-c10",
+      "name": "Northern Route",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Hypothetical flight path via Central Asia towards Kazakhstan.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Potential northern path excluded by BFO data indicating southward flight."
+      },
+      "created_at": "2026-03-10T21:25:38.641038",
+      "updated_at": "2026-03-10T21:25:38.641038"
+    },
+    "30261f9f-c10": {
+      "uuid": "30261f9f-c10",
+      "name": "Last Normal Handshake",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Final normal satellite handshake of MH370 at 08:11 MYT.",
+      "attributes": {
+        "timestamp": "08:11 MYT",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Event defining the seventh arc location."
+      },
+      "created_at": "2026-03-10T21:25:38.679013",
+      "updated_at": "2026-03-10T21:25:38.679013"
+    },
+    "0f2fd043-348": {
+      "uuid": "0f2fd043-348",
+      "name": "Crash Area",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Most probable area where MH370 crashed, between 34°S and 38°S on the seventh arc.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Region narrowed down using BFO data, aircraft performance parameters, and wind field data."
+      },
+      "created_at": "2026-03-10T21:25:38.700999",
+      "updated_at": "2026-03-10T21:25:38.700999"
+    },
+    "6e90e957-402": {
+      "uuid": "6e90e957-402",
+      "name": "Aircraft Performance Parameters",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Parameters such as cruise speed and fuel consumption rate used in analysis.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Data including cruise speed and fuel consumption rate used to determine crash area."
+      },
+      "created_at": "2026-03-10T21:25:38.724984",
+      "updated_at": "2026-03-10T21:25:38.724984"
+    },
+    "88e365b0-987": {
+      "uuid": "88e365b0-987",
+      "name": "Wind Field Data",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Wind data used in flight path and crash area analysis.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Wind conditions data incorporated into crash area determination."
+      },
+      "created_at": "2026-03-10T21:25:38.769157",
+      "updated_at": "2026-03-10T21:25:38.769157"
+    },
+    "855c1ea6-3dd": {
+      "uuid": "855c1ea6-3dd",
+      "name": "Investigators",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Individuals conducting the analysis and reconstruction.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Key personnel involved in analyzing data and reconstructing events."
+      },
+      "created_at": "2026-03-10T21:25:38.790144",
+      "updated_at": "2026-03-10T21:25:38.790144"
+    },
+    "2e9f7c25-bb1": {
+      "uuid": "2e9f7c25-bb1",
+      "name": "08:19 Abnormal Signal",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Abnormal satellite signal at 08:19 MYT with BFO value of -2 Hz.",
+      "attributes": {
+        "timestamp": "08:19 MYT",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Final abnormal communication signal indicating descent."
+      },
+      "created_at": "2026-03-10T21:25:38.828120",
+      "updated_at": "2026-03-10T21:25:38.828120"
+    },
+    "a182e25f-674": {
+      "uuid": "a182e25f-674",
+      "name": "Descent Rate",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Condition of aircraft descending at approximately 15,000 feet per minute.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "High descent rate consistent with BFO value of -2 Hz."
+      },
+      "created_at": "2026-03-10T21:25:38.861695",
+      "updated_at": "2026-03-10T21:25:38.861695"
+    },
+    "66ed4364-b2f": {
+      "uuid": "66ed4364-b2f",
+      "name": "Uncontrolled Descent",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Event of uncontrolled high-speed dive or spiral descent.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Descent phase triggered by fuel exhaustion."
+      },
+      "created_at": "2026-03-10T21:25:38.905667",
+      "updated_at": "2026-03-10T21:25:38.905667"
+    },
+    "e978c5d6-4cf": {
+      "uuid": "e978c5d6-4cf",
+      "name": "Flight Path Reconstruction",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Reconstruction of MH370's flight path after radar loss.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Event where investigators rebuilt the probable flight path based on satellite data."
+      },
+      "created_at": "2026-03-10T21:25:38.926654",
+      "updated_at": "2026-03-10T21:25:38.926654"
+    },
+    "b4f029e2-b6a": {
+      "uuid": "b4f029e2-b6a",
+      "name": "02:22 Radar Loss",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Loss of military radar contact at 02:22.",
+      "attributes": {
+        "timestamp": "02:22",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Event marking the end of radar tracking."
+      },
+      "created_at": "2026-03-10T21:25:38.968628",
+      "updated_at": "2026-03-10T21:25:38.968628"
+    },
+    "28182441-3b3": {
+      "uuid": "28182441-3b3",
+      "name": "02:25 SDU Reboot",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Satellite Data Unit reboot event around 02:25.",
+      "attributes": {
+        "timestamp": "02:25",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Approximate time when SDU reboot occurred, possibly related to turn south."
+      },
+      "created_at": "2026-03-10T21:25:39.020595",
+      "updated_at": "2026-03-10T21:25:39.020595"
+    },
+    "d3b844a9-8d9": {
+      "uuid": "d3b844a9-8d9",
+      "name": "Turn to South",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Event where aircraft turned to a southerly heading.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Turn occurring around the time of SDU reboot, leading to flight across Indian Ocean."
+      },
+      "created_at": "2026-03-10T21:25:39.046579",
+      "updated_at": "2026-03-10T21:25:39.046579"
+    },
+    "8248c026-255": {
+      "uuid": "8248c026-255",
+      "name": "Indian Ocean",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic region where MH370 flew southward.",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "given text",
+        "description": "Ocean traversed by MH370 on southerly heading."
+      },
+      "created_at": "2026-03-10T21:25:39.072562",
+      "updated_at": "2026-03-10T21:25:39.072562"
+    },
+    "167c2abc-e00": {
+      "uuid": "167c2abc-e00",
+      "name": "Northwest Flight",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:25:39.332399",
+      "updated_at": "2026-03-10T21:25:39.332399"
+    },
+    "37a29497-901": {
+      "uuid": "37a29497-901",
+      "name": "Flight Across Indian Ocean",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:25:39.431336",
+      "updated_at": "2026-03-10T21:25:39.431336"
+    },
+    "1fd6b933-79d": {
+      "uuid": "1fd6b933-79d",
+      "name": "Southern Turn Event",
+      "labels": [
+        "Event"
+      ],
+      "summary": "The event where MH370 turned to a southerly heading.",
+      "attributes": {
+        "timestamp": "around 02:25",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "MH370 turned south and flew across the Indian Ocean in a stable flight mode."
+      },
+      "created_at": "2026-03-10T21:27:48.728487",
+      "updated_at": "2026-03-10T21:27:48.728487"
+    },
+    "45a28f6a-130": {
+      "uuid": "45a28f6a-130",
+      "name": "First Stage Search",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "Search operation in South China Sea and Strait of Malacca.",
+      "attributes": {
+        "timestamp": "2014-03-08 to 2014-03-15",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Initial search focused near IGARI waypoint in South China Sea, involving 25 countries with over 160 aircraft and ships, covering 92,600 sq km, no debris found."
+      },
+      "created_at": "2026-03-10T21:27:48.760468",
+      "updated_at": "2026-03-10T21:27:48.760468"
+    },
+    "8369a3a0-1ca": {
+      "uuid": "8369a3a0-1ca",
+      "name": "Second Stage Search",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "Surface search in southern Indian Ocean.",
+      "attributes": {
+        "timestamp": "2014-03-18 to 2014-04-28",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Search led by AMSA in southern Indian Ocean southwest of Perth, covering over 4.6 million sq km, with suspected floating objects found but not confirmed."
+      },
+      "created_at": "2026-03-10T21:27:48.775458",
+      "updated_at": "2026-03-10T21:27:48.775458"
+    },
+    "bb0a6761-865": {
+      "uuid": "bb0a6761-865",
+      "name": "South China Sea IGARI Waypoint",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Location near IGARI waypoint in South China Sea.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Last known position of MH370, focus of initial search."
+      },
+      "created_at": "2026-03-10T21:27:48.800442",
+      "updated_at": "2026-03-10T21:27:48.800442"
+    },
+    "929f074e-6da": {
+      "uuid": "929f074e-6da",
+      "name": "Southern Indian Ocean",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Ocean area southwest of Perth, Australia.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Area of the second stage search, approximately 2,500 km southwest of Perth."
+      },
+      "created_at": "2026-03-10T21:27:48.842415",
+      "updated_at": "2026-03-10T21:27:48.842415"
+    },
+    "65b78d9b-9d7": {
+      "uuid": "65b78d9b-9d7",
+      "name": "AMSA",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Australian Maritime Safety Authority.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Organization that led the second stage search operation."
+      },
+      "created_at": "2026-03-10T21:27:48.857405",
+      "updated_at": "2026-03-10T21:27:48.857405"
+    },
+    "4f4ba80d-412": {
+      "uuid": "4f4ba80d-412",
+      "name": "Chinese Navy Task Force",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Chinese naval forces participating in the search.",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Participated in the second stage search with other nations."
+      },
+      "created_at": "2026-03-10T21:27:48.871397",
+      "updated_at": "2026-03-10T21:27:48.871397"
+    },
+    "7c931936-82b": {
+      "uuid": "7c931936-82b",
+      "name": "Inmarsat Data Analysis",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Analysis of Inmarsat satellite data.",
+      "attributes": {
+        "timestamp": "before 2014-03-18",
+        "credibility_score": "0.7",
+        "source": "provided text",
+        "description": "Analysis that indicated the flight path and led to redirection of search efforts."
+      },
+      "created_at": "2026-03-10T21:27:48.913371",
+      "updated_at": "2026-03-10T21:27:48.913371"
+    },
+    "77d10c06-f0d": {
+      "uuid": "77d10c06-f0d",
+      "name": "海底搜索行动",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "澳大利亚交通安全局主导的海底搜索行动，使用拖曳式声呐设备和自主水下航行器，在南印度洋第七弧线附近进行系统性扫描。",
+      "attributes": {
+        "timestamp": "2014年10月-2017年1月",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "搜索面积达120,000平方公里，水深3,000-6,000米，耗资约2亿澳元（约1.5亿美元），发现了两艘19世纪沉船残骸，但未找到MH370的任何部件。"
+      },
+      "created_at": "2026-03-10T21:28:49.293286",
+      "updated_at": "2026-03-10T21:28:49.293286"
+    },
+    "669746f4-255": {
+      "uuid": "669746f4-255",
+      "name": "ATSB",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "澳大利亚交通安全局，主导了海底搜索行动。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "负责组织和执行人类历史上最大规模的水下搜索行动。"
+      },
+      "created_at": "2026-03-10T21:28:49.320273",
+      "updated_at": "2026-03-10T21:28:49.320273"
+    },
+    "38980bf8-fdd": {
+      "uuid": "38980bf8-fdd",
+      "name": "南印度洋第七弧线",
+      "labels": [
+        "Location"
+      ],
+      "summary": "海底搜索行动的发生地点，位于南印度洋附近。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "搜索区域的具体地理位置。"
+      },
+      "created_at": "2026-03-10T21:28:49.336260",
+      "updated_at": "2026-03-10T21:28:49.336260"
+    },
+    "36ab8089-617": {
+      "uuid": "36ab8089-617",
+      "name": "19世纪沉船残骸",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "在海底搜索行动中发现的物理残骸，属于19世纪沉船。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "作为证据被发现，但未确认与MH370事件相关。"
+      },
+      "created_at": "2026-03-10T21:28:49.352248",
+      "updated_at": "2026-03-10T21:28:49.352248"
+    },
+    "2c9196ea-437": {
+      "uuid": "2c9196ea-437",
+      "name": "Ocean Infinity搜索行动",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "美国深海探测公司Ocean Infinity与马来西亚政府合作进行的海底搜索行动，使用旗舰船'海底建造者号'和8台AUV。",
+      "attributes": {
+        "timestamp": "2018年1月-5月",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "搜索区域位于此前官方搜索区域以北，覆盖约112,000平方公里，以'无果不付费'协议进行，未找到飞机残骸。"
+      },
+      "created_at": "2026-03-10T21:28:49.368237",
+      "updated_at": "2026-03-10T21:28:49.368237"
+    },
+    "cddef0f1-84f": {
+      "uuid": "cddef0f1-84f",
+      "name": "Ocean Infinity",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "美国深海探测公司，执行了Ocean Infinity搜索行动。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "使用旗舰船'海底建造者号'进行作业，如果找到残骸，将获得最高7,000万美元报酬。"
+      },
+      "created_at": "2026-03-10T21:28:49.384227",
+      "updated_at": "2026-03-10T21:28:49.384227"
+    },
+    "c4b2bdb1-6c9": {
+      "uuid": "c4b2bdb1-6c9",
+      "name": "马来西亚政府",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "与Ocean Infinity签订协议，参与Ocean Infinity搜索行动。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "作为合作方，支持搜索行动。"
+      },
+      "created_at": "2026-03-10T21:28:49.401218",
+      "updated_at": "2026-03-10T21:28:49.401218"
+    },
+    "f2951080-b94": {
+      "uuid": "f2951080-b94",
+      "name": "官方搜索区域以北",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Ocean Infinity搜索行动的发生地点，位于此前官方搜索区域的北部。",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本内容",
+        "description": "搜索覆盖约112,000平方公里的区域。"
+      },
+      "created_at": "2026-03-10T21:28:49.417208",
+      "updated_at": "2026-03-10T21:28:49.417208"
+    },
+    "36d71e29-e7d": {
+      "uuid": "36d71e29-e7d",
+      "name": "襟副翼",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "MH370的右翼襟副翼残骸，部件编号657BB，属于波音777-200ER",
+      "attributes": {
+        "timestamp": "2015-07-29",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "在法属留尼汪岛圣安德烈海滩发现，后缘呈锯齿状撕裂，表明撞击水面时受力巨大；表面附着藤壶，生长模式用于推算漂流时间；是MH370坠入印度洋的第一个物理证据"
+      },
+      "created_at": "2026-03-10T21:33:15.059346",
+      "updated_at": "2026-03-10T21:33:15.059346"
+    },
+    "d61bf4a1-bb2": {
+      "uuid": "d61bf4a1-bb2",
+      "name": "外侧襟翼",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "MH370的右翼外侧襟翼残骸",
+      "attributes": {
+        "timestamp": "2016-06",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "在坦桑尼亚奔巴岛发现，事发时处于收起状态而非着陆构型，对'机长控制水上迫降'假说构成挑战"
+      },
+      "created_at": "2026-03-10T21:33:15.076855",
+      "updated_at": "2026-03-10T21:33:15.076855"
+    },
+    "f00153d4-c68": {
+      "uuid": "f00153d4-c68",
+      "name": "襟副翼发现事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "襟副翼残骸的发现事件",
+      "attributes": {
+        "timestamp": "2015-07-29",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "在法属留尼汪岛圣安德烈海滩发现襟副翼残骸"
+      },
+      "created_at": "2026-03-10T21:33:15.092844",
+      "updated_at": "2026-03-10T21:33:15.092844"
+    },
+    "8340b486-8df": {
+      "uuid": "8340b486-8df",
+      "name": "外侧襟翼发现事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "外侧襟翼残骸的发现事件",
+      "attributes": {
+        "timestamp": "2016-06",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "在坦桑尼亚奔巴岛发现外侧襟翼残骸"
+      },
+      "created_at": "2026-03-10T21:33:15.109835",
+      "updated_at": "2026-03-10T21:33:15.109835"
+    },
+    "0cc745ff-9cb": {
+      "uuid": "0cc745ff-9cb",
+      "name": "留尼汪岛",
+      "labels": [
+        "Location"
+      ],
+      "summary": "襟副翼残骸的发现地点",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "法属留尼汪岛圣安德烈海滩，襟副翼残骸的发现位置"
+      },
+      "created_at": "2026-03-10T21:33:15.126822",
+      "updated_at": "2026-03-10T21:33:15.126822"
+    },
+    "7688c934-470": {
+      "uuid": "7688c934-470",
+      "name": "奔巴岛",
+      "labels": [
+        "Location"
+      ],
+      "summary": "外侧襟翼残骸的发现地点",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "坦桑尼亚奔巴岛，外侧襟翼残骸的发现位置"
+      },
+      "created_at": "2026-03-10T21:33:15.143812",
+      "updated_at": "2026-03-10T21:33:15.143812"
+    },
+    "0e92b659-6e3": {
+      "uuid": "0e92b659-6e3",
+      "name": "BEA",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "法国航空事故调查局",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "负责确认襟副翼残骸属于MH370的组织"
+      },
+      "created_at": "2026-03-10T21:33:15.160802",
+      "updated_at": "2026-03-10T21:33:15.160802"
+    },
+    "80ba693b-e09": {
+      "uuid": "80ba693b-e09",
+      "name": "波音公司",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "飞机制造商",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "文本描述",
+        "description": "参与确认襟副翼残骸属于MH370的组织"
+      },
+      "created_at": "2026-03-10T21:33:15.177791",
+      "updated_at": "2026-03-10T21:33:15.177791"
+    },
+    "180552ec-4b3": {
+      "uuid": "180552ec-4b3",
+      "name": "MH370坠入印度洋结论",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:33:15.301068",
+      "updated_at": "2026-03-10T21:33:15.301068"
+    },
+    "be4deb1a-761": {
+      "uuid": "be4deb1a-761",
+      "name": "水面撞击",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:33:15.340043",
+      "updated_at": "2026-03-10T21:33:15.340043"
+    },
+    "a8443c5f-978": {
+      "uuid": "a8443c5f-978",
+      "name": "漂流时间推算",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:33:15.381018",
+      "updated_at": "2026-03-10T21:33:15.381018"
+    },
+    "f9f1b4c5-521": {
+      "uuid": "f9f1b4c5-521",
+      "name": "藤壶生长模式",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:33:15.399006",
+      "updated_at": "2026-03-10T21:33:15.399006"
+    },
+    "67c17514-fbf": {
+      "uuid": "67c17514-fbf",
+      "name": "机长控制水上迫降假说",
+      "labels": [
+        "Entity"
+      ],
+      "summary": "",
+      "attributes": {},
+      "created_at": "2026-03-10T21:33:15.434984",
+      "updated_at": "2026-03-10T21:33:15.434984"
+    },
+    "4a5736a7-bdb": {
+      "uuid": "4a5736a7-bdb",
+      "name": "HorizontalStabilizerDebris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "水平安定面碎片",
+      "attributes": {
+        "timestamp": "2016-03",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "高度可能属于MH370，发现于莫桑比克维兰库洛海滩。"
+      },
+      "created_at": "2026-03-10T21:35:17.194193",
+      "updated_at": "2026-03-10T21:35:17.194193"
+    },
+    "2c1304f8-390": {
+      "uuid": "2c1304f8-390",
+      "name": "EngineCowlingDebris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "发动机整流罩碎片",
+      "attributes": {
+        "timestamp": "2016-03",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "高度可能属于MH370，发现于南非。"
+      },
+      "created_at": "2026-03-10T21:35:17.219175",
+      "updated_at": "2026-03-10T21:35:17.219175"
+    },
+    "3dff1a57-364": {
+      "uuid": "3dff1a57-364",
+      "name": "InteriorPanelDebris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "内饰面板碎片",
+      "attributes": {
+        "timestamp": "2016",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "2016年10月确认属于MH370，发现于毛里求斯，是第三块正式确认的残骸。"
+      },
+      "created_at": "2026-03-10T21:35:17.238163",
+      "updated_at": "2026-03-10T21:35:17.238163"
+    },
+    "c51bb681-0ee": {
+      "uuid": "c51bb681-0ee",
+      "name": "LeftLandingGearTrunnionDoorDebris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "左起落架耳轴门部件",
+      "attributes": {
+        "timestamp": "2022-12",
+        "credibility_score": "0.8",
+        "source": "文本",
+        "description": "高度可能属于MH370，发现于马达加斯加海岸，此前被渔民当作洗衣板使用约5年；状态表明飞机坠海时起落架可能处于放下状态。"
+      },
+      "created_at": "2026-03-10T21:35:17.256151",
+      "updated_at": "2026-03-10T21:35:17.256151"
+    },
+    "4da71313-012": {
+      "uuid": "4da71313-012",
+      "name": "VilankuloBeach",
+      "labels": [
+        "Location"
+      ],
+      "summary": "莫桑比克维兰库洛海滩",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "水平安定面碎片的发现地点。"
+      },
+      "created_at": "2026-03-10T21:35:17.276139",
+      "updated_at": "2026-03-10T21:35:17.276139"
+    },
+    "88537f94-b33": {
+      "uuid": "88537f94-b33",
+      "name": "SouthAfrica",
+      "labels": [
+        "Location"
+      ],
+      "summary": "南非",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "发动机整流罩碎片的发现地点。"
+      },
+      "created_at": "2026-03-10T21:35:17.294127",
+      "updated_at": "2026-03-10T21:35:17.294127"
+    },
+    "476ff914-bdf": {
+      "uuid": "476ff914-bdf",
+      "name": "Mauritius",
+      "labels": [
+        "Location"
+      ],
+      "summary": "毛里求斯; Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "内饰面板碎片的发现地点。"
+      },
+      "created_at": "2026-03-10T21:35:17.312692",
+      "updated_at": "2026-03-10T21:38:18.629973"
+    },
+    "7ec70848-432": {
+      "uuid": "7ec70848-432",
+      "name": "MadagascarCoast",
+      "labels": [
+        "Location"
+      ],
+      "summary": "马达加斯加海岸",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "左起落架耳轴门部件的发现地点。"
+      },
+      "created_at": "2026-03-10T21:35:17.330680",
+      "updated_at": "2026-03-10T21:35:17.330680"
+    },
+    "80c2b369-275": {
+      "uuid": "80c2b369-275",
+      "name": "IndianOceanWest",
+      "labels": [
+        "Location"
+      ],
+      "summary": "印度洋西侧",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "所有已发现残骸的分布区域，包括留尼汪岛、坦桑尼亚、莫桑比克、马达加斯加、南非和毛里求斯。"
+      },
+      "created_at": "2026-03-10T21:35:17.349668",
+      "updated_at": "2026-03-10T21:35:17.349668"
+    },
+    "ec8b2b1f-aae": {
+      "uuid": "ec8b2b1f-aae",
+      "name": "LandingGearDown",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "起落架放下状态",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "基于左起落架耳轴门部件的状态推断，表明飞机坠海时起落架可能处于放下状态。"
+      },
+      "created_at": "2026-03-10T21:35:17.367657",
+      "updated_at": "2026-03-10T21:35:17.367657"
+    },
+    "67b25387-003": {
+      "uuid": "67b25387-003",
+      "name": "FlapsRetracted",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "襟翼收起状态",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "先前发现（文本中提及），与起落架放下状态形成矛盾。"
+      },
+      "created_at": "2026-03-10T21:35:17.386529",
+      "updated_at": "2026-03-10T21:35:17.386529"
+    },
+    "a61c0cff-332": {
+      "uuid": "a61c0cff-332",
+      "name": "MH370Flight",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "MH370航班",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "1.0",
+        "source": "文本",
+        "description": "失联航班，所有残骸均高度可能或确认属于此航班。"
+      },
+      "created_at": "2026-03-10T21:35:17.404513",
+      "updated_at": "2026-03-10T21:35:17.404513"
+    },
+    "67e4bf8c-a18": {
+      "uuid": "67e4bf8c-a18",
+      "name": "StructuralBreakup",
+      "labels": [
+        "Event"
+      ],
+      "summary": "结构性解体",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "飞机可能在坠落过程中经历的事件，由起落架放下与襟翼收起的矛盾暗示。"
+      },
+      "created_at": "2026-03-10T21:35:17.423502",
+      "updated_at": "2026-03-10T21:35:17.423502"
+    },
+    "e86c0050-42f": {
+      "uuid": "e86c0050-42f",
+      "name": "MH370 Debris",
+      "labels": [
+        "Debris"
+      ],
+      "summary": "Physical debris recovered from MH370 flight",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Debris found in the western Indian Ocean, including locations such as Réunion Island, Tanzania, Mozambique, Madagascar, South Africa, and Mauritius."
+      },
+      "created_at": "2026-03-10T21:38:18.481813",
+      "updated_at": "2026-03-10T21:38:18.481813"
+    },
+    "9bd4ba7c-ee8": {
+      "uuid": "9bd4ba7c-ee8",
+      "name": "Réunion Island",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Island in the Indian Ocean; one of the sites where MH370 debris was found."
+      },
+      "created_at": "2026-03-10T21:38:18.512048",
+      "updated_at": "2026-03-10T21:38:18.512048"
+    },
+    "9ff266f0-36c": {
+      "uuid": "9ff266f0-36c",
+      "name": "Tanzania",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Country on the eastern coast of Africa; one of the sites where MH370 debris was found."
+      },
+      "created_at": "2026-03-10T21:38:18.534035",
+      "updated_at": "2026-03-10T21:38:18.534035"
+    },
+    "6b4a2975-e1c": {
+      "uuid": "6b4a2975-e1c",
+      "name": "Mozambique",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Country on the eastern coast of Africa; one of the sites where MH370 debris was found, near the Mozambique Channel."
+      },
+      "created_at": "2026-03-10T21:38:18.558019",
+      "updated_at": "2026-03-10T21:38:18.558019"
+    },
+    "a4799a88-bd8": {
+      "uuid": "a4799a88-bd8",
+      "name": "Madagascar",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Island nation in the Indian Ocean; one of the sites where MH370 debris was found."
+      },
+      "created_at": "2026-03-10T21:38:18.578006",
+      "updated_at": "2026-03-10T21:38:18.578006"
+    },
+    "232e061d-e7c": {
+      "uuid": "232e061d-e7c",
+      "name": "South Africa",
+      "labels": [
+        "Location"
+      ],
+      "summary": "Geographic location where debris was discovered",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Country on the southern tip of Africa; one of the sites where MH370 debris was found."
+      },
+      "created_at": "2026-03-10T21:38:18.603990",
+      "updated_at": "2026-03-10T21:38:18.603990"
+    },
+    "6174e507-ac4": {
+      "uuid": "6174e507-ac4",
+      "name": "South Equatorial Current",
+      "labels": [
+        "Condition"
+      ],
+      "summary": "Ocean current influencing debris drift",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Warm ocean current in the South Indian Ocean that transports floating objects from east to west, dispersing them around Mozambique Channel and Madagascar to the African coast."
+      },
+      "created_at": "2026-03-10T21:38:18.650480",
+      "updated_at": "2026-03-10T21:38:18.650480"
+    },
+    "c544c5b4-6a9": {
+      "uuid": "c544c5b4-6a9",
+      "name": "CSIRO",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Research organization conducting drift analysis",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Commonwealth Scientific and Industrial Research Organisation; performed drift model analysis to support the MH370 crash hypothesis."
+      },
+      "created_at": "2026-03-10T21:38:18.671468",
+      "updated_at": "2026-03-10T21:38:18.671468"
+    },
+    "7184b902-7e3": {
+      "uuid": "7184b902-7e3",
+      "name": "Drift Model Analysis",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Ocean drift model used for crash hypothesis",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Model based on reverse calculation of ocean currents, using debris discovery times and locations to infer crash site."
+      },
+      "created_at": "2026-03-10T21:38:18.697451",
+      "updated_at": "2026-03-10T21:38:18.697451"
+    },
+    "5603efe3-5e9": {
+      "uuid": "5603efe3-5e9",
+      "name": "MH370 Crash Hypothesis",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Hypothesized crash event of MH370 flight",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Hypothesis that MH370 crashed in the southern Indian Ocean between 32°S and 36°S latitude on the seventh arc."
+      },
+      "created_at": "2026-03-10T21:38:18.718437",
+      "updated_at": "2026-03-10T21:38:18.718437"
+    },
+    "310dd17d-8be": {
+      "uuid": "310dd17d-8be",
+      "name": "Dr. Griffin",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Oceanographer conducting drift experiment",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Australian oceanographer who performed a physical drift experiment using replica debris."
+      },
+      "created_at": "2026-03-10T21:38:18.740423",
+      "updated_at": "2026-03-10T21:38:18.740423"
+    },
+    "3afee7ad-2cd": {
+      "uuid": "3afee7ad-2cd",
+      "name": "Drift Experiment",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Physical experiment simulating debris drift",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Experiment using a real aircraft wing section shaped like the flaperon found on Réunion Island, equipped with a positioning system and released into Indian Ocean currents."
+      },
+      "created_at": "2026-03-10T21:38:18.760411",
+      "updated_at": "2026-03-10T21:38:18.760411"
+    },
+    "d67d99e5-bc4": {
+      "uuid": "d67d99e5-bc4",
+      "name": "Boeing",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Aircraft manufacturer providing materials for experiment",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Company that supplied the real aircraft wing used in the drift experiment."
+      },
+      "created_at": "2026-03-10T21:38:18.781398",
+      "updated_at": "2026-03-10T21:38:18.781398"
+    },
+    "f9ba1275-c9a": {
+      "uuid": "f9ba1275-c9a",
+      "name": "Replicated Debris",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Replica debris used in drift experiment",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Physical replica of MH370 debris created for the drift experiment; its drift trajectory was compared to real debris patterns."
+      },
+      "created_at": "2026-03-10T21:38:18.802384",
+      "updated_at": "2026-03-10T21:38:18.802384"
+    },
+    "004a70ed-ad1": {
+      "uuid": "004a70ed-ad1",
+      "name": "Malaysia Final Report",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Official investigation report on MH370",
+      "attributes": {
+        "timestamp": "2018-07-30",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "495-page final report released by the Malaysian investigation team, containing conclusions on the MH370 incident."
+      },
+      "created_at": "2026-03-10T21:38:18.825371",
+      "updated_at": "2026-03-10T21:38:18.825371"
+    },
+    "a9ce8dc9-360": {
+      "uuid": "a9ce8dc9-360",
+      "name": "Malaysian Aircraft Accident Investigation Team",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "Organization responsible for MH370 investigation",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Team that conducted the MH370 investigation and published the final report."
+      },
+      "created_at": "2026-03-10T21:38:18.846876",
+      "updated_at": "2026-03-10T21:38:18.846876"
+    },
+    "eea954b9-db4": {
+      "uuid": "eea954b9-db4",
+      "name": "Human-Controlled Yaw",
+      "labels": [
+        "Event"
+      ],
+      "summary": "Event of aircraft turn and yaw under human control",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Conclusion that MH370's turn and yaw were human-controlled, with possible third-party interference but no evidence of remote control."
+      },
+      "created_at": "2026-03-10T21:38:18.867862",
+      "updated_at": "2026-03-10T21:38:18.867862"
+    },
+    "ac3bc3c3-e8d": {
+      "uuid": "ac3bc3c3-e8d",
+      "name": "Pilot No Anomaly Evidence",
+      "labels": [
+        "Evidence"
+      ],
+      "summary": "Evidence indicating no anomalies in pilots",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Evidence showing that the captain and co-pilot held valid licenses, were in good health, and had adequate rest, with no signs of anomalies."
+      },
+      "created_at": "2026-03-10T21:38:18.889850",
+      "updated_at": "2026-03-10T21:38:18.889850"
+    },
+    "b2160c6f-fe8": {
+      "uuid": "b2160c6f-fe8",
+      "name": "Captain",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Pilot of MH370 flight",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Individual who piloted MH370; described as having a valid license, good health, and sufficient rest."
+      },
+      "created_at": "2026-03-10T21:38:18.911835",
+      "updated_at": "2026-03-10T21:38:18.911835"
+    },
+    "f3bae9a5-86e": {
+      "uuid": "f3bae9a5-86e",
+      "name": "Co-Pilot",
+      "labels": [
+        "Person"
+      ],
+      "summary": "Co-pilot of MH370 flight",
+      "attributes": {
+        "timestamp": "",
+        "credibility_score": "0.7",
+        "source": "text provided",
+        "description": "Individual who co-piloted MH370; described as having a valid license, good health, and sufficient rest."
+      },
+      "created_at": "2026-03-10T21:38:18.932821",
+      "updated_at": "2026-03-10T21:38:18.932821"
+    }
+  },
+  "edges": {
+    "7a313fc8-b5c": {
+      "uuid": "7a313fc8-b5c",
+      "name": "OWNED_BY",
+      "fact": "MH370航班飞机由马来西亚航空公司拥有。",
+      "source_node_uuid": "cca1745d-83a",
+      "target_node_uuid": "38ecf188-cdb",
+      "source_node_name": "MH370航班",
+      "target_node_name": "马来西亚航空公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:02:52.321564",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "df07ca25-1d3": {
+      "uuid": "df07ca25-1d3",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班于2014年3月8日凌晨0时41分从吉隆坡国际机场起飞。",
+      "source_node_uuid": "cca1745d-83a",
+      "target_node_uuid": "a1fffed1-4f9",
+      "source_node_name": "MH370航班",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:02:52.325562",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ed8d3c11-7cd": {
+      "uuid": "ed8d3c11-7cd",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班原定于北京时间6时30分抵达北京首都国际机场。",
+      "source_node_uuid": "cca1745d-83a",
+      "target_node_uuid": "c6ee54d4-227",
+      "source_node_name": "MH370航班",
+      "target_node_name": "北京首都国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:02:52.328559",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a7262157-4bc": {
+      "uuid": "a7262157-4bc",
+      "name": "PARTICIPATED_IN",
+      "fact": "马来西亚航空公司参与了MH370航班失踪事件。",
+      "source_node_uuid": "38ecf188-cdb",
+      "target_node_uuid": "37217c89-185",
+      "source_node_name": "马来西亚航空公司",
+      "target_node_name": "MH370航班失踪事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:02:52.333557",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "488890c8-589": {
+      "uuid": "488890c8-589",
+      "name": "LOCATED_AT",
+      "fact": "MH370 flight took off from Kuala Lumpur International Airport.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "dc006c3b-ab0",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "Kuala Lumpur International Airport",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:04:40.829951",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e85bd73b-b92": {
+      "uuid": "e85bd73b-b92",
+      "name": "LOCATED_AT",
+      "fact": "MH370 flight was scheduled to arrive at Beijing Capital International Airport.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "21e9ed96-d99",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "Beijing Capital International Airport",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:04:40.833948",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8e91c453-bb8": {
+      "uuid": "8e91c453-bb8",
+      "name": "OWNED_BY",
+      "fact": "The aircraft used in MH370 flight is owned by Malaysia Airlines.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "5b5af923-0f5",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "Malaysia Airlines",
+      "attributes": {
+        "confidence": "1.0",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:04:40.837947",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "64d4b8e3-615": {
+      "uuid": "64d4b8e3-615",
+      "name": "PARTICIPATED_IN",
+      "fact": "Pria Nour Mohammad Mehrad participated in the fake passport boarding event by using a stolen Austrian passport.",
+      "source_node_uuid": "c9978f3c-f27",
+      "target_node_uuid": "c712814e-e23",
+      "source_node_name": "Pria Nour Mohammad Mehrad",
+      "target_node_name": "Fake Passport Boarding Event",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.926164",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e2a9debc-1a2": {
+      "uuid": "e2a9debc-1a2",
+      "name": "PARTICIPATED_IN",
+      "fact": "Delavar Seyed Mohammad Reza participated in the fake passport boarding event by using a stolen Italian passport.",
+      "source_node_uuid": "6fbdf5fc-88e",
+      "target_node_uuid": "c712814e-e23",
+      "source_node_name": "Delavar Seyed Mohammad Reza",
+      "target_node_name": "Fake Passport Boarding Event",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.931152",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b6b604e5-04b": {
+      "uuid": "b6b604e5-04b",
+      "name": "PARTICIPATED_IN",
+      "fact": "Zaharie Ahmad Shah participated in the MH370 flight event as the captain.",
+      "source_node_uuid": "a9760123-9f7",
+      "target_node_uuid": "a4d78ccc-860",
+      "source_node_name": "Zaharie Ahmad Shah",
+      "target_node_name": "MH370",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.935150",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "27b3f5e0-420": {
+      "uuid": "27b3f5e0-420",
+      "name": "PARTICIPATED_IN",
+      "fact": "Fariq Abdul Hamid participated in the MH370 flight event as the co-pilot.",
+      "source_node_uuid": "7efcd21e-ed5",
+      "target_node_uuid": "a4d78ccc-860",
+      "source_node_name": "Fariq Abdul Hamid",
+      "target_node_name": "MH370",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.939148",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b026b969-68e": {
+      "uuid": "b026b969-68e",
+      "name": "SUPPORTED_BY",
+      "fact": "The fake passport boarding event is supported by the evidence of the stolen Austrian passport used by Pria Nour Mohammad Mehrad.",
+      "source_node_uuid": "c712814e-e23",
+      "target_node_uuid": "4a612eb1-914",
+      "source_node_name": "Fake Passport Boarding Event",
+      "target_node_name": "Stolen Austrian Passport",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:07:20.943145",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5551886f-020": {
+      "uuid": "5551886f-020",
+      "name": "SUPPORTED_BY",
+      "fact": "The fake passport boarding event is supported by the evidence of the stolen Italian passport used by Delavar Seyed Mohammad Reza.",
+      "source_node_uuid": "c712814e-e23",
+      "target_node_uuid": "11bb38e5-0a4",
+      "source_node_name": "Fake Passport Boarding Event",
+      "target_node_name": "Stolen Italian Passport",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:07:20.947142",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7a50ab67-a35": {
+      "uuid": "7a50ab67-a35",
+      "name": "REPORTED_BY",
+      "fact": "The fake passport boarding event was reported by Interpol, which confirmed the passengers were illegal immigrants.",
+      "source_node_uuid": "c712814e-e23",
+      "target_node_uuid": "87957a9b-127",
+      "source_node_name": "Fake Passport Boarding Event",
+      "target_node_name": "Interpol",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.952141",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "86c4ff83-cac": {
+      "uuid": "86c4ff83-cac",
+      "name": "CAUSED_BY",
+      "fact": "The security vulnerability exposure event was caused by the fake passport boarding event, which revealed the failure to use the SLTD database.",
+      "source_node_uuid": "b8b7951e-32a",
+      "target_node_uuid": "c712814e-e23",
+      "source_node_name": "Security Vulnerability Exposure Event",
+      "target_node_name": "Fake Passport Boarding Event",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:07:20.959135",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a2a28cc3-080": {
+      "uuid": "a2a28cc3-080",
+      "name": "LOCATED_AT",
+      "fact": "The fake passport boarding event occurred at the Malaysian Airport location.",
+      "source_node_uuid": "c712814e-e23",
+      "target_node_uuid": "cc2c091b-6ae",
+      "source_node_name": "Fake Passport Boarding Event",
+      "target_node_name": "Malaysian Airport",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:07:20.966130",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "20140e84-c2a": {
+      "uuid": "20140e84-c2a",
+      "name": "OWNED_BY",
+      "fact": "The lithium-ion batteries evidence is owned by the Motorola organization, as they are branded by Motorola.",
+      "source_node_uuid": "0470a853-539",
+      "target_node_uuid": "e28e52d8-8ed",
+      "source_node_name": "Lithium-ion Batteries",
+      "target_node_name": "Motorola",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-10T21:07:20.971127",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "856b5236-93d": {
+      "uuid": "856b5236-93d",
+      "name": "OWNED_BY",
+      "fact": "锂离子电池由飞达物流公司托运。",
+      "source_node_uuid": "a45fa8f8-d7b",
+      "target_node_uuid": "dbb038cc-a13",
+      "source_node_name": "锂离子电池货物",
+      "target_node_name": "飞达物流公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.566578",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "088544bb-dcf": {
+      "uuid": "088544bb-dcf",
+      "name": "SUPPORTED_BY",
+      "fact": "锂离子电池热失控风险由锂离子电池货物证据支持。",
+      "source_node_uuid": "d9a03666-eab",
+      "target_node_uuid": "a45fa8f8-d7b",
+      "source_node_name": "锂离子电池热失控风险",
+      "target_node_name": "锂离子电池货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.571575",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "94bc68f0-ed2": {
+      "uuid": "94bc68f0-ed2",
+      "name": "SUPPORTED_BY",
+      "fact": "山竹果水汽释放由山竹果货物证据支持。",
+      "source_node_uuid": "87713cbb-af4",
+      "target_node_uuid": "6b9eb8d1-b63",
+      "source_node_name": "山竹果水汽释放",
+      "target_node_name": "山竹果货物",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.577571",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "14751535-962": {
+      "uuid": "14751535-962",
+      "name": "PARTICIPATED_IN",
+      "fact": "机长扎哈里参与了模拟飞行事件。",
+      "source_node_uuid": "a0971d48-9cb",
+      "target_node_uuid": "45dec963-5c3",
+      "source_node_name": "机长扎哈里",
+      "target_node_name": "机长模拟飞行",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.582568",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8168bf79-5f8": {
+      "uuid": "8168bf79-5f8",
+      "name": "REPORTED_BY",
+      "fact": "模拟航线数据由FBI报告。",
+      "source_node_uuid": "746323e4-480",
+      "target_node_uuid": "e32f0278-ac9",
+      "source_node_name": "模拟航线数据",
+      "target_node_name": "FBI",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.587565",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d0370d94-612": {
+      "uuid": "d0370d94-612",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370航班的实际飞行路径由模拟航线数据支持。",
+      "source_node_uuid": "cca1745d-83a",
+      "target_node_uuid": "746323e4-480",
+      "source_node_name": "MH370航班",
+      "target_node_name": "模拟航线数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.593561",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2e8cf2f0-5e7": {
+      "uuid": "2e8cf2f0-5e7",
+      "name": "LOCATED_AT",
+      "fact": "MH370航班起飞事件发生在吉隆坡国际机场。",
+      "source_node_uuid": "cca1745d-83a",
+      "target_node_uuid": "a1fffed1-4f9",
+      "source_node_name": "MH370航班",
+      "target_node_name": "吉隆坡国际机场",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.599558",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "dcdccd96-411": {
+      "uuid": "dcdccd96-411",
+      "name": "PARTICIPATED_IN",
+      "fact": "副驾驶法里克参与了MH370航班。",
+      "source_node_uuid": "52a97533-7af",
+      "target_node_uuid": "cca1745d-83a",
+      "source_node_name": "副驾驶法里克",
+      "target_node_name": "MH370航班",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:10:13.604554",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c2b010cd-0ae": {
+      "uuid": "c2b010cd-0ae",
+      "name": "LOCATED_AT",
+      "fact": "MH370 Flight took off from Kuala Lumpur International Airport.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "dc006c3b-ab0",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "Kuala Lumpur International Airport",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.322471",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "512b9507-0cf": {
+      "uuid": "512b9507-0cf",
+      "name": "PARTICIPATED_IN",
+      "fact": "Co-pilot Fariq participated in the final radio communication event.",
+      "source_node_uuid": "6d710bf3-f3f",
+      "target_node_uuid": "befe815d-c02",
+      "source_node_name": "Final Radio Communication",
+      "target_node_name": "Co-pilot Fariq",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.328465",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "278fa8d0-a22": {
+      "uuid": "278fa8d0-a22",
+      "name": "REPORTED_BY",
+      "fact": "Final radio communication was reported by Kuala Lumpur ATC.",
+      "source_node_uuid": "6d710bf3-f3f",
+      "target_node_uuid": "999c8b10-265",
+      "source_node_name": "Final Radio Communication",
+      "target_node_name": "Kuala Lumpur ATC",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.335460",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d6898302-e66": {
+      "uuid": "d6898302-e66",
+      "name": "SUPPORTED_BY",
+      "fact": "MH370 Flight's normal status at 01:07 MYT is supported by ACARS Report evidence.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "bbe0c06d-d71",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "ACARS Report",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.342455",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d653d5b9-f15": {
+      "uuid": "d653d5b9-f15",
+      "name": "LOCATED_AT",
+      "fact": "Transponder Disabling event occurred at IGARI Waypoint.",
+      "source_node_uuid": "27f2c4be-664",
+      "target_node_uuid": "9dd7d23c-77b",
+      "source_node_name": "Transponder Disabling",
+      "target_node_name": "IGARI Waypoint",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.348452",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f8f54d67-63c": {
+      "uuid": "f8f54d67-63c",
+      "name": "TRIGGERED_BY",
+      "fact": "Transponder Disabling event was triggered by MH370 Flight's cockpit operation.",
+      "source_node_uuid": "27f2c4be-664",
+      "target_node_uuid": "5f3c1325-8fa",
+      "source_node_name": "Transponder Disabling",
+      "target_node_name": "MH370 Flight",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.355448",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "de824d84-32d": {
+      "uuid": "de824d84-32d",
+      "name": "PRECEDED_BY",
+      "fact": "Final Radio Communication event preceded the Transponder Disabling event.",
+      "source_node_uuid": "6d710bf3-f3f",
+      "target_node_uuid": "27f2c4be-664",
+      "source_node_name": "Final Radio Communication",
+      "target_node_name": "Transponder Disabling",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.8"
+      },
+      "created_at": "2026-03-10T21:11:02.362443",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0a65eaea-f56": {
+      "uuid": "0a65eaea-f56",
+      "name": "SUPPORTED_BY",
+      "fact": "The manual shutdown of the transponder is supported by evidence from investigation findings.",
+      "source_node_uuid": "06a8791d-e38",
+      "target_node_uuid": "7e9f4e33-ed6",
+      "source_node_name": "Transponder Manual Shutdown",
+      "target_node_name": "Investigation Findings",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.755712",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bbfda7a1-c49": {
+      "uuid": "bbfda7a1-c49",
+      "name": "CAUSED_BY",
+      "fact": "The failure of ACARS to send a report was caused by the cutting off of the main power bus.",
+      "source_node_uuid": "f628a7fc-cff",
+      "target_node_uuid": "edabee4c-3c8",
+      "source_node_name": "ACARS Report Failure",
+      "target_node_name": "Main Power Bus Cutoff",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.769702",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3cf58c16-052": {
+      "uuid": "3cf58c16-052",
+      "name": "SUPPORTED_BY",
+      "fact": "The event of main power bus cutoff is supported by analysis evidence of ACARS failure.",
+      "source_node_uuid": "edabee4c-3c8",
+      "target_node_uuid": "3f7ce820-e28",
+      "source_node_name": "Main Power Bus Cutoff",
+      "target_node_name": "ACARS Analysis",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.779695",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "92cfaa46-639": {
+      "uuid": "92cfaa46-639",
+      "name": "LOCATED_AT",
+      "fact": "The sharp turn of the aircraft occurred at the IGARI waypoint location.",
+      "source_node_uuid": "1f758761-ed5",
+      "target_node_uuid": "9dd7d23c-77b",
+      "source_node_name": "Aircraft Sharp Turn",
+      "target_node_name": "IGARI Waypoint",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.787689",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "37134c45-b9d": {
+      "uuid": "37134c45-b9d",
+      "name": "SUPPORTED_BY",
+      "fact": "The occurrence of the aircraft sharp turn is supported by military radar data evidence.",
+      "source_node_uuid": "1f758761-ed5",
+      "target_node_uuid": "f6940684-a4a",
+      "source_node_name": "Aircraft Sharp Turn",
+      "target_node_name": "Military Radar Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.796684",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ae9e5845-b8a": {
+      "uuid": "ae9e5845-b8a",
+      "name": "SUPPORTED_BY",
+      "fact": "The altitude fluctuations of the aircraft are supported by military radar data evidence.",
+      "source_node_uuid": "c30779a2-ed4",
+      "target_node_uuid": "f6940684-a4a",
+      "source_node_name": "Altitude Fluctuation",
+      "target_node_name": "Military Radar Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.805681",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8ab03142-08d": {
+      "uuid": "8ab03142-08d",
+      "name": "LOCATED_AT",
+      "fact": "The disappearance of the aircraft occurred at the Andaman Sea location.",
+      "source_node_uuid": "a765caf1-e04",
+      "target_node_uuid": "92a13f1a-51a",
+      "source_node_name": "Aircraft Disappearance",
+      "target_node_name": "Andaman Sea",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.813673",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1f351f18-55c": {
+      "uuid": "1f351f18-55c",
+      "name": "REPORTED_BY",
+      "fact": "The military radar data evidence was reported by the Royal Malaysian Air Force organization.",
+      "source_node_uuid": "f6940684-a4a",
+      "target_node_uuid": "ffccdde9-fcc",
+      "source_node_name": "Military Radar Data",
+      "target_node_name": "Royal Malaysian Air Force",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.822669",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "933d8c9f-b76": {
+      "uuid": "933d8c9f-b76",
+      "name": "PRECEDED_BY",
+      "fact": "The ACARS report failure event occurred after the ADS-B signal loss event, based on timestamps.",
+      "source_node_uuid": "f628a7fc-cff",
+      "target_node_uuid": "70470d21-43e",
+      "source_node_name": "ACARS Report Failure",
+      "target_node_name": "ADS-B Signal Loss",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.830662",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "641daca7-6f6": {
+      "uuid": "641daca7-6f6",
+      "name": "PRECEDED_BY",
+      "fact": "The aircraft disappearance event occurred after the aircraft sharp turn event, based on timestamps.",
+      "source_node_uuid": "a765caf1-e04",
+      "target_node_uuid": "1f758761-ed5",
+      "source_node_name": "Aircraft Disappearance",
+      "target_node_name": "Aircraft Sharp Turn",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:14:23.839658",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "dfb75310-a28": {
+      "uuid": "dfb75310-a28",
+      "name": "TRIGGERED_BY",
+      "fact": "SDU重启事件由APU恢复供电触发。",
+      "source_node_uuid": "660823f6-7f6",
+      "target_node_uuid": "3d69056d-5b6",
+      "source_node_name": "SDU重启事件",
+      "target_node_name": "APU",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.788885",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4a1200fb-73e": {
+      "uuid": "4a1200fb-73e",
+      "name": "TRIGGERED_BY",
+      "fact": "SDU重启事件由主发动机恢复供电触发。",
+      "source_node_uuid": "660823f6-7f6",
+      "target_node_uuid": "e093fd8c-25b",
+      "source_node_name": "SDU重启事件",
+      "target_node_name": "主发动机",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.797879",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "52e1c8bc-476": {
+      "uuid": "52e1c8bc-476",
+      "name": "DERIVED_FROM",
+      "fact": "卫星握手信号阶段的数据源自Inmarsat-3 F1卫星记录。",
+      "source_node_uuid": "6bc70ceb-9b5",
+      "target_node_uuid": "ebe6fd30-116",
+      "source_node_name": "卫星握手信号阶段",
+      "target_node_name": "Inmarsat-3 F1卫星数据",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.807874",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d6bf7f8f-130": {
+      "uuid": "d6bf7f8f-130",
+      "name": "OWNED_BY",
+      "fact": "Inmarsat-3 F1卫星数据由Inmarsat组织所有。",
+      "source_node_uuid": "ebe6fd30-116",
+      "target_node_uuid": "1dabb41c-1c6",
+      "source_node_name": "Inmarsat-3 F1卫星数据",
+      "target_node_name": "Inmarsat",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.816867",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bca3d2a0-1e8": {
+      "uuid": "bca3d2a0-1e8",
+      "name": "OWNED_BY",
+      "fact": "Inmarsat SDU由MH370航班所有。",
+      "source_node_uuid": "9b4b087b-4e3",
+      "target_node_uuid": "a4d78ccc-860",
+      "source_node_name": "Inmarsat SDU",
+      "target_node_name": "MH370",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.825862",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cb59ebe2-95e": {
+      "uuid": "cb59ebe2-95e",
+      "name": "LOCATED_AT",
+      "fact": "卫星握手信号阶段发生在印度洋上空的卫星轨道位置。",
+      "source_node_uuid": "6bc70ceb-9b5",
+      "target_node_uuid": "933d8825-e4d",
+      "source_node_name": "卫星握手信号阶段",
+      "target_node_name": "印度洋上空",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.835856",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b66be97c-5c0": {
+      "uuid": "b66be97c-5c0",
+      "name": "PRECEDED_BY",
+      "fact": "卫星握手信号阶段在SDU重启事件后开始。",
+      "source_node_uuid": "660823f6-7f6",
+      "target_node_uuid": "6bc70ceb-9b5",
+      "source_node_name": "SDU重启事件",
+      "target_node_name": "卫星握手信号阶段",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:15:17.844850",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2f61bdf8-95b": {
+      "uuid": "2f61bdf8-95b",
+      "name": "SUPPORTED_BY",
+      "fact": "The Seventh Arc location is supported by BTO data from the sixth handshake signal.",
+      "source_node_uuid": "9a1767c4-5c2",
+      "target_node_uuid": "1f78ad2a-bfb",
+      "source_node_name": "Seventh Arc",
+      "target_node_name": "BTO Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.670763",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "d1e0ec00-3e0": {
+      "uuid": "d1e0ec00-3e0",
+      "name": "TRIGGERED_BY",
+      "fact": "The abnormal handshake request event was triggered by the fuel exhaustion condition.",
+      "source_node_uuid": "f87beeaa-2ca",
+      "target_node_uuid": "9c001388-80a",
+      "source_node_name": "Abnormal Handshake Request",
+      "target_node_name": "Fuel Exhaustion",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.680758",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7553de8b-1ad": {
+      "uuid": "7553de8b-1ad",
+      "name": "TRIGGERED_BY",
+      "fact": "The APU brief start event was triggered by the fuel exhaustion condition.",
+      "source_node_uuid": "965acdca-0b7",
+      "target_node_uuid": "9c001388-80a",
+      "source_node_name": "APU Brief Start",
+      "target_node_name": "Fuel Exhaustion",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.693764",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "70bee85e-ffe": {
+      "uuid": "70bee85e-ffe",
+      "name": "TRIGGERED_BY",
+      "fact": "The SDU power on event was triggered by the APU brief start event.",
+      "source_node_uuid": "4bf8a68c-7b6",
+      "target_node_uuid": "965acdca-0b7",
+      "source_node_name": "SDU Power On",
+      "target_node_name": "APU Brief Start",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.703758",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "954aeada-7c8": {
+      "uuid": "954aeada-7c8",
+      "name": "SUPPORTED_BY",
+      "fact": "The high-speed descent condition is supported by BFO data from the abnormal handshake request.",
+      "source_node_uuid": "e85136fa-a11",
+      "target_node_uuid": "85f1736f-705",
+      "source_node_name": "High-Speed Descent",
+      "target_node_name": "BFO Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.713752",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "af65f34d-b14": {
+      "uuid": "af65f34d-b14",
+      "name": "PARTICIPATED_IN",
+      "fact": "Kuala Lumpur ATC participated in the air traffic control failure event by not confirming the handover completion.",
+      "source_node_uuid": "999c8b10-265",
+      "target_node_uuid": "ee168859-2d1",
+      "source_node_name": "Kuala Lumpur ATC",
+      "target_node_name": "Air Traffic Control Failure",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:18:39.724745",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a298d10f-d14": {
+      "uuid": "a298d10f-d14",
+      "name": "PRECEDED_BY",
+      "fact": "The failure to activate emergency procedures occurred after the handover failure.",
+      "source_node_uuid": "095cf426-efa",
+      "target_node_uuid": "26cb483d-c71",
+      "source_node_name": "Emergency Not Activated",
+      "target_node_name": "Handover Failure",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.535551",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "686009af-ec0": {
+      "uuid": "686009af-ec0",
+      "name": "PRECEDED_BY",
+      "fact": "The ACARS contact attempt occurred after the failure to activate emergency procedures.",
+      "source_node_uuid": "a5baf727-111",
+      "target_node_uuid": "095cf426-efa",
+      "source_node_name": "ACARS Contact Attempt",
+      "target_node_name": "Emergency Not Activated",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.547544",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0d5169b4-c27": {
+      "uuid": "0d5169b4-c27",
+      "name": "PRECEDED_BY",
+      "fact": "The notification of no contact occurred after the ACARS contact attempt.",
+      "source_node_uuid": "f6b4c97f-916",
+      "target_node_uuid": "a5baf727-111",
+      "source_node_name": "Notification of No Contact",
+      "target_node_name": "ACARS Contact Attempt",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.558536",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "38fb5d73-a72": {
+      "uuid": "38fb5d73-a72",
+      "name": "PRECEDED_BY",
+      "fact": "The disappearance announcement occurred after the notification of no contact.",
+      "source_node_uuid": "52ef1013-7a8",
+      "target_node_uuid": "f6b4c97f-916",
+      "source_node_name": "Disappearance Announcement",
+      "target_node_name": "Notification of No Contact",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.570528",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7849564e-29f": {
+      "uuid": "7849564e-29f",
+      "name": "PRECEDED_BY",
+      "fact": "The search operation launch occurred after the disappearance announcement.",
+      "source_node_uuid": "c90e59a6-161",
+      "target_node_uuid": "52ef1013-7a8",
+      "source_node_name": "Search Operation Launch",
+      "target_node_name": "Disappearance Announcement",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.582521",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a9074c68-73d": {
+      "uuid": "a9074c68-73d",
+      "name": "PARTICIPATED_IN",
+      "fact": "Kuala Lumpur ATC participated in the handover failure event.",
+      "source_node_uuid": "999c8b10-265",
+      "target_node_uuid": "26cb483d-c71",
+      "source_node_name": "Kuala Lumpur ATC",
+      "target_node_name": "Handover Failure",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.593514",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7ca7691a-fd2": {
+      "uuid": "7ca7691a-fd2",
+      "name": "PARTICIPATED_IN",
+      "fact": "Ho Chi Minh ATC participated in the failure to activate emergency procedures.",
+      "source_node_uuid": "64796ff6-37f",
+      "target_node_uuid": "095cf426-efa",
+      "source_node_name": "Ho Chi Minh ATC",
+      "target_node_name": "Emergency Not Activated",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.605507",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f101b5b5-90f": {
+      "uuid": "f101b5b5-90f",
+      "name": "PARTICIPATED_IN",
+      "fact": "Malaysia Airlines Operations Center participated in the ACARS contact attempt event.",
+      "source_node_uuid": "02f0b9c3-819",
+      "target_node_uuid": "a5baf727-111",
+      "source_node_name": "Malaysia Airlines Operations Center",
+      "target_node_name": "ACARS Contact Attempt",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.617499",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "650c9afd-e5f": {
+      "uuid": "650c9afd-e5f",
+      "name": "PARTICIPATED_IN",
+      "fact": "Ho Chi Minh ATC participated in the notification of no contact event.",
+      "source_node_uuid": "64796ff6-37f",
+      "target_node_uuid": "f6b4c97f-916",
+      "source_node_name": "Ho Chi Minh ATC",
+      "target_node_name": "Notification of No Contact",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.629492",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bf7ca283-b07": {
+      "uuid": "bf7ca283-b07",
+      "name": "PARTICIPATED_IN",
+      "fact": "Malaysia Airlines participated in the disappearance announcement event.",
+      "source_node_uuid": "5b5af923-0f5",
+      "target_node_uuid": "52ef1013-7a8",
+      "source_node_name": "Malaysia Airlines",
+      "target_node_name": "Disappearance Announcement",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.641484",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ade4b848-cc1": {
+      "uuid": "ade4b848-cc1",
+      "name": "CONTRADICTED_BY",
+      "fact": "The search delay was contradicted by the 2018 final investigation report as it criticized the delay.",
+      "source_node_uuid": "2c2340ce-50b",
+      "target_node_uuid": "e6a3ace8-6e1",
+      "source_node_name": "Search Delay",
+      "target_node_name": "2018 Final Report",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:22:33.656475",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "630f55e1-19c": {
+      "uuid": "630f55e1-19c",
+      "name": "SUPPORTED_BY",
+      "fact": "The condition of aircraft flying south is supported by BFO data starting from the second handshake.",
+      "source_node_uuid": "c197b146-47c",
+      "target_node_uuid": "31ce262f-4f6",
+      "source_node_name": "Aircraft Flying South",
+      "target_node_name": "BFO",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.093549",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "5647be02-ff5": {
+      "uuid": "5647be02-ff5",
+      "name": "CONTRADICTED_BY",
+      "fact": "The possibility of the northern route is contradicted by BFO data indicating southward flight.",
+      "source_node_uuid": "78b1b104-c10",
+      "target_node_uuid": "31ce262f-4f6",
+      "source_node_name": "Northern Route",
+      "target_node_name": "BFO",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.113537",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "de923146-76f": {
+      "uuid": "de923146-76f",
+      "name": "LOCATED_AT",
+      "fact": "The last normal handshake event occurred at the seventh arc location.",
+      "source_node_uuid": "30261f9f-c10",
+      "target_node_uuid": "9a1767c4-5c2",
+      "source_node_name": "Last Normal Handshake",
+      "target_node_name": "Seventh Arc",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.138520",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "825b92f9-c4d": {
+      "uuid": "825b92f9-c4d",
+      "name": "SUPPORTED_BY",
+      "fact": "The determination of the crash area is supported by BFO data.",
+      "source_node_uuid": "0f2fd043-348",
+      "target_node_uuid": "31ce262f-4f6",
+      "source_node_name": "Crash Area",
+      "target_node_name": "BFO",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.163505",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "2b5a59fa-3a0": {
+      "uuid": "2b5a59fa-3a0",
+      "name": "SUPPORTED_BY",
+      "fact": "The determination of the crash area is supported by aircraft performance parameters.",
+      "source_node_uuid": "0f2fd043-348",
+      "target_node_uuid": "6e90e957-402",
+      "source_node_name": "Crash Area",
+      "target_node_name": "Aircraft Performance Parameters",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.187491",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ba74cd38-143": {
+      "uuid": "ba74cd38-143",
+      "name": "SUPPORTED_BY",
+      "fact": "The determination of the crash area is supported by wind field data.",
+      "source_node_uuid": "0f2fd043-348",
+      "target_node_uuid": "88e365b0-987",
+      "source_node_name": "Crash Area",
+      "target_node_name": "Wind Field Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.210475",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8ce43a40-fcc": {
+      "uuid": "8ce43a40-fcc",
+      "name": "SUPPORTED_BY",
+      "fact": "The descent rate condition is supported by the BFO value of -2 Hz from the 08:19 abnormal signal.",
+      "source_node_uuid": "a182e25f-674",
+      "target_node_uuid": "2e9f7c25-bb1",
+      "source_node_name": "Descent Rate",
+      "target_node_name": "08:19 Abnormal Signal",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.232462",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "25363b61-504": {
+      "uuid": "25363b61-504",
+      "name": "TRIGGERED_BY",
+      "fact": "The uncontrolled descent event was triggered by fuel exhaustion.",
+      "source_node_uuid": "66ed4364-b2f",
+      "target_node_uuid": "9c001388-80a",
+      "source_node_name": "Uncontrolled Descent",
+      "target_node_name": "Fuel Exhaustion",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.254447",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3e4cccd6-210": {
+      "uuid": "3e4cccd6-210",
+      "name": "SUPPORTED_BY",
+      "fact": "The flight path reconstruction is based on satellite data including BFO.",
+      "source_node_uuid": "e978c5d6-4cf",
+      "target_node_uuid": "31ce262f-4f6",
+      "source_node_name": "Flight Path Reconstruction",
+      "target_node_name": "BFO",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.275434",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4534d22b-6e0": {
+      "uuid": "4534d22b-6e0",
+      "name": "PARTICIPATED_IN",
+      "fact": "Investigators participated in reconstructing the flight path.",
+      "source_node_uuid": "855c1ea6-3dd",
+      "target_node_uuid": "e978c5d6-4cf",
+      "source_node_name": "Investigators",
+      "target_node_name": "Flight Path Reconstruction",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.295422",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "1ccb3558-59e": {
+      "uuid": "1ccb3558-59e",
+      "name": "PRECEDED_BY",
+      "fact": "The northwest flight to Andaman Sea is preceded by loss of radar contact at 02:22.",
+      "source_node_uuid": "167c2abc-e00",
+      "target_node_uuid": "b4f029e2-b6a",
+      "source_node_name": "Northwest Flight",
+      "target_node_name": "02:22 Radar Loss",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.364378",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4132bda3-ab7": {
+      "uuid": "4132bda3-ab7",
+      "name": "LOCATED_AT",
+      "fact": "The northwest flight event occurred over the Andaman Sea.",
+      "source_node_uuid": "167c2abc-e00",
+      "target_node_uuid": "92a13f1a-51a",
+      "source_node_name": "Northwest Flight",
+      "target_node_name": "Andaman Sea",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.389363",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "45c5fbe2-dac": {
+      "uuid": "45c5fbe2-dac",
+      "name": "PRECEDED_BY",
+      "fact": "The turn to southern heading is preceded by or occurs around the SDU reboot at 02:25.",
+      "source_node_uuid": "d3b844a9-8d9",
+      "target_node_uuid": "28182441-3b3",
+      "source_node_name": "Turn to South",
+      "target_node_name": "02:25 SDU Reboot",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.409350",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "89ed65aa-9cb": {
+      "uuid": "89ed65aa-9cb",
+      "name": "LOCATED_AT",
+      "fact": "The flight across the Indian Ocean occurred in the Indian Ocean region.",
+      "source_node_uuid": "37a29497-901",
+      "target_node_uuid": "8248c026-255",
+      "source_node_name": "Flight Across Indian Ocean",
+      "target_node_name": "Indian Ocean",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:25:39.452323",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0a95f71b-b64": {
+      "uuid": "0a95f71b-b64",
+      "name": "TRIGGERED_BY",
+      "fact": "The end of MH370 Flight was triggered by fuel exhaustion.",
+      "source_node_uuid": "5f3c1325-8fa",
+      "target_node_uuid": "9c001388-80a",
+      "source_node_name": "MH370 Flight",
+      "target_node_name": "Fuel Exhaustion",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:27:48.928362",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "cf69ace3-675": {
+      "uuid": "cf69ace3-675",
+      "name": "PRECEDED_BY",
+      "fact": "The second stage search was preceded by the analysis of Inmarsat satellite data.",
+      "source_node_uuid": "8369a3a0-1ca",
+      "target_node_uuid": "7c931936-82b",
+      "source_node_name": "Second Stage Search",
+      "target_node_name": "Inmarsat Data Analysis",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:48.943351",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "da04e2b2-61e": {
+      "uuid": "da04e2b2-61e",
+      "name": "PARTICIPATED_IN",
+      "fact": "AMSA participated in the second stage search as the leading organization.",
+      "source_node_uuid": "65b78d9b-9d7",
+      "target_node_uuid": "8369a3a0-1ca",
+      "source_node_name": "AMSA",
+      "target_node_name": "Second Stage Search",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:48.958341",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "91ab0574-042": {
+      "uuid": "91ab0574-042",
+      "name": "PARTICIPATED_IN",
+      "fact": "Chinese Navy Task Force participated in the second stage search.",
+      "source_node_uuid": "4f4ba80d-412",
+      "target_node_uuid": "8369a3a0-1ca",
+      "source_node_name": "Chinese Navy Task Force",
+      "target_node_name": "Second Stage Search",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:48.973332",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "44ccdc52-506": {
+      "uuid": "44ccdc52-506",
+      "name": "LOCATED_AT",
+      "fact": "The first stage search was located at the South China Sea IGARI Waypoint.",
+      "source_node_uuid": "45a28f6a-130",
+      "target_node_uuid": "bb0a6761-865",
+      "source_node_name": "First Stage Search",
+      "target_node_name": "South China Sea IGARI Waypoint",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:48.991322",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "90b4d286-298": {
+      "uuid": "90b4d286-298",
+      "name": "LOCATED_AT",
+      "fact": "The first stage search extended to the Strait of Malacca.",
+      "source_node_uuid": "45a28f6a-130",
+      "target_node_uuid": "40cb6db7-496",
+      "source_node_name": "First Stage Search",
+      "target_node_name": "Strait of Malacca",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:49.008310",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "56b3d245-513": {
+      "uuid": "56b3d245-513",
+      "name": "LOCATED_AT",
+      "fact": "The second stage search was located in the southern Indian Ocean.",
+      "source_node_uuid": "8369a3a0-1ca",
+      "target_node_uuid": "929f074e-6da",
+      "source_node_name": "Second Stage Search",
+      "target_node_name": "Southern Indian Ocean",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:49.023301",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7a859ef2-a85": {
+      "uuid": "7a859ef2-a85",
+      "name": "SUPPORTED_BY",
+      "fact": "The analysis of flight path was supported by Inmarsat satellite data.",
+      "source_node_uuid": "7c931936-82b",
+      "target_node_uuid": "6a6f7b54-31f",
+      "source_node_name": "Inmarsat Data Analysis",
+      "target_node_name": "Inmarsat Satellite Data",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": null
+      },
+      "created_at": "2026-03-10T21:27:49.041410",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0687b827-7da": {
+      "uuid": "0687b827-7da",
+      "name": "PARTICIPATED_IN",
+      "fact": "澳大利亚交通安全局主导了海底搜索行动。",
+      "source_node_uuid": "669746f4-255",
+      "target_node_uuid": "77d10c06-f0d",
+      "source_node_name": "ATSB",
+      "target_node_name": "海底搜索行动",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.434196",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "fabba77c-369": {
+      "uuid": "fabba77c-369",
+      "name": "LOCATED_AT",
+      "fact": "海底搜索行动发生在南印度洋第七弧线附近。",
+      "source_node_uuid": "77d10c06-f0d",
+      "target_node_uuid": "38980bf8-fdd",
+      "source_node_name": "海底搜索行动",
+      "target_node_name": "南印度洋第七弧线",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.450186",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ad87c505-6d8": {
+      "uuid": "ad87c505-6d8",
+      "name": "SUPPORTED_BY",
+      "fact": "19世纪沉船残骸是在海底搜索行动中被发现并作为证据。",
+      "source_node_uuid": "36ab8089-617",
+      "target_node_uuid": "77d10c06-f0d",
+      "source_node_name": "19世纪沉船残骸",
+      "target_node_name": "海底搜索行动",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.466176",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "aa145a6e-e51": {
+      "uuid": "aa145a6e-e51",
+      "name": "PARTICIPATED_IN",
+      "fact": "Ocean Infinity公司执行了Ocean Infinity搜索行动。",
+      "source_node_uuid": "cddef0f1-84f",
+      "target_node_uuid": "2c9196ea-437",
+      "source_node_name": "Ocean Infinity",
+      "target_node_name": "Ocean Infinity搜索行动",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.483165",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "248cfbfd-d30": {
+      "uuid": "248cfbfd-d30",
+      "name": "PARTICIPATED_IN",
+      "fact": "马来西亚政府与Ocean Infinity签订协议并参与了Ocean Infinity搜索行动。",
+      "source_node_uuid": "c4b2bdb1-6c9",
+      "target_node_uuid": "2c9196ea-437",
+      "source_node_name": "马来西亚政府",
+      "target_node_name": "Ocean Infinity搜索行动",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.499155",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ff1847f6-87e": {
+      "uuid": "ff1847f6-87e",
+      "name": "LOCATED_AT",
+      "fact": "Ocean Infinity搜索行动发生在官方搜索区域以北的位置。",
+      "source_node_uuid": "2c9196ea-437",
+      "target_node_uuid": "f2951080-b94",
+      "source_node_name": "Ocean Infinity搜索行动",
+      "target_node_name": "官方搜索区域以北",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:28:49.517144",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "7f247e82-f55": {
+      "uuid": "7f247e82-f55",
+      "name": "LOCATED_AT",
+      "fact": "襟副翼发现事件发生在留尼汪岛的地理位置",
+      "source_node_uuid": "f00153d4-c68",
+      "target_node_uuid": "0cc745ff-9cb",
+      "source_node_name": "襟副翼发现事件",
+      "target_node_name": "留尼汪岛",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.213767",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "236929d8-e52": {
+      "uuid": "236929d8-e52",
+      "name": "LOCATED_AT",
+      "fact": "外侧襟翼发现事件发生在奔巴岛的地理位置",
+      "source_node_uuid": "8340b486-8df",
+      "target_node_uuid": "7688c934-470",
+      "source_node_name": "外侧襟翼发现事件",
+      "target_node_name": "奔巴岛",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.235754",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "dbc3709d-65b": {
+      "uuid": "dbc3709d-65b",
+      "name": "REPORTED_BY",
+      "fact": "襟副翼残骸的确认状态由BEA组织报告",
+      "source_node_uuid": "36d71e29-e7d",
+      "target_node_uuid": "0e92b659-6e3",
+      "source_node_name": "襟副翼",
+      "target_node_name": "BEA",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.261740",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "888084b8-436": {
+      "uuid": "888084b8-436",
+      "name": "REPORTED_BY",
+      "fact": "襟副翼残骸的确认状态由波音公司组织报告",
+      "source_node_uuid": "36d71e29-e7d",
+      "target_node_uuid": "80ba693b-e09",
+      "source_node_name": "襟副翼",
+      "target_node_name": "波音公司",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.283079",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e2789a9a-429": {
+      "uuid": "e2789a9a-429",
+      "name": "SUPPORTED_BY",
+      "fact": "襟副翼残骸的发现支持了MH370坠入印度洋的结论，因为它是第一个物理证据",
+      "source_node_uuid": "36d71e29-e7d",
+      "target_node_uuid": "180552ec-4b3",
+      "source_node_name": "襟副翼",
+      "target_node_name": "MH370坠入印度洋结论",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.322055",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "c82a5100-817": {
+      "uuid": "c82a5100-817",
+      "name": "CAUSED_BY",
+      "fact": "襟副翼残骸的后缘锯齿状撕裂是由水面撞击事件引起的",
+      "source_node_uuid": "36d71e29-e7d",
+      "target_node_uuid": "be4deb1a-761",
+      "source_node_name": "襟副翼",
+      "target_node_name": "水面撞击",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.362030",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "937847a9-c23": {
+      "uuid": "937847a9-c23",
+      "name": "DERIVED_FROM",
+      "fact": "襟副翼残骸的漂流时间推算数据是从藤壶生长模式证据中推导出来的",
+      "source_node_uuid": "a8443c5f-978",
+      "target_node_uuid": "f9f1b4c5-521",
+      "source_node_name": "漂流时间推算",
+      "target_node_name": "藤壶生长模式",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.416995",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3a57b7a6-5ff": {
+      "uuid": "3a57b7a6-5ff",
+      "name": "CONTRADICTED_BY",
+      "fact": "机长控制水上迫降假说被外侧襟翼残骸的收起状态证据所矛盾，因为如果是有控制迫降，襟翼应处于放下状态",
+      "source_node_uuid": "67c17514-fbf",
+      "target_node_uuid": "d61bf4a1-bb2",
+      "source_node_name": "机长控制水上迫降假说",
+      "target_node_name": "外侧襟翼",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:33:15.452972",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "e8033a18-f33": {
+      "uuid": "e8033a18-f33",
+      "name": "LOCATED_AT",
+      "fact": "水平安定面碎片被发现于莫桑比克维兰库洛海滩。",
+      "source_node_uuid": "4a5736a7-bdb",
+      "target_node_uuid": "4da71313-012",
+      "source_node_name": "HorizontalStabilizerDebris",
+      "target_node_name": "VilankuloBeach",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.441490",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f70ec566-cd5": {
+      "uuid": "f70ec566-cd5",
+      "name": "LOCATED_AT",
+      "fact": "发动机整流罩碎片被发现于南非。",
+      "source_node_uuid": "2c1304f8-390",
+      "target_node_uuid": "88537f94-b33",
+      "source_node_name": "EngineCowlingDebris",
+      "target_node_name": "SouthAfrica",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.460478",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0cde387e-2eb": {
+      "uuid": "0cde387e-2eb",
+      "name": "LOCATED_AT",
+      "fact": "内饰面板碎片被发现于毛里求斯。",
+      "source_node_uuid": "3dff1a57-364",
+      "target_node_uuid": "476ff914-bdf",
+      "source_node_name": "InteriorPanelDebris",
+      "target_node_name": "Mauritius",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.479466",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "bba277be-464": {
+      "uuid": "bba277be-464",
+      "name": "LOCATED_AT",
+      "fact": "左起落架耳轴门部件被发现于马达加斯加海岸。",
+      "source_node_uuid": "c51bb681-0ee",
+      "target_node_uuid": "7ec70848-432",
+      "source_node_name": "LeftLandingGearTrunnionDoorDebris",
+      "target_node_name": "MadagascarCoast",
+      "attributes": {
+        "confidence": "0.9",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.498454",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a1f592e6-5d6": {
+      "uuid": "a1f592e6-5d6",
+      "name": "SUPPORTED_BY",
+      "fact": "起落架放下状态被左起落架耳轴门部件的状态支持。",
+      "source_node_uuid": "ec8b2b1f-aae",
+      "target_node_uuid": "c51bb681-0ee",
+      "source_node_name": "LandingGearDown",
+      "target_node_name": "LeftLandingGearTrunnionDoorDebris",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.526438",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "24f83c82-2f6": {
+      "uuid": "24f83c82-2f6",
+      "name": "CONTRADICTED_BY",
+      "fact": "起落架放下状态被襟翼收起状态矛盾，因为正常情况下两者不会同时出现。",
+      "source_node_uuid": "ec8b2b1f-aae",
+      "target_node_uuid": "67b25387-003",
+      "source_node_name": "LandingGearDown",
+      "target_node_name": "FlapsRetracted",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.553419",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "f0713a1f-968": {
+      "uuid": "f0713a1f-968",
+      "name": "CAUSED_BY",
+      "fact": "结构性解体被起落架放下状态与襟翼收起状态的矛盾暗示。",
+      "source_node_uuid": "67e4bf8c-a18",
+      "target_node_uuid": "ec8b2b1f-aae",
+      "source_node_name": "StructuralBreakup",
+      "target_node_name": "LandingGearDown",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.6"
+      },
+      "created_at": "2026-03-10T21:35:17.575405",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b91aafd8-f5a": {
+      "uuid": "b91aafd8-f5a",
+      "name": "OWNED_BY",
+      "fact": "水平安定面碎片属于MH370航班。",
+      "source_node_uuid": "4a5736a7-bdb",
+      "target_node_uuid": "a61c0cff-332",
+      "source_node_name": "HorizontalStabilizerDebris",
+      "target_node_name": "MH370Flight",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.594393",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "713eac4f-5c5": {
+      "uuid": "713eac4f-5c5",
+      "name": "OWNED_BY",
+      "fact": "发动机整流罩碎片属于MH370航班。",
+      "source_node_uuid": "2c1304f8-390",
+      "target_node_uuid": "a61c0cff-332",
+      "source_node_name": "EngineCowlingDebris",
+      "target_node_name": "MH370Flight",
+      "attributes": {
+        "confidence": "0.7",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.613381",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "b128d0e5-df2": {
+      "uuid": "b128d0e5-df2",
+      "name": "OWNED_BY",
+      "fact": "内饰面板碎片属于MH370航班。",
+      "source_node_uuid": "3dff1a57-364",
+      "target_node_uuid": "a61c0cff-332",
+      "source_node_name": "InteriorPanelDebris",
+      "target_node_name": "MH370Flight",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.632369",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "019afe1a-f0c": {
+      "uuid": "019afe1a-f0c",
+      "name": "OWNED_BY",
+      "fact": "左起落架耳轴门部件属于MH370航班。",
+      "source_node_uuid": "c51bb681-0ee",
+      "target_node_uuid": "a61c0cff-332",
+      "source_node_name": "LeftLandingGearTrunnionDoorDebris",
+      "target_node_name": "MH370Flight",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.0"
+      },
+      "created_at": "2026-03-10T21:35:17.655356",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "ae29bf74-d46": {
+      "uuid": "ae29bf74-d46",
+      "name": "SUPPORTED_BY",
+      "fact": "The distribution pattern of MH370 debris is supported by the South Equatorial Current.",
+      "source_node_uuid": "e86c0050-42f",
+      "target_node_uuid": "6174e507-ac4",
+      "source_node_name": "MH370 Debris",
+      "target_node_name": "South Equatorial Current",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:18.953808",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "205b2cf2-af3": {
+      "uuid": "205b2cf2-af3",
+      "name": "PARTICIPATED_IN",
+      "fact": "CSIRO participated in conducting the drift model analysis.",
+      "source_node_uuid": "c544c5b4-6a9",
+      "target_node_uuid": "7184b902-7e3",
+      "source_node_name": "CSIRO",
+      "target_node_name": "Drift Model Analysis",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:18.975795",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "6e8e0ad5-c8f": {
+      "uuid": "6e8e0ad5-c8f",
+      "name": "SUPPORTED_BY",
+      "fact": "The MH370 crash hypothesis is supported by the drift model analysis.",
+      "source_node_uuid": "5603efe3-5e9",
+      "target_node_uuid": "7184b902-7e3",
+      "source_node_name": "MH370 Crash Hypothesis",
+      "target_node_name": "Drift Model Analysis",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:18.996781",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "4354a82a-ddb": {
+      "uuid": "4354a82a-ddb",
+      "name": "PARTICIPATED_IN",
+      "fact": "Dr. Griffin participated in conducting the drift experiment.",
+      "source_node_uuid": "310dd17d-8be",
+      "target_node_uuid": "3afee7ad-2cd",
+      "source_node_name": "Dr. Griffin",
+      "target_node_name": "Drift Experiment",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.018768",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "3be3dbd1-24b": {
+      "uuid": "3be3dbd1-24b",
+      "name": "OWNED_BY",
+      "fact": "The replicated debris is owned by Boeing, as it was obtained from them.",
+      "source_node_uuid": "f9ba1275-c9a",
+      "target_node_uuid": "d67d99e5-bc4",
+      "source_node_name": "Replicated Debris",
+      "target_node_name": "Boeing",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.040303",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "43e1d72c-5da": {
+      "uuid": "43e1d72c-5da",
+      "name": "SUPPORTED_BY",
+      "fact": "The discovery pattern of MH370 debris is supported by the drift trajectory of the replicated debris.",
+      "source_node_uuid": "e86c0050-42f",
+      "target_node_uuid": "f9ba1275-c9a",
+      "source_node_name": "MH370 Debris",
+      "target_node_name": "Replicated Debris",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.064287",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "187cf35a-0be": {
+      "uuid": "187cf35a-0be",
+      "name": "REPORTED_BY",
+      "fact": "The Malaysia final report is reported by the Malaysian Aircraft Accident Investigation Team.",
+      "source_node_uuid": "004a70ed-ad1",
+      "target_node_uuid": "a9ce8dc9-360",
+      "source_node_name": "Malaysia Final Report",
+      "target_node_name": "Malaysian Aircraft Accident Investigation Team",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.086273",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "a4d4a52b-eb3": {
+      "uuid": "a4d4a52b-eb3",
+      "name": "SUPPORTED_BY",
+      "fact": "The event of human-controlled yaw is supported by the Malaysia final report.",
+      "source_node_uuid": "eea954b9-db4",
+      "target_node_uuid": "004a70ed-ad1",
+      "source_node_name": "Human-Controlled Yaw",
+      "target_node_name": "Malaysia Final Report",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.109259",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "8962b5f5-f92": {
+      "uuid": "8962b5f5-f92",
+      "name": "SUPPORTED_BY",
+      "fact": "The evidence of no pilot anomalies is supported by the Malaysia final report.",
+      "source_node_uuid": "ac3bc3c3-e8d",
+      "target_node_uuid": "004a70ed-ad1",
+      "source_node_name": "Pilot No Anomaly Evidence",
+      "target_node_name": "Malaysia Final Report",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T21:38:19.134243",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}

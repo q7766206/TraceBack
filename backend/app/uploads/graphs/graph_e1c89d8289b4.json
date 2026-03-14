@@ -1,0 +1,263 @@
+{
+  "nodes": {
+    "0af76f85-449": {
+      "uuid": "0af76f85-449",
+      "name": "陆兆福",
+      "labels": [
+        "Person"
+      ],
+      "summary": "马来西亚交通部长",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "关键个体，表示原则上同意恢复对马航MH370航班的搜索工作。"
+      },
+      "created_at": "2026-03-10T18:46:58.888214",
+      "updated_at": "2026-03-10T18:46:58.888214"
+    },
+    "3e1c423f-fea": {
+      "uuid": "3e1c423f-fea",
+      "name": "马来西亚内阁",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "马来西亚政府内阁",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "在2024年12月13日的会议上同意海洋无限公司展开搜索工作。"
+      },
+      "created_at": "2026-03-10T18:46:58.890213",
+      "updated_at": "2026-03-10T18:46:58.890213"
+    },
+    "ce3c90cc-9bc": {
+      "uuid": "ce3c90cc-9bc",
+      "name": "海洋无限",
+      "labels": [
+        "Organization"
+      ],
+      "summary": "水下探测公司",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "被同意在南太平洋水域执行搜索工作。"
+      },
+      "created_at": "2026-03-10T18:46:58.892212",
+      "updated_at": "2026-03-10T18:46:58.892212"
+    },
+    "d0d5bf45-96d": {
+      "uuid": "d0d5bf45-96d",
+      "name": "马航MH370航班",
+      "labels": [
+        "Flight"
+      ],
+      "summary": "马来西亚航空MH370航班",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "搜索工作针对的航班。"
+      },
+      "created_at": "2026-03-10T18:46:58.893211",
+      "updated_at": "2026-03-10T18:46:58.893211"
+    },
+    "829b87a2-dd3": {
+      "uuid": "829b87a2-dd3",
+      "name": "搜索工作",
+      "labels": [
+        "SearchOperation"
+      ],
+      "summary": "对马航MH370航班的搜索操作",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "由海洋无限公司在南太平洋水域以无发现无收费原则展开的搜索操作。"
+      },
+      "created_at": "2026-03-10T18:46:58.895210",
+      "updated_at": "2026-03-10T18:46:58.895210"
+    },
+    "f41d7416-f20": {
+      "uuid": "f41d7416-f20",
+      "name": "南太平洋水域",
+      "labels": [
+        "Location"
+      ],
+      "summary": "南太平洋一处1.5万平方公里面积的水域",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "搜索工作的地理位置。"
+      },
+      "created_at": "2026-03-10T18:46:58.897209",
+      "updated_at": "2026-03-10T18:46:58.897209"
+    },
+    "7240a089-366": {
+      "uuid": "7240a089-366",
+      "name": "无发现无收费合同",
+      "labels": [
+        "Contract"
+      ],
+      "summary": "无发现无收费原则的合同",
+      "attributes": {
+        "timestamp": null,
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "搜索工作的协议原则，无发现则不收费。"
+      },
+      "created_at": "2026-03-10T18:46:58.899208",
+      "updated_at": "2026-03-10T18:46:58.899208"
+    },
+    "18ae8aa2-955": {
+      "uuid": "18ae8aa2-955",
+      "name": "内阁会议事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "马来西亚内阁2024年12月13日的会议",
+      "attributes": {
+        "timestamp": "2024-12-13",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "会议上同意海洋无限公司展开搜索工作。"
+      },
+      "created_at": "2026-03-10T18:46:58.901209",
+      "updated_at": "2026-03-10T18:46:58.901209"
+    },
+    "05ba338a-202": {
+      "uuid": "05ba338a-202",
+      "name": "同意恢复搜索事件",
+      "labels": [
+        "Event"
+      ],
+      "summary": "陆兆福2024年12月20日同意恢复搜索",
+      "attributes": {
+        "timestamp": "2024-12-20",
+        "credibility_score": "0.7",
+        "source": "文本",
+        "description": "马来西亚交通部长原则上同意恢复对马航MH370航班的搜索工作。"
+      },
+      "created_at": "2026-03-10T18:46:58.904207",
+      "updated_at": "2026-03-10T18:46:58.904207"
+    }
+  },
+  "edges": {
+    "4fa28472-4a4": {
+      "uuid": "4fa28472-4a4",
+      "name": "REPORTED_BY",
+      "fact": "同意恢复搜索事件由陆兆福报告。",
+      "source_node_uuid": "05ba338a-202",
+      "target_node_uuid": "0af76f85-449",
+      "source_node_name": "同意恢复搜索事件",
+      "target_node_name": "陆兆福",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.908203",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "0c664651-67a": {
+      "uuid": "0c664651-67a",
+      "name": "APPROVED_BY",
+      "fact": "搜索工作由马来西亚内阁批准。",
+      "source_node_uuid": "829b87a2-dd3",
+      "target_node_uuid": "3e1c423f-fea",
+      "source_node_name": "搜索工作",
+      "target_node_name": "马来西亚内阁",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.912200",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "9f878ea1-d93": {
+      "uuid": "9f878ea1-d93",
+      "name": "PARTICIPATED_IN",
+      "fact": "海洋无限参与搜索工作。",
+      "source_node_uuid": "ce3c90cc-9bc",
+      "target_node_uuid": "829b87a2-dd3",
+      "source_node_name": "海洋无限",
+      "target_node_name": "搜索工作",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.915198",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "23083a18-811": {
+      "uuid": "23083a18-811",
+      "name": "LOCATED_AT",
+      "fact": "搜索工作位于南太平洋水域。",
+      "source_node_uuid": "829b87a2-dd3",
+      "target_node_uuid": "f41d7416-f20",
+      "source_node_name": "搜索工作",
+      "target_node_name": "南太平洋水域",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.917197",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "080f2544-1ef": {
+      "uuid": "080f2544-1ef",
+      "name": "SUPPORTED_BY",
+      "fact": "搜索工作由无发现无收费合同支持。",
+      "source_node_uuid": "829b87a2-dd3",
+      "target_node_uuid": "7240a089-366",
+      "source_node_name": "搜索工作",
+      "target_node_name": "无发现无收费合同",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.919195",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "01b33f36-473": {
+      "uuid": "01b33f36-473",
+      "name": "PRECEDED_BY",
+      "fact": "同意恢复搜索事件发生在内阁会议事件之后。",
+      "source_node_uuid": "05ba338a-202",
+      "target_node_uuid": "18ae8aa2-955",
+      "source_node_name": "同意恢复搜索事件",
+      "target_node_name": "内阁会议事件",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.922193",
+      "valid_at": "",
+      "invalid_at": ""
+    },
+    "983f60d6-614": {
+      "uuid": "983f60d6-614",
+      "name": "CORRELATED_WITH",
+      "fact": "搜索工作针对马航MH370航班。",
+      "source_node_uuid": "829b87a2-dd3",
+      "target_node_uuid": "d0d5bf45-96d",
+      "source_node_name": "搜索工作",
+      "target_node_name": "马航MH370航班",
+      "attributes": {
+        "confidence": "0.8",
+        "causal_strength": "0.7"
+      },
+      "created_at": "2026-03-10T18:46:58.924192",
+      "valid_at": "",
+      "invalid_at": ""
+    }
+  },
+  "metadata": {}
+}
