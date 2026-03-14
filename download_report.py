@@ -17,13 +17,13 @@ for rpt in reports:
     data = r2.json().get("data", {})
     
     if data.get("status") == "completed":
-        out_path = os.path.join(r"D:\阶跃", f"{rid}_report.json")
+        out_path = os.path.join(os.getcwd(), f"{rid}_report.json")
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"  已保存: {out_path}", flush=True)
 
         # 也导出为可读的 Markdown
-        md_path = os.path.join(r"D:\阶跃", f"{rid}_report.md")
+        md_path = os.path.join(os.getcwd(), f"{rid}_report.md")
         outline = data.get("outline", {})
         sections = data.get("sections", {})
         with open(md_path, "w", encoding="utf-8") as f:
