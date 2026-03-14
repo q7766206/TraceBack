@@ -15,7 +15,7 @@
 
 **TraceBack（溯·源）** 是一款基于多智能体技术的因果回溯分析引擎。输入一个事件或问题，TraceBack 会自动调度 7 个专业 AI Agent 协作完成数据采集、时间线重建、因果推理、证据审计、质证辩论，最终输出带有完整证据链和置信度评估的回溯分析报告。
 
-> BettaFish/MiroFish 预测未来，TraceBack 回溯过去 —— 同一套多 Agent 架构的两面。
+> 输入一个事件，TraceBack 会自动调度专业 AI Agent 协作完成因果回溯分析。
 
 ## 🎯 核心能力
 
@@ -79,7 +79,3 @@ cd frontend && npm run dev
 - **前端**：Vue 3 + Vite + D3.js
 - **知识图谱**：Zep Cloud（免费额度即可使用）
 - **LLM**：支持任意 OpenAI 格式 API（推荐 qwen-plus / GPT-4o / DeepSeek-R1）
-
-## 📬 致谢
-
-本项目架构灵感来源于 [MiroFish](https://github.com/666ghj/MiroFish) 和 [BettaFish](https://github.com/666ghj/BettaFish)，感谢 666ghj 的开源贡献。
