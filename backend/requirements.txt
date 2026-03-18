@@ -1,0 +1,36 @@
+# ===========================================
+# TraceBack 溯·源 Backend Dependencies
+# ===========================================
+# Python 3.11+ required
+# Install: pip install -r requirements.txt
+# ===========================================
+
+# ============= 核心框架 =============
+flask>=3.0.0
+flask-cors>=6.0.0
+
+# ============= LLM 相关 =============
+openai>=1.0.0
+
+# ============= 知识图谱 =============
+# Zep Cloud（加速图谱构建）
+zep-cloud>=2.0.0
+
+# ============= 搜索引擎 =============
+# DuckDuckGo（默认，免费无需API Key）
+duckduckgo-search>=7.0.0
+# HTTP请求（Serper/Bocha备用搜索引擎需要）
+requests>=2.31.0
+
+# ============= 文件处理 =============
+PyMuPDF>=1.24.0
+python-docx>=1.0.0
+charset-normalizer>=3.0.0
+chardet>=5.0.0
+
+# ============= 桌面应用 =============
+pywebview>=4.0.0
+
+# ============= 工具库 =============
+python-dotenv>=1.0.0
+pydantic>=2.0.0

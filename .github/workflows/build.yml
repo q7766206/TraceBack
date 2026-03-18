@@ -1,0 +1,128 @@
+name: Build Cross-Platform Desktop App
+
+on:
+  push:
+    branches: [ main, master ]
+    tags:
+      - 'v*'
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install frontend dependencies
+      run: |
+        cd frontend
+        npm ci
+
+    - name: Build frontend
+      run: |
+        cd frontend
+        npm run build
+
+    - name: Install Python dependencies
+      run: |
+        cd backend
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Build Windows executable
+      run: |
+        cd backend
+        pyinstaller TraceBackDesktop.spec
+
+    - name: Package Windows app
+      run: |
+        cd backend/dist
+        7z a ../../TraceBackDesktop-Windows.zip TraceBackDesktop
+
+    - name: Upload Windows artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: TraceBackDesktop-Windows
+        path: |
+          backend/dist/TraceBackDesktop/
+          TraceBackDesktop-Windows.zip
+
+  build-macos:
+    runs-on: macos-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install frontend dependencies
+      run: |
+        cd frontend
+        npm ci
+
+    - name: Build frontend
+      run: |
+        cd frontend
+        npm run build
+
+    - name: Install Python dependencies
+      run: |
+        cd backend
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Build macOS app
+      run: |
+        cd backend
+        pyinstaller TraceBackDesktop_macos.spec
+
+    - name: Package macOS app
+      run: |
+        cd backend/dist
+        zip -r ../../TraceBackDesktop-macOS.zip TraceBackDesktop.app
+
+    - name: Upload macOS artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: TraceBackDesktop-macOS
+        path: |
+          backend/dist/TraceBackDesktop.app
+          TraceBackDesktop-macOS.zip
+
+  release:
+    needs: [build-windows, build-macos]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+    - name: Download all artifacts
+      uses: actions/download-artifact@v4
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          TraceBackDesktop-Windows/TraceBackDesktop-Windows.zip
+          TraceBackDesktop-macOS/TraceBackDesktop-macOS.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

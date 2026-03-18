@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B3A5C"/>
+      <stop offset="100%" style="stop-color:#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2E86AB"/>
+      <stop offset="100%" style="stop-color:#E8963E"/>
+    </linearGradient>
+  </defs>
+  <!-- 背景圆角矩形 -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- 回溯箭头（逆时针） -->
+  <path d="M256 120 C170 120 100 190 100 276 C100 362 170 432 256 432 C320 432 375 395 398 342" 
+        fill="none" stroke="url(#accent)" stroke-width="36" stroke-linecap="round"/>
+  <!-- 箭头头部 -->
+  <polygon points="380,300 420,350 360,350" fill="#E8963E" transform="rotate(-15, 398, 342)"/>
+  <!-- 中心放大镜 -->
+  <circle cx="270" cy="260" r="60" fill="none" stroke="#2E86AB" stroke-width="24"/>
+  <line x1="310" y1="300" x2="360" y2="350" stroke="#2E86AB" stroke-width="24" stroke-linecap="round"/>
+  <!-- 中心因果节点 -->
+  <circle cx="270" cy="260" r="16" fill="#E8963E"/>
+  <circle cx="240" cy="230" r="8" fill="#2E86AB"/>
+  <circle cx="300" cy="240" r="8" fill="#2E86AB"/>
+  <circle cx="260" cy="290" r="8" fill="#2E86AB"/>
+  <!-- 因果连线 -->
+  <line x1="248" y1="234" x2="264" y2="254" stroke="#2E86AB" stroke-width="3" opacity="0.7"/>
+  <line x1="294" y1="244" x2="278" y2="256" stroke="#2E86AB" stroke-width="3" opacity="0.7"/>
+  <line x1="264" y1="286" x2="268" y2="268" stroke="#2E86AB" stroke-width="3" opacity="0.7"/>
+</svg>
